@@ -1426,23 +1426,13 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1100-1150",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
@@ -1451,23 +1441,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1493,23 +1473,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1545,33 +1515,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1400-1450",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1400-1450",
@@ -1580,33 +1535,18 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1500-1550",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1500-1550",
@@ -1615,33 +1555,18 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1600-1650",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1600-1650",
@@ -1723,23 +1648,13 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1100-1150",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
@@ -1748,23 +1663,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1790,23 +1695,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1847,33 +1742,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1400-1450",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1400-1450",
@@ -1882,33 +1762,18 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1500-1550",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1500-1550",
@@ -1917,33 +1782,18 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1600-1650",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1600-1650",
@@ -2020,23 +1870,13 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1100-1150",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
@@ -2045,23 +1885,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -2092,23 +1922,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -2154,33 +1974,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1400-1450",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1400-1450",
@@ -2189,33 +1994,18 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1500-1550",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1500-1550",
@@ -2224,33 +2014,18 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1600-1650",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1600-1650",
@@ -2312,23 +2087,13 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1100-1150",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
@@ -2337,23 +2102,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -2394,23 +2149,13 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks",
-              "room": "1x"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-19-IAEC)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Power Electronics",
-              "room": "1x"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(CR-20-IAEC)/",
-              "room": null
+              "course": "Power Electronics (1x)",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -2451,33 +2196,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1400-1450",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1400-1450",
@@ -2486,33 +2216,18 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1500-1550",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1500-1550",
@@ -2521,33 +2236,18 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "Lab"
+              "course": "Computer and Communication Networks (1x) (Lab)",
+              "room": "Computing Lab-04"
             },
             {
               "time": "1600-1650",
-              "course": "(Computing Lab-04)/",
-              "room": null
+              "course": "Power Electronics (1x) (Lab)",
+              "room": "EMS Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(EMS Lab)/",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Digital System Design (Gp-01)",
-              "room": "Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(DSP & Comm Lab)/",
-              "room": null
+              "course": "Digital System Design (Gp-01) (Lab)",
+              "room": "DSP & Comm Lab"
             },
             {
               "time": "1600-1650",
@@ -7644,7 +7344,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus/",
+              "course": "Multivariable Calculus",
               "room": null
             },
             {
@@ -7730,42 +7430,27 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Calculus & Analytical Geometry",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
-              "course": "(PM)",
+              "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
-              "course": "Multivariable Calculus/",
+              "course": "Multivariable Calculus",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Discrete Mathematics",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "(PM)",
+              "course": "Discrete Mathematics (PM)",
               "room": "CR-27-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus/",
+              "course": "Multivariable Calculus",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "(PM)",
+              "course": "Discrete Mathematics (PM)",
               "room": "CR-27-Acad Block"
             },
             {
@@ -8139,21 +7824,11 @@
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "(CR-14-UG Block)/",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "Discrete Mathematics",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "(PM)",
+              "course": "Discrete Mathematics (PM)",
               "room": "CR-02-UG Block"
             },
             {
@@ -8229,32 +7904,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Multivariable Calculus/",
+              "course": "Multivariable Calculus",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Discrete Mathematics",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "(PM)",
+              "course": "Discrete Mathematics (PM)",
               "room": "CR-27-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus/",
+              "course": "Multivariable Calculus",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
-              "course": "(PM)",
+              "course": "Discrete Mathematics (PM)",
               "room": "CR-27-Acad Block"
             },
             {
