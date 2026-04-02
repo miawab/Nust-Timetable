@@ -1,1 +1,14 @@
 node_modules
+
+# Next.js build output and cache
+.next/
+out/
+
+# Build and tool caches
+dist/
+coverage/
+*.log
+
+# Local env files
+.env*
+!.env.example
