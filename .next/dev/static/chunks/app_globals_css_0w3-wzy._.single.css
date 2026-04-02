@@ -64,9 +64,7 @@
     --color-red-300: #ffa3a3;
     --color-red-400: #ff6568;
     --color-red-600: #e40014;
-    --color-gray-50: #f9fafb;
     --color-gray-100: #f3f4f6;
-    --color-gray-200: #e5e7eb;
     --color-gray-300: #d1d5dc;
     --color-gray-400: #99a1af;
     --color-gray-500: #6a7282;
@@ -113,9 +111,7 @@
       --color-red-300: lab(76.5514% 36.422 15.5335);
       --color-red-400: lab(63.7053% 60.745 31.3109);
       --color-red-600: lab(48.4493% 77.4328 61.5452);
-      --color-gray-50: lab(98.2596% -.247031 -.706708);
       --color-gray-100: lab(96.1596% -.0823438 -1.13575);
-      --color-gray-200: lab(91.6229% -.159115 -2.26791);
       --color-gray-300: lab(85.1236% -.612259 -3.7138);
       --color-gray-400: lab(65.9269% -.832707 -8.17473);
       --color-gray-500: lab(47.7841% -.393182 -10.0268);
@@ -1515,10 +1511,6 @@
     border-color: var(--destructive);
   }
 
-  .border-gray-200 {
-    border-color: var(--color-gray-200);
-  }
-
   .border-gray-300 {
     border-color: var(--color-gray-300);
   }
@@ -1583,10 +1575,6 @@
 
   .bg-foreground {
     background-color: var(--foreground);
-  }
-
-  .bg-gray-50 {
-    background-color: var(--color-gray-50);
   }
 
   .bg-input {
