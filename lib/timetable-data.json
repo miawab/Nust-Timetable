@@ -21,7 +21,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-10-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
@@ -53,12 +53,12 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
@@ -95,18 +95,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             }
           ],
           "Thursday": [
@@ -139,37 +139,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             }
           ]
@@ -193,7 +193,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-10-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
@@ -225,12 +225,12 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
@@ -267,18 +267,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             }
           ],
           "Thursday": [
@@ -311,37 +311,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             }
           ]
@@ -365,7 +365,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-10-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
@@ -387,12 +387,12 @@
           "Tuesday": [
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
@@ -434,18 +434,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             }
           ],
           "Thursday": [
@@ -483,37 +483,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             }
           ]
@@ -537,7 +537,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-10-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
@@ -569,12 +569,12 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (1x) (CR-08-UG Block) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
@@ -611,18 +611,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (1x-Lab)",
-              "room": "Computing Lab-03"
+              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "room": "Computing Lab-02"
             }
           ],
           "Thursday": [
@@ -655,37 +655,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Design Project-II",
+              "course": "FYDP-II",
               "room": null
             }
           ]
@@ -1361,6 +1361,11 @@
         "D": {
           "Monday": [
             {
+              "time": "1000-1050",
+              "course": "Digital Signal Processing",
+              "room": "Lecture Hall-IAEC"
+            },
+            {
               "time": "1100-1150",
               "course": "Computer and Communication Networks (1x)",
               "room": "CR-19-IAEC"
@@ -1532,6 +1537,11 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Numerical Methods",
+              "room": null
+            },
+            {
               "time": "1000-1050",
               "course": "Communication Systems (Lab)",
               "room": "DSP & Comm Lab"
@@ -1545,16 +1555,6 @@
               "time": "1200-1250",
               "course": "Communication Systems (Lab)",
               "room": "DSP & Comm Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Numerical Methods",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital Signal Processing",
-              "room": null
             }
           ],
           "Friday": [
@@ -2294,12 +2294,12 @@
               "room": null
             },
             {
-              "time": "1500-1550",
+              "time": "1400-1450",
               "course": "Computer Programming",
               "room": "CR-10-UG Block"
             },
             {
-              "time": "1600-1650",
+              "time": "1500-1550",
               "course": "Computer Programming",
               "room": "CR-10-UG Block"
             }
@@ -2636,9 +2636,19 @@
               "time": "1500-1550",
               "course": "Logic and Sequential Circuit Design",
               "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Logic and Sequential Circuit Design",
+              "room": null
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Logic and Sequential Circuit Design",
+              "room": null
+            },
             {
               "time": "1000-1050",
               "course": "Electrical Network Analysis",
@@ -2652,16 +2662,6 @@
             {
               "time": "1200-1250",
               "course": "Linear Algebra & ODEs",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Logic and Sequential Circuit Design",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Logic and Sequential Circuit Design",
               "room": null
             }
           ],
@@ -2913,37 +2913,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             }
           ]
@@ -3095,37 +3095,37 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYPD-II",
               "room": null
             }
           ]
@@ -3233,24 +3233,24 @@
           ],
           "Friday": [
             {
+              "time": "0900-0950",
+              "course": "Human Computer Interaction (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Human Computer Interaction (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
               "time": "1100-1150",
+              "course": "Human Computer Interaction (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1200-1250",
               "course": "Software Quality Engineering",
               "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Human Computer Interaction (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Human Computer Interaction (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Human Computer Interaction (Lab)",
-              "room": "Computing Lab-12"
             }
           ]
         },
@@ -3355,24 +3355,24 @@
           ],
           "Friday": [
             {
-              "time": "0900-0950",
-              "course": "Human Computer Interaction (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Human Computer Interaction (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
               "time": "1100-1150",
+              "course": "Software Quality Engineering",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1400-1450",
               "course": "Human Computer Interaction (Lab)",
               "room": "Computing Lab-12"
             },
             {
-              "time": "1200-1250",
-              "course": "Software Quality Engineering",
-              "room": null
+              "time": "1500-1550",
+              "course": "Human Computer Interaction (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Human Computer Interaction (Lab)",
+              "room": "Computing Lab-12"
             }
           ]
         }
@@ -3485,17 +3485,17 @@
           "Friday": [
             {
               "time": "1000-1050",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             },
             {
               "time": "1100-1150",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             },
             {
               "time": "1200-1250",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             }
           ]
@@ -3595,7 +3595,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Operating System",
+              "course": "Operating Systems",
               "room": null
             },
             {
@@ -3607,17 +3607,17 @@
           "Friday": [
             {
               "time": "1400-1450",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             },
             {
               "time": "1500-1550",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             },
             {
               "time": "1600-1650",
-              "course": "Operating System (Lab)",
+              "course": "Operating Systems (Lab)",
               "room": "Computing Lab-04"
             }
           ]
@@ -3906,74 +3906,74 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
@@ -4048,74 +4048,74 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
@@ -4189,69 +4189,84 @@
         "C": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "FYP-II",
+              "room": null
+            },
+            {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "FYP-II",
+              "room": null
+            },
+            {
               "time": "1000-1050",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Final Year Project - II",
+              "course": "FYP-II",
               "room": null
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Engineering Economics",
+              "room": null
+            },
             {
               "time": "1000-1050",
               "course": "Principles of Sociology",
@@ -4291,6 +4306,11 @@
             }
           ],
           "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Engineering Economics",
+              "room": "CR-08-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Principles of Sociology",
@@ -5268,6 +5288,11 @@
           ],
           "Friday": [
             {
+              "time": "0900-0950",
+              "course": "Expository Writing",
+              "room": null
+            },
+            {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems (Lab)",
               "room": "Computing Lab-06"
@@ -5281,17 +5306,17 @@
               "time": "1200-1250",
               "course": "Advanced Database Management Systems (Lab)",
               "room": "Computing Lab-06"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Expository Writing",
-              "room": null
             }
           ]
         },
         "B": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Theory of Automata",
+              "room": null
+            },
+            {
               "time": "1000-1050",
               "course": "Web Technologies (Lab)",
               "room": "Computing Lab-06"
@@ -5305,11 +5330,6 @@
               "time": "1200-1250",
               "course": "Web Technologies (Lab)",
               "room": "Computing Lab-06"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Theory of Automata",
-              "room": null
             }
           ],
           "Tuesday": [
@@ -5434,19 +5454,19 @@
         "C": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Web Technologies",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Web Technologies",
+              "room": "CR-18-IAEC"
+            },
+            {
               "time": "1100-1150",
               "course": "Theory of Automata",
-              "room": "CR-17-IAEC"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Web Technologies",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
-              "course": "Web Technologies",
-              "room": null
+              "room": "CR-18-IAEC"
             }
           ],
           "Tuesday": [
@@ -5675,14 +5695,14 @@
               "time": "1200-1250",
               "course": "Expository Writing",
               "room": "CR-18-IAEC"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Applied Physics",
-              "room": null
             }
           ],
           "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Applied Physics",
+              "room": null
+            },
             {
               "time": "1000-1050",
               "course": "Expository Writing",
@@ -5806,13 +5826,18 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Database Systems",
+              "room": "CR-03-UG Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Database Systems",
               "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
-              "course": "Database Systems",
+              "course": "Linear Algebra",
               "room": "CR-03-UG Block"
             },
             {
@@ -5827,11 +5852,6 @@
             }
           ],
           "Friday": [
-            {
-              "time": "1000-1050",
-              "course": "Linear Algebra",
-              "room": null
-            },
             {
               "time": "1100-1150",
               "course": "Database Systems",
@@ -5926,13 +5946,8 @@
           ],
           "Wednesday": [
             {
-              "time": "1000-1050",
-              "course": "Multivariable Calculus",
-              "room": "CR-11-UG Block"
-            },
-            {
               "time": "1100-1150",
-              "course": "Linear Algebra",
+              "course": "Multivariable Calculus",
               "room": "CR-11-UG Block"
             },
             {
@@ -5953,11 +5968,6 @@
           ],
           "Thursday": [
             {
-              "time": "0900-0950",
-              "course": "Linear Algebra",
-              "room": "CR-10-UG Block"
-            },
-            {
               "time": "1100-1150",
               "course": "Digital Logic Design",
               "room": null
@@ -5965,6 +5975,16 @@
             {
               "time": "1400-1450",
               "course": "Database Systems",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Linear Algebra",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Linear Algebra",
               "room": null
             }
           ],
@@ -6068,14 +6088,9 @@
               "room": null
             },
             {
-              "time": "1100-1150",
-              "course": "Multivariable Calculus",
-              "room": null
-            },
-            {
               "time": "1200-1250",
-              "course": "Linear Algebra",
-              "room": null
+              "course": "Multivariable Calculus",
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1400-1450",
@@ -6122,11 +6137,6 @@
           ],
           "Friday": [
             {
-              "time": "0900-0950",
-              "course": "Linear Algebra",
-              "room": null
-            },
-            {
               "time": "1000-1050",
               "course": "Digital Logic Design",
               "room": null
@@ -6139,6 +6149,16 @@
             {
               "time": "1200-1250",
               "course": "Database Systems",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Linear Algebra",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Linear Algebra",
               "room": null
             }
           ]
@@ -6210,17 +6230,22 @@
           ],
           "Wednesday": [
             {
-              "time": "1400-1450",
+              "time": "1100-1150",
               "course": "Linear Algebra",
               "room": null
             },
             {
-              "time": "1500-1550",
+              "time": "1200-1250",
+              "course": "Linear Algebra",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
               "course": "Database Systems",
               "room": null
             },
             {
-              "time": "1600-1650",
+              "time": "1500-1550",
               "course": "Database Systems",
               "room": null
             }
@@ -6277,11 +6302,6 @@
               "time": "1200-1250",
               "course": "Multivariable Calculus",
               "room": "CR-06-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Linear Algebra",
-              "room": null
             }
           ]
         },
@@ -6315,6 +6335,16 @@
             {
               "time": "1400-1450",
               "course": "Object Oriented Programming",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Linear Algebra",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Linear Algebra",
               "room": null
             }
           ],
@@ -6379,13 +6409,18 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Calculus & Analytical Geometry  (PM)",
+              "room": "CR-06-UG Block"
+            },
+            {
               "time": "1100-1150",
               "course": "Multivariable Calculus",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Discrete Mathematics (PM)",
+              "course": "Discrete Mathematics  (PM)",
               "room": "CR-27-Acad Block"
             },
             {
@@ -6395,7 +6430,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics (PM)",
+              "course": "Discrete Mathematics  (PM)",
               "room": "CR-27-Acad Block"
             },
             {
@@ -6412,31 +6447,16 @@
               "time": "1600-1650",
               "course": "Linear Algebra",
               "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Calculus & Analytical Geometry (PM)",
-              "room": "CR-02-UG Block"
             }
           ],
           "Friday": [
             {
-              "time": "1100-1150",
-              "course": "Linear Algebra",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
+              "time": "1000-1050",
               "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
             },
             {
-              "time": "1200-1250",
-              "course": "Linear Algebra",
-              "room": null
-            },
-            {
-              "time": "1200-1250",
+              "time": "1100-1150",
               "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
             },
@@ -6741,7 +6761,7 @@
             {
               "time": "1400-1450",
               "course": "Applied Physics",
-              "room": "CR-10-UG Block"
+              "room": "CR-14-UG Block"
             }
           ],
           "Friday": [
@@ -6767,13 +6787,28 @@
         "A": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
               "room": "CR-14-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics (PM)",
+              "course": "Discrete Mathematics  (PM)",
               "room": "CR-02-UG Block"
             },
             {
@@ -6807,21 +6842,6 @@
               "time": "1200-1250",
               "course": "Database Systems",
               "room": null
-            },
-            {
-              "time": "1400-1450",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-01"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-01"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-01"
             }
           ],
           "Wednesday": [
@@ -6859,8 +6879,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Linear Algebra",
-              "room": null
+              "course": "Calculus & Analytical Geometry (PM)",
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
@@ -6894,30 +6914,25 @@
             },
             {
               "time": "1600-1650",
-              "course": "Calculus & Analytical Geometry  (PM)",
-              "room": "CR-02-UG Block"
+              "course": "Linear Algebra",
+              "room": null
             }
           ],
           "Friday": [
             {
               "time": "1000-1050",
-              "course": "Linear Algebra",
-              "room": null
+              "course": "Calculus & Analytical Geometry (PM)",
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1100-1150",
-              "course": "Linear Algebra",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
-              "course": "Calculus & Analytical Geometry  (PM)",
+              "course": "Linear Algebra (CR-04-UG Block) Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Calculus & Analytical Geometry  (PM)",
-              "room": "CR-11-UG Block"
+              "course": "Linear Algebra",
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1400-1450",
