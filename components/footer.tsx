@@ -9,7 +9,7 @@ export default function Footer() {
           <span className="text-sm text-gray-600">Made by Ibrahim Awab</span>
           <div className="flex gap-4">
             <Link
-              href="https://linkedin.com/in/ibrahim-awab"
+              href="https://www.linkedin.com/in/ibrahim-awab-743a2a325/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -18,7 +18,7 @@ export default function Footer() {
               <Linkedin size={18} />
             </Link>
             <Link
-              href="https://instagram.com/ibrahim.awab"
+              href="https://www.instagram.com/miawab/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"
@@ -27,7 +27,7 @@ export default function Footer() {
               <Instagram size={18} />
             </Link>
             <Link
-              href="https://github.com/ibrahim-awab"
+              href="https://github.com/miawab"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
