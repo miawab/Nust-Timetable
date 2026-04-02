@@ -2046,6 +2046,566 @@
           ],
           "Friday": []
         }
+      },
+      "1 - Freshman": {
+        "A": {
+          "Monday": [
+            {
+              "time": "1100-1150",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Student Advisory Session",
+              "room": null
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1000-1050",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Electrical Network Analysis",
+              "room": null
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Differential Equations",
+              "room": null
+            }
+          ],
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Computer Programming",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Differential Equations",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Understanding of Quran II",
+              "room": null
+            }
+          ]
+        },
+        "B": {
+          "Monday": [
+            {
+              "time": "1000-1050",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Electrical Network Analysis",
+              "room": null
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "1000-1050",
+              "course": "Islamic Studies",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Electrical Network Analysis",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Differential Equations",
+              "room": "CR-13-UG Block"
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computer Programming",
+              "room": "CR-10-UG Block"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Differential Equations",
+              "room": null
+            }
+          ]
+        },
+        "C": {
+          "Monday": [
+            {
+              "time": "1100-1150",
+              "course": "Computer Programming",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Student Advisory Session",
+              "room": null
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Understanding of Quran II",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            }
+          ],
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Electrical Network Analysis",
+              "room": null
+            }
+          ]
+        },
+        "D": {
+          "Monday": [
+            {
+              "time": "1000-1050",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Electrical Network Analysis (Lab)",
+              "room": "Basic Electronics Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Differential Equations",
+              "room": null
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Electrical Network Analysis",
+              "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Electrical Network Analysis",
+              "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Differential Equations",
+              "room": "CR-09-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Programming",
+              "room": "CR-19-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming",
+              "room": "CR-19-IAEC"
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Electrical Network Analysis",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Islamic Studies",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Differential Equations",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": null
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Workshop Practice (Lab)",
+              "room": "MRC Lab 02- SMME"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Understanding of Quran II",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Understanding of Quran II",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Understanding of Quran II",
+              "room": "CR-11-UG Block"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "1200-1250",
+              "course": "Computer Programming",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computer Programming (Lab)",
+              "room": "Computing Lab-07"
+            }
+          ]
+        }
       }
     },
     "BCE": {
@@ -3059,6 +3619,282 @@
               "time": "1600-1650",
               "course": "Operating System (Lab)",
               "room": "Computing Lab-04"
+            }
+          ]
+        }
+      },
+      "1 - Freshman": {
+        "A": {
+          "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Architecture & Logic Design",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Architecture & Logic Design",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Student Advisory Session",
+              "room": null
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Discrete Mathematics",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Discrete Mathematics",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Understanding of Quran-II",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Understanding of Quran-II",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Understanding of Quran-II",
+              "room": null
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Computer Architecture & Logic Design",
+              "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Object Oriented Programming",
+              "room": null
+            }
+          ],
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Discrete Mathematics",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Object Oriented Programming",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Object Oriented Programming",
+              "room": null
+            }
+          ]
+        },
+        "B": {
+          "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Architecture & Logic Design",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Object Oriented Programming",
+              "room": null
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "1000-1050",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Architecture & Logic Design",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Architecture & Logic Design",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Student Advisory Session",
+              "room": null
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1100-1150",
+              "course": "Functional English",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Linear Algebra and ODEs",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Object Oriented Programming",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Object Oriented Programming",
+              "room": null
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "1000-1050",
+              "course": "Discrete Mathematics",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Discrete Mathematics",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computer Architecture & Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Discrete Mathematics",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Understanding of Quran-II",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Understanding of Quran-II",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Understanding of Quran-II",
+              "room": null
             }
           ]
         }
