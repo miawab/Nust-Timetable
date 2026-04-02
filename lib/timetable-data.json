@@ -6,12 +6,22 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
@@ -21,22 +31,72 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             }
           ],
@@ -53,27 +113,102 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-01) (CR-12-UG Block) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             }
           ],
@@ -90,22 +225,67 @@
             },
             {
               "time": "1200-1250",
-              "course": "Robotics-1 (Gp-02) (CR-13-UG Block) Power Systems Protection (1x) (CR-05-UG Block) Digital Design Verification (1x) (CR-11-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             }
           ],
@@ -178,12 +358,22 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
@@ -193,22 +383,72 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             }
           ],
@@ -225,27 +465,102 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-01) (CR-12-UG Block) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             }
           ],
@@ -262,22 +577,67 @@
             },
             {
               "time": "1200-1250",
-              "course": "Robotics-1 (Gp-02) (CR-13-UG Block) Power Systems Protection (1x) (CR-05-UG Block) Digital Design Verification (1x) (CR-11-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             }
           ],
@@ -350,12 +710,22 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
@@ -365,49 +735,174 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             }
           ],
           "Tuesday": [
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-01) (CR-12-UG Block) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             }
           ],
@@ -429,22 +924,67 @@
             },
             {
               "time": "1200-1250",
-              "course": "Robotics-1 (Gp-02) (CR-13-UG Block) Power Systems Protection (1x) (CR-05-UG Block) Digital Design Verification (1x) (CR-11-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             }
           ],
@@ -522,12 +1062,22 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "Robotics-1 (Gp-01) (Computing Lab-07) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-12-UG Block"
             },
             {
@@ -537,22 +1087,72 @@
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-10-UG Block) Deep Learning (Gp-02) (CR-18-IAEC) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-17-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (Computing Lab-07) Digital Design Verification (1x-Lab) (Embedded Systems Lab) Parallel and Distributed Processing (Lab)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x-Lab)",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (Lab)",
               "room": "Computing Lab-09"
             }
           ],
@@ -569,27 +1169,102 @@
             },
             {
               "time": "1100-1150",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "Data Structures and Algorithms (1x) (Lecture Hall-PG Block) Human Resource Management (Gp-02) (CR-12-UG Block) Deep Learning (Gp-01) (CR-08-UG Block) Deep Learning (Gp-02) (CR-22-SMRIMMS) Selected Topics in Telecommunication (1x)",
+              "course": "Data Structures and Algorithms (1x)",
+              "room": "Lecture Hall-PG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Human Resource Management (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-01)",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Deep Learning (Gp-02)",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Selected Topics in Telecommunication (1x)",
               "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Robotics-1 (Gp-01) (CR-12-UG Block) Human Resource Management (Gp-01)",
+              "course": "Robotics-1 (Gp-01)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Human Resource Management (Gp-01)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "Robotics-1 (Gp-02) (CR-12-UG Block) Power Systems Protection (1x) (CR-11-UG Block) Digital Design Verification (1x) (CR-01-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-09-UG Block"
             }
           ],
@@ -606,22 +1281,67 @@
             },
             {
               "time": "1200-1250",
-              "course": "Robotics-1 (Gp-02) (CR-13-UG Block) Power Systems Protection (1x) (CR-05-UG Block) Digital Design Verification (1x) (CR-11-UG Block) Parallel and Distributed Processing (1x)",
+              "course": "Robotics-1 (Gp-02)",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Systems Protection (1x)",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Digital Design Verification (1x)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Parallel and Distributed Processing (1x)",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1500-1550",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             },
             {
               "time": "1600-1650",
-              "course": "Data Structures and Algorithms (1x-Lab) (Computing Lab-06) Deep Learning (Gp-01-Lab) (Computing Lab-03) Deep Learning (Gp-02-Lab)",
+              "course": "Data Structures and Algorithms (1x-Lab)",
+              "room": "Computing Lab-06"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-01-Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Deep Learning (Gp-02-Lab)",
               "room": "Computing Lab-02"
             }
           ],
@@ -706,13 +1426,23 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1100-1150",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1100-1150",
@@ -721,13 +1451,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -753,13 +1493,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -795,18 +1545,33 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1400-1450",
@@ -815,18 +1580,33 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1500-1550",
@@ -835,18 +1615,33 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1600-1650",
@@ -928,13 +1723,23 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1100-1150",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1100-1150",
@@ -943,13 +1748,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -975,13 +1790,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -1022,18 +1847,33 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1400-1450",
@@ -1042,18 +1882,33 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1500-1550",
@@ -1062,18 +1917,33 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1600-1650",
@@ -1150,13 +2020,23 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1100-1150",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1100-1150",
@@ -1165,13 +2045,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -1202,13 +2092,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -1254,18 +2154,33 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1400-1450",
@@ -1274,18 +2189,33 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1500-1550",
@@ -1294,18 +2224,33 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1600-1650",
@@ -1367,13 +2312,23 @@
             },
             {
               "time": "1100-1150",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1100-1150",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1100-1150",
@@ -1382,13 +2337,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -1429,13 +2394,23 @@
             },
             {
               "time": "1200-1250",
-              "course": "Computer and Communication Networks (1x)",
-              "room": "CR-19-IAEC"
+              "course": "Computer and Communication Networks",
+              "room": "1x"
             },
             {
               "time": "1200-1250",
-              "course": "Power Electronics (1x)",
-              "room": "CR-20-IAEC"
+              "course": "(CR-19-IAEC)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Power Electronics",
+              "room": "1x"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(CR-20-IAEC)/",
+              "room": null
             },
             {
               "time": "1200-1250",
@@ -1476,18 +2451,33 @@
             },
             {
               "time": "1400-1450",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1400-1450",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1400-1450",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1400-1450",
@@ -1496,18 +2486,33 @@
             },
             {
               "time": "1500-1550",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1500-1550",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1500-1550",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1500-1550",
@@ -1516,18 +2521,33 @@
             },
             {
               "time": "1600-1650",
-              "course": "Computer and Communication Networks (1x) (Lab)",
-              "room": "Computing Lab-04"
+              "course": "Computer and Communication Networks (1x)",
+              "room": "Lab"
             },
             {
               "time": "1600-1650",
-              "course": "Power Electronics (1x) (Lab)",
-              "room": "EMS Lab"
+              "course": "(Computing Lab-04)/",
+              "room": null
             },
             {
               "time": "1600-1650",
-              "course": "Digital System Design (Gp-01) (Lab)",
-              "room": "DSP & Comm Lab"
+              "course": "Power Electronics (1x)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(EMS Lab)/",
+              "room": null
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital System Design (Gp-01)",
+              "room": "Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(DSP & Comm Lab)/",
+              "room": null
             },
             {
               "time": "1600-1650",
@@ -4344,12 +5364,32 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4371,32 +5411,62 @@
           "Tuesday": [
             {
               "time": "1000-1050",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1400-1450",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1600-1650",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             }
           ],
@@ -4413,12 +5483,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4501,12 +5581,32 @@
           "Monday": [
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4528,32 +5628,62 @@
           "Tuesday": [
             {
               "time": "1000-1050",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1400-1450",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1600-1650",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             }
           ],
@@ -4570,12 +5700,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4668,12 +5808,32 @@
           "Monday": [
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4695,32 +5855,62 @@
           "Tuesday": [
             {
               "time": "1000-1050",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1400-1450",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1600-1650",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             }
           ],
@@ -4737,12 +5927,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4845,12 +6045,32 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -4872,32 +6092,62 @@
           "Tuesday": [
             {
               "time": "1000-1050",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1400-1450",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1600-1650",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             }
           ],
@@ -4914,12 +6164,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -5012,12 +6272,32 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-01) (CR-23-Acad Block) Big Data Analytics (Gp-03) (CR-25-Acad Block) Cyber Security (Gp-01)",
+              "course": "Big Data Analytics (Gp-01)",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Big Data Analytics (Gp-03)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-01)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -5044,32 +6324,62 @@
             },
             {
               "time": "1000-1050",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Lab-Gp-01) (Computing Lab-11) Cyber Security (Lab-Gp-01)",
+              "course": "Big Data Analytics (Lab-Gp-01)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Lab-Gp-01)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1400-1450",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             },
             {
               "time": "1600-1650",
-              "course": "Big Data Analytics (Lab-Gp-02) (Computing Lab-11) Cyber Security (Lab-Gp-02)",
+              "course": "Big Data Analytics (Lab-Gp-02)",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Cyber Security (Lab-Gp-02)",
               "room": "Computing Lab-12"
             }
           ],
@@ -5086,12 +6396,22 @@
             },
             {
               "time": "1100-1150",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Big Data Analytics (Gp-02) (CR-25-Acad Block) Cyber Security (Gp-02)",
+              "course": "Big Data Analytics (Gp-02)",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Cyber Security (Gp-02)",
               "room": "CR-26-Acad Block"
             },
             {
@@ -6324,7 +7644,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus",
+              "course": "Multivariable Calculus/",
               "room": null
             },
             {
@@ -6410,27 +7730,42 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Calculus & Analytical Geometry  (PM)",
+              "course": "Calculus & Analytical Geometry",
+              "room": null
+            },
+            {
+              "time": "0900-0950",
+              "course": "(PM)",
               "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
-              "course": "Multivariable Calculus",
+              "course": "Multivariable Calculus/",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Discrete Mathematics  (PM)",
+              "course": "Discrete Mathematics",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "(PM)",
               "room": "CR-27-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus",
+              "course": "Multivariable Calculus/",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics  (PM)",
+              "course": "Discrete Mathematics",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "(PM)",
               "room": "CR-27-Acad Block"
             },
             {
@@ -6804,11 +8139,21 @@
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": "CR-14-UG Block"
+              "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics  (PM)",
+              "course": "(CR-14-UG Block)/",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Discrete Mathematics",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "(PM)",
               "room": "CR-02-UG Block"
             },
             {
@@ -6884,22 +8229,32 @@
             },
             {
               "time": "1100-1150",
-              "course": "Multivariable Calculus",
+              "course": "Multivariable Calculus/",
               "room": null
             },
             {
               "time": "1100-1150",
-              "course": "Discrete Mathematics  (PM)",
+              "course": "Discrete Mathematics",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "(PM)",
               "room": "CR-27-Acad Block"
             },
             {
               "time": "1200-1250",
-              "course": "Multivariable Calculus",
+              "course": "Multivariable Calculus/",
               "room": null
             },
             {
               "time": "1200-1250",
-              "course": "Discrete Mathematics  (PM)",
+              "course": "Discrete Mathematics",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "(PM)",
               "room": "CR-27-Acad Block"
             },
             {
@@ -6926,7 +8281,12 @@
             },
             {
               "time": "1100-1150",
-              "course": "Linear Algebra (CR-04-UG Block) Calculus & Analytical Geometry (PM)",
+              "course": "Linear Algebra",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
             },
             {
