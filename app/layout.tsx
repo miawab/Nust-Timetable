@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   description: 'University timetable viewer for NUST',
   icons: {
     icon: '/icon.svg',
+    apple: '/icon.svg',
   },
 }
 
