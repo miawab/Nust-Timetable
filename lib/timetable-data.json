@@ -4829,7 +4829,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: MATH121-Linear Algebra and ODEs",
-              "room": "CR-16-IAEC"
+              "room": "1600-1650 in CR-16-IAEC"
             },
             {
               "time": "1600-1650",
@@ -4839,7 +4839,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: EE122-CA&LD",
-              "room": "CR-10-UG"
+              "room": "1600-1650 in CR-10-UG"
             }
           ],
           "Thursday": [
@@ -4898,7 +4898,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup: MATH161-Discrete Mathematics",
-              "room": "Online"
+              "room": "1430-1515 online"
             },
             {
               "time": "1400-1450",
@@ -4908,12 +4908,12 @@
             {
               "time": "1400-1450",
               "course": "Makeup: HU114-Functional English",
-              "room": "CR-15"
+              "room": "1430-1605 in CR-15"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: HU114-Functional English",
-              "room": "Online"
+              "room": "1520-1655 online"
             },
             {
               "time": "1500-1550",
@@ -4923,7 +4923,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup: HU114-Functional English",
-              "room": "CR-15"
+              "room": "1430-1605 in CR-15"
             },
             {
               "time": "1600-1650",
@@ -5053,7 +5053,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1400-1450 online"
             },
             {
               "time": "1400-1450",
@@ -5068,7 +5068,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1500-1550 online"
             },
             {
               "time": "1500-1550",
@@ -5083,7 +5083,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1600-1650 online"
             },
             {
               "time": "1600-1650",
@@ -5280,7 +5280,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1400-1650 online"
             },
             {
               "time": "1400-1450",
@@ -5295,7 +5295,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1400-1650 online"
             },
             {
               "time": "1500-1550",
@@ -5310,7 +5310,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "Online"
+              "room": "1400-1650 online"
             },
             {
               "time": "1600-1650",
