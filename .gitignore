@@ -12,3 +12,16 @@ coverage/
 # Local env files
 .env*
 !.env.example
+
+# Local Google OAuth credential artifacts
+client_secret*.json
+google_client*.json
+google-oauth*.json
+token.json
+/client_secret.json
+/credentials.json
+/google-credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
