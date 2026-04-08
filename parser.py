@@ -64,6 +64,9 @@ def parse_makeup_inline(line_text, time_slot):
             if guessed_room:
                 room = guessed_room
 
+    if course and not re.match(r'^\s*makeup\s*:', course, re.IGNORECASE):
+        course = f"Makeup: {course}"
+
     return [{
         "time": time_slot,
         "course": course,
@@ -97,6 +100,7 @@ def parse_cell(cell_text, time_slot):
 
         i = 0
         pending_room = None
+        pending_makeup = False
         while i < len(cleaned_lines):
             line = cleaned_lines[i]
 
@@ -109,6 +113,7 @@ def parse_cell(cell_text, time_slot):
 
             # Ignore makeup header labels that are metadata only (not a class title)
             if re.search(r'^makeups?\b', line, re.IGNORECASE) and '|' not in line:
+                pending_makeup = True
                 i += 1
                 continue
 
@@ -191,11 +196,15 @@ def parse_cell(cell_text, time_slot):
                 room_name = None
 
             if course_name:
+                if pending_makeup and not re.match(r'^\s*makeup\s*:', course_name, re.IGNORECASE):
+                    course_name = f"Makeup: {course_name}"
+
                 block_classes.append({
                     "time": time_slot,
                     "course": course_name,
                     "room": room_name
                 })
+                pending_makeup = False
 
         return block_classes
 
