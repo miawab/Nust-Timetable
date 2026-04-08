@@ -24,6 +24,52 @@ day_columns = {
     "Friday": 7
 }
 
+
+def is_probable_room(value):
+    if not value:
+        return False
+
+    text = str(value).strip()
+    lowered = text.lower()
+
+    if lowered in {"lab", "main"}:
+        return False
+
+    if lowered == "online":
+        return True
+
+    room_keywords = ["cr-", "block", "hall", "room", "lab", "mrc", "lh", "iaec", "seminar"]
+    return any(keyword in lowered for keyword in room_keywords) or any(ch.isdigit() for ch in text)
+
+
+def parse_makeup_inline(line_text, time_slot):
+    """Parses makeup records with pipe-separated metadata."""
+    text = str(line_text or "").strip()
+    if not text or not re.search(r'^makeups?\b', text, re.IGNORECASE) or '|' not in text:
+        return []
+
+    parts = [part.strip() for part in text.split('|') if part.strip()]
+
+    # Expected shape often looks like:
+    # Makeup(s) | 2K25-BSDS-3A | MATH222-Linear Algebra | Teacher | ...
+    course = parts[2] if len(parts) >= 3 else text
+
+    room = None
+    if re.search(r'\bonline\b', text, re.IGNORECASE):
+        room = "Online"
+    else:
+        in_room_match = re.search(r'\bin\s+([^|]+?)\s*$', text, re.IGNORECASE)
+        if in_room_match:
+            guessed_room = in_room_match.group(1).strip(' .')
+            if guessed_room:
+                room = guessed_room
+
+    return [{
+        "time": time_slot,
+        "course": course,
+        "room": room
+    }]
+
 def parse_cell(cell_text, time_slot):
     """Parses a cell into class objects, handling multiples in the same slot."""
     classes = []
@@ -38,13 +84,11 @@ def parse_cell(cell_text, time_slot):
     def parse_block(block_text):
         block_classes = []
 
-        # Remove noisy helper labels if present
+        # Keep meaningful lines and normalize spacing
         cleaned_lines = []
         for ln in block_text.splitlines():
             s = ln.strip()
             if not s:
-                continue
-            if re.match(r'^Room\s*:\s*', s, re.IGNORECASE):
                 continue
             cleaned_lines.append(s)
 
@@ -52,10 +96,34 @@ def parse_cell(cell_text, time_slot):
             return block_classes
 
         i = 0
+        pending_room = None
         while i < len(cleaned_lines):
+            line = cleaned_lines[i]
+
+            # Parse pipe-style makeup entry as one complete class record
+            makeup_inline_classes = parse_makeup_inline(line, time_slot)
+            if makeup_inline_classes:
+                block_classes.extend(makeup_inline_classes)
+                i += 1
+                continue
+
+            # Ignore makeup header labels that are metadata only (not a class title)
+            if re.search(r'^makeups?\b', line, re.IGNORECASE) and '|' not in line:
+                i += 1
+                continue
+
+            # Capture explicit room lines for nearby classes
+            room_line_match = re.match(r'^Room\s*:\s*(.+)$', line, re.IGNORECASE)
+            if room_line_match:
+                room_candidate = room_line_match.group(1).strip()
+                if room_candidate:
+                    pending_room = room_candidate
+                i += 1
+                continue
+
             # Handle shift-only lines like "(PM) (CR-02-UG Block)" that belong to
             # the previous course in the same block.
-            pm_with_room = re.fullmatch(r'\((AM|PM)\)\s*\(([^)]+)\)', cleaned_lines[i], re.IGNORECASE)
+            pm_with_room = re.fullmatch(r'\((AM|PM)\)\s*\(([^)]+)\)', line, re.IGNORECASE)
             if pm_with_room and block_classes:
                 shift, room = pm_with_room.groups()
                 shift = shift.upper()
@@ -67,7 +135,7 @@ def parse_cell(cell_text, time_slot):
                 continue
 
             # Handle lines that are only "(PM)" / "(AM)"
-            pm_only = re.fullmatch(r'\((AM|PM)\)', cleaned_lines[i], re.IGNORECASE)
+            pm_only = re.fullmatch(r'\((AM|PM)\)', line, re.IGNORECASE)
             if pm_only and block_classes:
                 shift = pm_only.group(1).upper()
                 if f"({shift})" not in block_classes[-1]["course"]:
@@ -75,28 +143,52 @@ def parse_cell(cell_text, time_slot):
                 i += 1
                 continue
 
-            course_name = cleaned_lines[i].strip().rstrip('/').strip()
+            course_name = line.strip().rstrip('/').strip()
             room_name = None
 
-            # Next line may be standalone room like (CR-14-UG Block) or (CR-14-UG Block)/
+            # Next line may be an explicit room line
             if i + 1 < len(cleaned_lines):
                 next_line = cleaned_lines[i + 1].strip().rstrip('/').strip()
-                if re.fullmatch(r'\([^)]+\)', next_line):
-                    room_name = next_line[1:-1].strip()
+                next_room_line_match = re.match(r'^Room\s*:\s*(.+)$', next_line, re.IGNORECASE)
+                if next_room_line_match:
+                    room_name = next_room_line_match.group(1).strip()
                     i += 2
+                elif re.fullmatch(r'\([^)]+\)', next_line):
+                    room_candidate = next_line[1:-1].strip()
+                    if is_probable_room(room_candidate):
+                        room_name = room_candidate
+                        i += 2
+                    else:
+                        i += 1
                 else:
                     # Or room may be at the end of course line
                     match = re.search(r'\(([^)]+)\)\s*$', course_name)
                     if match:
-                        room_name = match.group(1).strip()
-                        course_name = course_name[:match.start()].strip()
+                        room_candidate = match.group(1).strip()
+                        if is_probable_room(room_candidate):
+                            room_name = room_candidate
+                            course_name = course_name[:match.start()].strip()
                     i += 1
             else:
                 match = re.search(r'\(([^)]+)\)\s*$', course_name)
                 if match:
-                    room_name = match.group(1).strip()
-                    course_name = course_name[:match.start()].strip()
+                    room_candidate = match.group(1).strip()
+                    if is_probable_room(room_candidate):
+                        room_name = room_candidate
+                        course_name = course_name[:match.start()].strip()
                 i += 1
+
+            if pending_room and not room_name:
+                room_name = pending_room
+            pending_room = None
+
+            if re.search(r'\bonline\b', line, re.IGNORECASE):
+                room_name = "Online"
+            elif room_name and re.search(r'\bonline\b', room_name, re.IGNORECASE):
+                room_name = "Online"
+
+            if room_name and room_name.lower() == "main":
+                room_name = None
 
             if course_name:
                 block_classes.append({
