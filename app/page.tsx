@@ -9,6 +9,15 @@ import type { TimetableTree } from '@/lib/timetable-types'
 
 const DEFAULT_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
+function getCookie(name: string): string {
+  const value = `; ${document.cookie}`
+  const parts = value.split(`; ${name}=`)
+  if (parts.length === 2) {
+    return decodeURIComponent(parts.pop()?.split(';').shift() ?? '')
+  }
+  return ''
+}
+
 function keys<T extends Record<string, unknown> | undefined>(value: T): string[] {
   return value ? Object.keys(value) : []
 }
@@ -32,26 +41,30 @@ export default function Home() {
   const [section, setSection] = useState('')
   const [day, setDay] = useState('')
 
-  // Load from localStorage on mount
+  // Load from localStorage/cookie on mount
   useEffect(() => {
     const saved = localStorage.getItem('timetable_selection')
     if (saved) {
       try {
-        const { department: d, major: m, year: y, section: s } = JSON.parse(saved)
+        const { department: d, major: m, year: y, section: s, day: savedDay } = JSON.parse(saved)
         setDepartment(d || '')
         setMajor(m || '')
         setYear(y || '')
         setSection(s || '')
+        setDay(savedDay || getCookie('timetable_day') || '')
       } catch {
         // Invalid data, ignore
       }
+    } else {
+      setDay(getCookie('timetable_day') || '')
     }
   }, [])
 
-  // Save to localStorage when department, major, year, or section changes
+  // Save to localStorage and cookie when selection changes
   useEffect(() => {
-    localStorage.setItem('timetable_selection', JSON.stringify({ department, major, year, section }))
-  }, [department, major, year, section])
+    localStorage.setItem('timetable_selection', JSON.stringify({ department, major, year, section, day }))
+    document.cookie = `timetable_day=${encodeURIComponent(day)}; Max-Age=${60 * 60 * 24 * 365}; Path=/; SameSite=Lax`
+  }, [department, major, year, section, day])
 
   const departments = useMemo(() => keys(timetableData), [timetableData])
   const majors = useMemo(() => keys(timetableData[department]), [timetableData, department])
