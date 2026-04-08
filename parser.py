@@ -56,11 +56,11 @@ def parse_makeup_inline(line_text, time_slot):
 
     room = None
 
-    # For makeup rows, keep full schedule/location payload after '@' in room field.
+    # For makeup rows, room is text between '@' and next '|'.
     # Example:
-    # ... | Thurs, 09 Apr, 2026 @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A
-    # => room: "1400-1550 in Lec-Hall PG Block | 2x Mkp for A"
-    at_match = re.search(r'@\s*(.+)$', text)
+    # ... @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A
+    # => room: "1400-1550 in Lec-Hall PG Block"
+    at_match = re.search(r'@\s*([^|]+)', text)
     if at_match:
         room = at_match.group(1).strip(' .')
     elif re.search(r'\bonline\b', text, re.IGNORECASE):
@@ -73,6 +73,8 @@ def parse_makeup_inline(line_text, time_slot):
                 room = guessed_room
 
     if course and not re.match(r'^\s*makeup\s*:', course, re.IGNORECASE):
+        # Safety: if any source has '@ ... |' attached to course text, strip it.
+        course = re.sub(r'\s*@\s*[^|]+\|?.*$', '', course).strip()
         course = f"Makeup: {course}"
 
     return [{
