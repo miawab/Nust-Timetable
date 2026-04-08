@@ -2375,23 +2375,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup-03 April 2026",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
               "course": "Microprocessor Systems",
               "room": null
             },
             {
               "time": "1500-1550",
               "course": "(03 April 2026) Online",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup-03 April 2026",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1600-1650",
@@ -2401,7 +2391,7 @@
             {
               "time": "1600-1650",
               "course": "(03 April 2026) Online",
-              "room": null
+              "room": "Online"
             }
           ]
         },
@@ -2532,23 +2522,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup-03 April 2026",
-              "room": null
-            },
-            {
-              "time": "1500-1550",
               "course": "Microprocessor Systems",
               "room": null
             },
             {
               "time": "1500-1550",
               "course": "(03 April 2026) Online",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup-03 April 2026",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1600-1650",
@@ -2558,7 +2538,7 @@
             {
               "time": "1600-1650",
               "course": "(03 April 2026) Online",
-              "room": null
+              "room": "Online"
             }
           ]
         },
@@ -2626,7 +2606,7 @@
             {
               "time": "1000-1050",
               "course": "(01 April 2026) Online",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1100-1150",
@@ -2762,7 +2742,7 @@
             {
               "time": "1000-1050",
               "course": "(01 April 2026) Online",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1100-1150",
@@ -2777,7 +2757,7 @@
             {
               "time": "1200-1250",
               "course": "01 April 2026-Online (2K24-BEE-16D) Mr. Abdul Mateen",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -2804,7 +2784,7 @@
             {
               "time": "0900-0950",
               "course": "02 April 2026-Online (2K24-BEE-16D) Mr. Abdul Mateen",
-              "room": null
+              "room": "Online"
             },
             {
               "time": "1000-1050",
@@ -2942,11 +2922,6 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-09 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
@@ -2984,18 +2959,8 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-10 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup-10 April 2026",
-              "room": null
             },
             {
               "time": "1000-1050",
@@ -3087,11 +3052,6 @@
           "Wednesday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-08 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
@@ -3181,18 +3141,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup-10 April 2026",
-              "room": null
-            },
-            {
-              "time": "1400-1450",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Makeup-10 April 2026",
-              "room": null
             },
             {
               "time": "1500-1550",
@@ -3279,11 +3229,6 @@
           "Wednesday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-08 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
@@ -3363,18 +3308,8 @@
             },
             {
               "time": "1100-1150",
-              "course": "Makeup-10 April 2026",
-              "room": null
-            },
-            {
-              "time": "1100-1150",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Makeup-10 April 2026",
-              "room": null
             },
             {
               "time": "1200-1250",
@@ -3478,11 +3413,6 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-09 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
@@ -3520,18 +3450,8 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Makeup-10 April 2026",
-              "room": null
-            },
-            {
-              "time": "0900-0950",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup-10 April 2026",
-              "room": null
             },
             {
               "time": "1000-1050",
@@ -4815,11 +4735,6 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup: MATH161-DM",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
               "course": "On Fri, 10th April 2026 @ 1610-1655 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
               "room": null
             }
@@ -4913,8 +4828,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeups | 2k25-BESE-16B | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Wed, 08 Apr, 2026 @ 1600-1650 in CR-16-IAEC",
-              "room": null
+              "course": "MATH121-Linear Algebra and ODEs",
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1600-1650",
@@ -4923,8 +4838,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Wed, 15 Apr, 2026 @ 1600-1650 in CR-10-UG",
-              "room": null
+              "course": "EE122-CA&LD",
+              "room": "CR-10-UG"
             }
           ],
           "Thursday": [
@@ -4982,8 +4897,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH161-Discrete Mathematics | Dr. Quanita Kiran | Fri, 03 Apr, 2026 @ 1430-1515 online",
-              "room": null
+              "course": "MATH161-Discrete Mathematics",
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -4992,13 +4907,13 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeups | 2k25-BESE-16B | HU114-Functional English | Ms. Sadia Arshad | Fri, 10 Apr, 2026 @ 1430-1605 in CR-15",
-              "room": null
+              "course": "HU114-Functional English",
+              "room": "CR-15"
             },
             {
               "time": "1500-1550",
-              "course": "Makeups | 2k25-BESE-16B | HU114-Functional English | Ms. Sadia Arshad | Fri, 03 Apr, 2026 @ 1520-1655 online",
-              "room": null
+              "course": "HU114-Functional English",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -5007,13 +4922,8 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeups | 2k25-BESE-16B | HU114-Functional English | Ms. Sadia Arshad | Fri, 10 Apr, 2026 @ 1430-1605 in CR-15",
-              "room": null
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup: MATH161-DM",
-              "room": null
+              "course": "HU114-Functional English",
+              "room": "CR-15"
             },
             {
               "time": "1600-1650",
@@ -5142,8 +5052,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2K22-BSCS-12A | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1400-1450 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -5157,8 +5067,8 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup | 2K22-BSCS-12B | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1500-1550 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -5172,8 +5082,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K22-BSCS-12C | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1600-1650 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1600-1650",
@@ -5369,8 +5279,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2K22-BSCS-12B | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1400-1650 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -5384,8 +5294,8 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup | 2K22-BSCS-12B | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1400-1650 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -5399,8 +5309,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K22-BSCS-12B | CS351-Compiler Construction | Dr. Adnan Rashid | Tue, 31 Mar, 2026 @ 1400-1650 online",
-              "room": null
+              "course": "CS351-Compiler Construction",
+              "room": "Online"
             },
             {
               "time": "1600-1650",
