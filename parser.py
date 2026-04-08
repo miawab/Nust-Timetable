@@ -55,7 +55,15 @@ def parse_makeup_inline(line_text, time_slot):
     course = parts[2] if len(parts) >= 3 else text
 
     room = None
-    if re.search(r'\bonline\b', text, re.IGNORECASE):
+
+    # For makeup rows, keep full schedule/location payload after '@' in room field.
+    # Example:
+    # ... | Thurs, 09 Apr, 2026 @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A
+    # => room: "1400-1550 in Lec-Hall PG Block | 2x Mkp for A"
+    at_match = re.search(r'@\s*(.+)$', text)
+    if at_match:
+        room = at_match.group(1).strip(' .')
+    elif re.search(r'\bonline\b', text, re.IGNORECASE):
         room = "Online"
     else:
         in_room_match = re.search(r'\bin\s+([^|]+?)\s*$', text, re.IGNORECASE)
