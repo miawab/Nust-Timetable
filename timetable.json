@@ -1779,7 +1779,7 @@
             {
               "time": "1100-1150",
               "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Tue, 07 Apr, 2026 @ 1100-1150 in CR-20-IAEC",
-              "room": "CR-19-IAEC"
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1913,7 +1913,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Thurs, 09 Apr, 2026 @ 1200-1250 in Computing Lab-03",
-              "room": "CR-19-IAEC"
+              "room": "Computing Lab-03"
             },
             {
               "time": "1400-1450",
@@ -2180,7 +2180,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K23-BEE-15D | EE371-LCS | Dr. Neelma Naz | Thurs, 26 Mar, 2026 @ 1400-1450 Online",
-              "room": "CR-18-IAEC"
+              "room": "Online"
             }
           ],
           "Friday": [
@@ -2243,7 +2243,7 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BEE-16A | EE313-Electronic Circuit Design | Dr. Usman Khan | Mon, 13, 20 & 27 Apr 2026 | @ 0900-0950 in CR-05",
-              "room": "CR-05-UG Block"
+              "room": "CR-05"
             },
             {
               "time": "1000-1050",
@@ -2366,12 +2366,12 @@
             {
               "time": "1000-1050",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": "CR-05-UG Block"
+              "room": "Online"
             },
             {
               "time": "1100-1150",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": "CR-05-UG Block"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -2513,12 +2513,12 @@
             {
               "time": "1000-1050",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": "CR-06-UG Block"
+              "room": "Online"
             },
             {
               "time": "1100-1150",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": "CR-06-UG Block"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -2826,12 +2826,12 @@
             {
               "time": "1000-1050",
               "course": "Makeup |  ENGL101-Expository Writing | Fri, 10 Apr, 2026 @ 1000-1150 in CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz",
-              "room": "CR-08-UG Block"
+              "room": "CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz"
             },
             {
               "time": "1100-1150",
               "course": "Makeup |  ENGL101-Expository Writing | Fri, 10 Apr, 2026 @ 1000-1150 in CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz",
-              "room": "CR-08-UG Block"
+              "room": "CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz"
             }
           ]
         }
@@ -2953,7 +2953,7 @@
             {
               "time": "1400-1450",
               "course": "2k25-BEE-17A&C-Combine | HU-127-ICP | Dr. Sobia Jamil | Thurs, 09 Apr, 2026 @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A | Rgr for C",
-              "room": "CR-14-UG Block"
+              "room": "Lec-Hall PG Block"
             },
             {
               "time": "1500-1550",
@@ -2985,7 +2985,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2k25-BEE-17A | EE211-ENA | Mr. Ahsan Azhar | Fri, 03 Apr, 2026 @ 1200-1250 online",
-              "room": "CR-14-UG Block"
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -3125,7 +3125,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup | 2k25-BEE-17B | EE211-ENA | Mr. Ahsan Azhar | Thurs, 02 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-14-UG Block"
+              "room": "Online"
             }
           ],
           "Friday": [
@@ -3166,12 +3166,12 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2k25-BEE-17C | MATH108-Differential Equations | Dr. Ibrar Hussain | Mon, 06 Apr, 2026 @ 0900-1050 in CR-28-Acad Block",
-              "room": "CR-15-UG Block"
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Makeups | 2k25-BEE-17C | MATH108-Differential Equations | Dr. Ibrar Hussain | Mon, 06 Apr, 2026 @ 0900-1050 in CR-28-Acad Block",
-              "room": "CR-15-UG Block"
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -3417,7 +3417,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2k25-BEE-17D | CS107-Computer Programming | Dr. Fahd Sikandar Khan | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-15-UG Block"
+              "room": "Online"
             }
           ],
           "Thursday": [
@@ -3471,7 +3471,7 @@
             {
               "time": "1100-1150",
               "course": "Makeups | 2k25-BEE-17D | CS107-Computer Programming | Dr. Fahd Sikandar Khan | Fri, 03 Apr, 2026 @ 1100-1150 online",
-              "room": "CR-15-UG Block"
+              "room": "Online"
             },
             {
               "time": "1200-1250",
@@ -3566,12 +3566,12 @@
             {
               "time": "1500-1550",
               "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": "CR-13-UG Block"
+              "room": "MRC Lab-SMME"
             },
             {
               "time": "1600-1650",
               "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": "CR-13-UG Block"
+              "room": "MRC Lab-SMME"
             }
           ],
           "Wednesday": [
@@ -3662,7 +3662,7 @@
             {
               "time": "1600-1650",
               "course": "MAkeup | 2K25-BCE-1A | MATH121-Linear Algebra & ODEs | Dr. Saira Zainab | Fri, 10 Apr, 2026 @ 1610-1655 in CR-16-IAEC",
-              "room": "CR-13-UG Block"
+              "room": "CR-16-IAEC"
             }
           ]
         }
@@ -4147,7 +4147,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A&B-Combine | SE321-SQE | Ms. Ayesha Kanwal | Thurs, 02 Apr, 2026 @ 1500-1550 online",
-              "room": "CR-23-Acad Block"
+              "room": "Online"
             }
           ],
           "Friday": [
@@ -4174,7 +4174,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A | CS471-Machine Learning | Fri, 03 Apr @ 1520-1605 online",
-              "room": "CR-23-Acad Block"
+              "room": "Online"
             }
           ]
         },
@@ -4279,7 +4279,7 @@
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A&B-Combine | SE321-SQE | Ms. Ayesha Kanwal | Thurs, 02 Apr, 2026 @ 1500-1550 online",
-              "room": "CR-24-Acad Block"
+              "room": "Online"
             }
           ],
           "Friday": [
@@ -4369,7 +4369,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Tue, 31 Mar, 2026 @ 1600-1650 online",
-              "room": "CR-16-IAEC"
+              "room": "Online"
             }
           ],
           "Wednesday": [
@@ -4406,7 +4406,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-16-IAEC"
+              "room": "Online"
             }
           ],
           "Thursday": [
@@ -4428,14 +4428,14 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | MATH232-CVT | Thur, 02 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-16-IAEC"
+              "room": "Online"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BESE-15A | Operating Systems | Dr. Taufiq ur Rehman | Fri, 27 Mar, 2026 @ 0900-1050 in Online",
-              "room": "CR-16-IAEC"
+              "room": "Online"
             },
             {
               "time": "1000-1050",
@@ -4516,7 +4516,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | Dr. Mehvish Rashid |SE-211-SDA | Tue, 31 Mar, 2026 @ 1600-1650 online",
-              "room": "CR-17-IAEC"
+              "room": "Online"
             }
           ],
           "Wednesday": [
@@ -4548,7 +4548,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-17-IAEC"
+              "room": "Online"
             }
           ],
           "Thursday": [
@@ -4570,7 +4570,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | MATH232-CVT | Thur, 02 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-17-IAEC"
+              "room": "Online"
             }
           ],
           "Friday": [
@@ -4684,7 +4684,7 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 09 Apr, 2026 @ 0900-0950 in CR-03-UG Block",
-              "room": "CR-09-UG Block"
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1000-1050",
@@ -4736,17 +4736,17 @@
             {
               "time": "1400-1450",
               "course": "Makeups | 2k25-BESE-16A | HU114-Functional English | Dr. Neelma Riaz | Fri, 10 Apr, 2026 @ 1400-1550 in CR-06-UG Block",
-              "room": "CR-09-UG Block"
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeups | 2k25-BESE-16A | HU114-Functional English | Dr. Neelma Riaz | Fri, 10 Apr, 2026 @ 1400-1550 in CR-06-UG Block",
-              "room": "CR-09-UG Block"
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: On Fri, 10th April 2026 @ 1610-1655 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": "CR-09-UG Block"
+              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
             }
           ]
         },
@@ -4866,7 +4866,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Thurs, 16 Apr, 2026 @ 1200-1250 in Computing Lab-05",
-              "room": "CR-10-UG Block"
+              "room": "Computing Lab-05"
             },
             {
               "time": "1400-1450",
@@ -4938,7 +4938,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: On Fri, 10th April 2026 @ 1610-1655 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": "CR-10-UG Block"
+              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
             }
           ]
         }
@@ -5445,12 +5445,12 @@
             {
               "time": "1400-1450",
               "course": "Makeups | 2K22-BSCS-12C | HU115-Principles of Sociology | Mon, 30 Mar, 2026 @ 1400-1550 online",
-              "room": "CR-12-UG Block"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
               "course": "Makeups | 2K22-BSCS-12C | HU115-Principles of Sociology | Mon, 30 Mar, 2026 @ 1400-1550 online",
-              "room": "CR-12-UG Block"
+              "room": "Online"
             }
           ],
           "Tuesday": [
@@ -5775,7 +5775,7 @@
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Thur, 26 Mar, 02, 09, 16 Apr 2026 @ 1600-1650 in CR-25-Acad",
-              "room": "CR-25-Acad Block"
+              "room": "CR-25-Acad"
             }
           ],
           "Friday": [
@@ -5821,12 +5821,12 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
-              "room": "CR-25-Acad Block"
+              "room": "CR-26 Acad"
             },
             {
               "time": "1000-1050",
               "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
-              "room": "CR-25-Acad Block"
+              "room": "CR-26 Acad"
             },
             {
               "time": "1100-1150",
@@ -5970,7 +5970,7 @@
             {
               "time": "1400-1450",
               "course": "@Makeup | 2K23-BSCS-13B | CS419-Deep Learning | Dr. Muhammad Imran Malik | Wed, 08, 15, 22, 29 Apr, 2026 @ 1400-1450 in CR-05 UG",
-              "room": "CR-25-Acad Block"
+              "room": "CR-05 UG"
             },
             {
               "time": "1500-1550",
@@ -6347,7 +6347,7 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K23-BSCS-13D | CS347-PDC | Dr. Ayesha Maqbool | Tue, 14 Apr, 2026 @ 0900-0950 in CR-25-Acad Block",
-              "room": "CR-26-Acad Block"
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
@@ -6718,7 +6718,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K23-BSCS-13E | CS347-PDC | Dr. Ayesha Maqbool | Thurs, 16 Apr, 2026 @ 1400-1450 in CR-24-Acad Block",
-              "room": "CR-27-Acad Block"
+              "room": "CR-24-Acad Block"
             }
           ],
           "Friday": [
@@ -6766,7 +6766,7 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K24-BSCS-14A | Phy102-Applied Physics | Dr. Imran Malik | Mon, 30 Mar, 2026 @ 0900-0950 Online",
-              "room": "CR-21-SMRIMMS"
+              "room": "Online"
             },
             {
               "time": "1000-1050",
@@ -6862,7 +6862,7 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf | Thurs, 02 Apr, 2026 @ 0900-0950 online",
-              "room": "CR-21-SMRIMMS"
+              "room": "Online"
             },
             {
               "time": "1000-1050",
@@ -6914,7 +6914,7 @@
             {
               "time": "1500-1550",
               "course": "@Makeups | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf | Fri, 03 Apr, 2026 @ 1520-1605 online",
-              "room": "CR-21-SMRIMMS"
+              "room": "Online"
             }
           ]
         },
@@ -7061,7 +7061,7 @@
             {
               "time": "1200-1250",
               "course": "Makeups | 2K24-BSCS-14B | CS343-Web Technologies | Dr. Farzana Jabeen | Fri, 03 Apr, 2026 @ 1200-1250 online",
-              "room": "CR-21-SMRIMMS"
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -7100,7 +7100,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSCS-14C | CS343-Web Technologies | Dr. Farzana Jabeen | Mon, 13 Apr 2026 @ 1200-1250 hrs in CR- 21 RIMMS",
-              "room": "CR-22-SMRIMMS"
+              "room": "CR- 21 RIMMS"
             }
           ],
           "Tuesday": [
@@ -7228,12 +7228,12 @@
             {
               "time": "1400-1450",
               "course": "@Makeups | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf | Fri, 03 Apr, 2026 @ 1430-1605 online",
-              "room": "CR-22-SMRIMMS"
+              "room": "Online"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BSCS-14C | CS343-Web Technologies | Dr. Farzana Jabeen | Fri, 03 Apr, 2026 @ 1600-1650 online",
-              "room": "CR-22-SMRIMMS"
+              "room": "Online"
             }
           ]
         },
@@ -7343,7 +7343,7 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thu, 9 Apr 26 @ 1400-1450 in CR-18 IAEC",
-              "room": "CR-22-SMRIMMS"
+              "room": "CR-18 IAEC"
             }
           ],
           "Friday": [
@@ -7629,7 +7629,7 @@
             {
               "time": "1000-1050",
               "course": "@Makeup | 2K25-BSCS-15B | EE223-DLD | Mr. Arshad Nazir | Thur, 09 Apr, 2026 @ 1000-1050 in CR-03-UG Block",
-              "room": "CR-02-UG Block"
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
@@ -7759,7 +7759,7 @@
             {
               "time": "1100-1150",
               "course": "Makeup | 2K25-BSCS-15C | EE223-DLD | Mr. Arshad Nazir | Wed, 08 Apr, 2026 @ 1100-1150 in Computing Lab-03",
-              "room": "CR-03-UG Block"
+              "room": "Computing Lab-03"
             },
             {
               "time": "1200-1250",
@@ -8036,12 +8036,12 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr 05, 12 , May @ 0900-0950 in Lec Hall-PG Block",
-              "room": "CR-04-UG Block"
+              "room": "Lec Hall-PG Block"
             },
             {
               "time": "1000-1050",
               "course": "@sMakeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Tue, 31 Mar, 2026 @ 1000-1050 Online",
-              "room": "CR-04-UG Block"
+              "room": "Online"
             },
             {
               "time": "1100-1150",
@@ -8115,7 +8115,7 @@
             {
               "time": "1000-1050",
               "course": "Makeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Thurs, 02 Apr, 2026 @ 1000-1050 online",
-              "room": "CR-04-UG Block"
+              "room": "Online"
             },
             {
               "time": "1100-1150",
@@ -8301,7 +8301,7 @@
             {
               "time": "1600-1650",
               "course": "Makeups | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Dr. Rabia Irfan | Thurs, 19 & 26 Feb, 2026 @ 1345-1425 in CR-14",
-              "room": "CR-28-Acad Block"
+              "room": "CR-14"
             }
           ],
           "Friday": [
@@ -8497,7 +8497,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 27 Mar, 2026 @ 1200-1250 Online",
-              "room": "CR-12-UG Block"
+              "room": "Online"
             }
           ]
         }
@@ -8550,7 +8550,7 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr 05, 12 , May @ 0900-0950 in Lec Hall-PG Block",
-              "room": "CR-01-UG Block"
+              "room": "Lec Hall-PG Block"
             },
             {
               "time": "1000-1050",
@@ -8577,7 +8577,7 @@
             {
               "time": "1000-1050",
               "course": "Makeup | 2K25-BSDS-3A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Wed, 08, 15, 22, 29 Apr, & 06, 13 May 2026 @ 1000-1050 in CR-10-UG Block",
-              "room": "CR-01-UG Block"
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1100-1150",
@@ -8614,7 +8614,7 @@
             {
               "time": "1000-1050",
               "course": "Makeups | 2K25-BSDS-3A | MATH222-Linear Algebra | Dr. Bilal Ahmed | On Thurs, 09, 16, & 23 Apr, 2026 @ 1000-1050 in CR-04-UG Block",
-              "room": "CR-01-UG Block"
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1100-1150",
@@ -8878,7 +8878,7 @@
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2K25-BSAI-2A | EE223-DLD | Mr. Muhammad Abdullah | Mon, 06 Apr, 2026 @ 1600-1650 in CR-01",
-              "room": "CR-01-UG Block"
+              "room": "CR-01"
             }
           ],
           "Tuesday": [
@@ -8900,7 +8900,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K25-BSAI-2A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Tue, 14, 21, 28, Apr 05, 12 , May 2026 @ 1200-1250 in CR-18-IAEC",
-              "room": "CR-01-UG Block"
+              "room": "CR-18-IAEC"
             }
           ],
           "Wednesday": [
@@ -8964,12 +8964,12 @@
             {
               "time": "1500-1550",
               "course": "Makeups | 2K25-BSAI-2A | MATH222-Linear Algebra | Mr. Saeed Afzal | Thurs, 02 Apr, 2026 @ 1500-1650 online",
-              "room": "CR-01-UG Block"
+              "room": "Online"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K25-BSAI-2A | MATH222-Linear Algebra | Mr. Saeed Afzal | Thurs, 02 Apr, 2026 @ 1500-1650 online",
-              "room": "CR-01-UG Block"
+              "room": "Online"
             }
           ],
           "Friday": [

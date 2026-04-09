@@ -56,21 +56,23 @@ function extractRoomFromText(text: string): string {
 }
 
 function getDisplayRoom(slot: TimeSlot): string {
+  const courseText = String(slot.course ?? '')
+
+  if (/\bonline\b/i.test(courseText)) {
+    return 'Online'
+  }
+
+  const parsedFromCourse = extractRoomFromText(courseText)
+  if (parsedFromCourse) {
+    return parsedFromCourse
+  }
+
   const normalizedRoom = String(slot.room ?? '').trim()
   if (normalizedRoom && normalizedRoom.toLowerCase() !== 'main') {
     if (/\bonline\b/i.test(normalizedRoom)) {
       return 'Online'
     }
     return normalizedRoom
-  }
-
-  if (/\bonline\b/i.test(String(slot.course ?? ''))) {
-    return 'Online'
-  }
-
-  const parsedFromCourse = extractRoomFromText(String(slot.course ?? ''))
-  if (parsedFromCourse) {
-    return parsedFromCourse
   }
 
   return 'Main'

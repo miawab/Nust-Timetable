@@ -45,7 +45,7 @@ def is_probable_room(value):
 def parse_makeup_inline(line_text, time_slot):
     """Parses makeup records with pipe-separated metadata."""
     text = str(line_text or "").strip()
-    if not text or not re.search(r'^makeups?\b', text, re.IGNORECASE) or '|' not in text:
+    if not text or not re.search(r'^@?\s*makeups?\b', text, re.IGNORECASE) or '|' not in text:
         return []
 
     parts = [part.strip() for part in text.split('|') if part.strip()]
@@ -81,6 +81,24 @@ def parse_makeup_inline(line_text, time_slot):
         "course": course,
         "room": room
     }]
+
+
+def extract_inline_room_or_online(text):
+    """Extract room from inline makeup pattern, or Online marker."""
+    source = str(text or "").strip()
+    if not source:
+        return None
+
+    if re.search(r'\bonline\b', source, re.IGNORECASE):
+        return "Online"
+
+    inline_match = re.search(r'@\s*[^|\n]*?\b(?:in|at)\s+([^|\n]+?)(?=\s*(?:\||$))', source, re.IGNORECASE)
+    if inline_match:
+        room = inline_match.group(1).strip(' .')
+        if room:
+            return room
+
+    return None
 
 def parse_cell(cell_text, time_slot):
     """Parses a cell into class objects, handling multiples in the same slot."""
@@ -121,7 +139,7 @@ def parse_cell(cell_text, time_slot):
                 continue
 
             # Ignore makeup header labels that are metadata only (not a class title)
-            if re.search(r'^makeups?\b', line, re.IGNORECASE) and '|' not in line:
+            if re.search(r'^@?\s*makeups?\b', line, re.IGNORECASE) and '|' not in line:
                 pending_makeup = True
                 i += 1
                 continue
@@ -368,6 +386,13 @@ def main():
                                 if section_default_room:
                                     for cls in classes:
                                         room_val = str(cls.get("room") or "").strip()
+
+                                        if not room_val:
+                                            inline_room = extract_inline_room_or_online(cls.get("course"))
+                                            if inline_room:
+                                                cls["room"] = inline_room
+                                                room_val = inline_room
+
                                         if not room_val or room_val.lower() == "main":
                                             cls["room"] = section_default_room
 
