@@ -186,11 +186,11 @@ export default function TimetableDisplay({
     }
 
     return (
-      <table className="w-full table-fixed text-sm">
+      <table className="min-w-[980px] w-full table-fixed text-sm">
         <colgroup>
-          <col style={{ width: '10%' }} />
+          <col style={{ width: '100px' }} />
           {WEEK_DAYS.map((weekDay) => (
-            <col key={`col-${weekDay}`} style={{ width: '18%' }} />
+            <col key={`col-${weekDay}`} style={{ width: '176px' }} />
           ))}
         </colgroup>
         <thead>
@@ -224,7 +224,7 @@ export default function TimetableDisplay({
                             key={`${weekDay}-${time}-${idx}`}
                             className={idx > 0 ? 'border-t border-gray-200 pt-2 text-black dark:border-gray-700 dark:text-white' : 'text-black dark:text-white'}
                           >
-                            <p>{slot.course}</p>
+                            <p className="break-words whitespace-normal">{slot.course}</p>
                             <p className="text-xs text-gray-600 dark:text-gray-300">Room: {getDisplayRoom(slot)}</p>
                           </div>
                         ))}

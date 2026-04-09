@@ -9,6 +9,7 @@ import timetableDataJson from '@/lib/timetable-data.json'
 import type { TimetableTree } from '@/lib/timetable-types'
 
 const DEFAULT_DAYS = ['Weekly', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+type ViewMode = 'timetable' | 'class-finder'
 
 function getCookie(name: string): string {
   const value = `; ${document.cookie}`
@@ -41,18 +42,20 @@ export default function Home() {
   const [year, setYear] = useState('')
   const [section, setSection] = useState('')
   const [day, setDay] = useState('')
+  const [viewMode, setViewMode] = useState<ViewMode>('timetable')
 
   // Load from localStorage/cookie on mount
   useEffect(() => {
     const saved = localStorage.getItem('timetable_selection')
     if (saved) {
       try {
-        const { department: d, major: m, year: y, section: s, day: savedDay } = JSON.parse(saved)
+        const { department: d, major: m, year: y, section: s, day: savedDay, viewMode: savedViewMode } = JSON.parse(saved)
         setDepartment(d || '')
         setMajor(m || '')
         setYear(y || '')
         setSection(s || '')
         setDay(savedDay || getCookie('timetable_day') || '')
+        setViewMode(savedViewMode === 'class-finder' ? 'class-finder' : 'timetable')
       } catch {
         // Invalid data, ignore
       }
@@ -63,9 +66,9 @@ export default function Home() {
 
   // Save to localStorage and cookie when selection changes
   useEffect(() => {
-    localStorage.setItem('timetable_selection', JSON.stringify({ department, major, year, section, day }))
+    localStorage.setItem('timetable_selection', JSON.stringify({ department, major, year, section, day, viewMode }))
     document.cookie = `timetable_day=${encodeURIComponent(day)}; Max-Age=${60 * 60 * 24 * 365}; Path=/; SameSite=Lax`
-  }, [department, major, year, section, day])
+  }, [department, major, year, section, day, viewMode])
 
   const departments = useMemo(() => keys(timetableData), [timetableData])
   const majors = useMemo(() => keys(timetableData[department]), [timetableData, department])
@@ -93,37 +96,70 @@ export default function Home() {
         </div>
 
         <div className="mb-12">
-          <h1 className="text-3xl font-semibold text-black dark:text-white mb-8">NUST Timetable</h1>
+          <h1 className="mb-3 text-3xl font-semibold text-black dark:text-white">NUST-view</h1>
 
-          <TimetableSelector
-            departments={departments}
-            majors={majors}
-            years={years}
-            sections={sections}
-            days={days}
-            department={department}
-            setDepartment={setDepartment}
-            major={major}
-            setMajor={setMajor}
-            year={year}
-            setYear={setYear}
-            section={section}
-            setSection={setSection}
-            day={day}
-            setDay={setDay}
-          />
+          <div className="mb-8 flex flex-wrap items-center gap-2">
+            <button
+              type="button"
+              onClick={() => setViewMode('timetable')}
+              className={`h-10 min-w-40 border px-4 text-sm transition-all ${
+                viewMode === 'timetable'
+                  ? 'border-black font-semibold shadow-[inset_0_-2px_0_0_black] dark:border-white dark:shadow-[inset_0_-2px_0_0_white]'
+                  : 'border-gray-300 font-medium hover:bg-gray-50 dark:border-gray-700 dark:hover:bg-gray-900'
+              }`}
+            >
+              Timetable Viewer
+            </button>
+            <button
+              type="button"
+              onClick={() => setViewMode('class-finder')}
+              className={`h-10 min-w-40 border px-4 text-sm transition-all ${
+                viewMode === 'class-finder'
+                  ? 'border-black font-semibold shadow-[inset_0_-2px_0_0_black] dark:border-white dark:shadow-[inset_0_-2px_0_0_white]'
+                  : 'border-gray-300 font-medium hover:bg-gray-50 dark:border-gray-700 dark:hover:bg-gray-900'
+              }`}
+            >
+              Free Room Finder
+            </button>
+          </div>
+
+          {viewMode === 'timetable' ? (
+            <TimetableSelector
+              departments={departments}
+              majors={majors}
+              years={years}
+              sections={sections}
+              days={days}
+              department={department}
+              setDepartment={setDepartment}
+              major={major}
+              setMajor={setMajor}
+              year={year}
+              setYear={setYear}
+              section={section}
+              setSection={setSection}
+              day={day}
+              setDay={setDay}
+            />
+          ) : (
+            <div className="border border-gray-300 bg-white p-8 dark:border-gray-700 dark:bg-black">
+              <p className="text-sm text-gray-600 dark:text-gray-300">Coming soon...</p>
+            </div>
+          )}
         </div>
 
-        <div className="mt-12">
-          <TimetableDisplay
-            timetableData={timetableData}
-            department={department}
-            major={major}
-            year={year}
-            section={section}
-            day={day}
-          />
-        </div>
+        {viewMode === 'timetable' ? (
+          <div className="mt-12">
+            <TimetableDisplay
+              timetableData={timetableData}
+              department={department}
+              major={major}
+              year={year}
+              section={section}
+              day={day}
+            />
+          </div>
+        ) : null}
       </main>
 
       <Footer />
