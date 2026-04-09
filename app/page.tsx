@@ -3,9 +3,11 @@
 import { useEffect, useMemo, useState } from 'react'
 import TimetableSelector from '@/components/timetable-selector'
 import TimetableDisplay from '@/components/timetable-display'
+import FreeRoomFinder from '@/components/free-room-finder'
 import Footer from '@/components/footer'
 import DarkModeToggle from '@/components/dark-mode-toggle'
 import timetableDataJson from '@/lib/timetable-data.json'
+import uniqueRoomDataJson from '@/lib/unique-room-names.json'
 import type { TimetableTree } from '@/lib/timetable-types'
 
 const DEFAULT_DAYS = ['Weekly', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
@@ -35,7 +37,11 @@ function sortYears(yearList: string[]): string[] {
 }
 
 export default function Home() {
-  const timetableData = timetableDataJson as TimetableTree
+  const timetableData = timetableDataJson as unknown as TimetableTree
+  const uniqueRoomData = uniqueRoomDataJson as {
+    uniqueRooms: string[]
+    byDepartment?: Record<string, string[]>
+  }
 
   const [department, setDepartment] = useState('')
   const [major, setMajor] = useState('')
@@ -142,9 +148,7 @@ export default function Home() {
               setDay={setDay}
             />
           ) : (
-            <div className="border border-gray-300 bg-white p-8 dark:border-gray-700 dark:bg-black">
-              <p className="text-sm text-gray-600 dark:text-gray-300">Coming soon...</p>
-            </div>
+            <FreeRoomFinder timetableData={timetableData} uniqueRoomData={uniqueRoomData} />
           )}
         </div>
 
