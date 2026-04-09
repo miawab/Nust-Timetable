@@ -6460,7 +6460,17 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K23-BSCS-13D | CS347-PDC | Dr. Ayesha Maqbool | Thurs, 09 Apr, 2026 @ 0900-0950 in CR-26-Acad Block",
+              "course": "Makeup: CS347-PDC",
+              "room": "CR-26-Acad Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "----------------------------------------------",
+              "room": "CR-26-Acad Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Booked | BSCS-13D for Ms Nikhar Azhar on 16 Apr 26 @ 0900 hrs (Waqar)",
               "room": "CR-26-Acad Block"
             },
             {
