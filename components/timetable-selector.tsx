@@ -37,7 +37,7 @@ export default function TimetableSelector({
     <div className="space-y-6">
       <div className="grid gap-6 lg:grid-cols-3">
         <div>
-          <label className="block text-sm font-medium text-black mb-2">Department</label>
+          <label className="mb-2 block text-sm font-medium text-black dark:text-white">Department</label>
           <select
             value={department}
             onChange={(e) => {
@@ -47,7 +47,7 @@ export default function TimetableSelector({
               setSection('')
               setDay('')
             }}
-            className="w-full px-4 py-2 border border-gray-300 bg-white text-black focus:outline-none focus:border-black"
+            className="w-full border border-gray-300 bg-white px-4 py-2 text-black focus:border-black focus:outline-none dark:border-gray-700 dark:bg-black dark:text-white dark:focus:border-white"
           >
             <option value="">Select Department</option>
             {departments.map((dept) => (
@@ -59,7 +59,7 @@ export default function TimetableSelector({
         </div>
 
         <div>
-          <label className="block text-sm font-medium text-black mb-2">Major</label>
+          <label className="mb-2 block text-sm font-medium text-black dark:text-white">Major</label>
           <select
             value={major}
             onChange={(e) => {
@@ -69,7 +69,7 @@ export default function TimetableSelector({
               setDay('')
             }}
             disabled={!department}
-            className="w-full px-4 py-2 border border-gray-300 bg-white text-black focus:outline-none focus:border-black disabled:bg-gray-100 disabled:text-gray-400"
+            className="w-full border border-gray-300 bg-white px-4 py-2 text-black focus:border-black focus:outline-none disabled:bg-gray-100 disabled:text-gray-400 dark:border-gray-700 dark:bg-black dark:text-white dark:focus:border-white dark:disabled:bg-gray-900 dark:disabled:text-gray-500"
           >
             <option value="">Select Major</option>
             {majors.map((majorOption) => (
@@ -81,7 +81,7 @@ export default function TimetableSelector({
         </div>
 
         <div>
-          <label className="block text-sm font-medium text-black mb-2">Year</label>
+          <label className="mb-2 block text-sm font-medium text-black dark:text-white">Year</label>
           <select
             value={year}
             onChange={(e) => {
@@ -90,7 +90,7 @@ export default function TimetableSelector({
               setDay('')
             }}
             disabled={!major}
-            className="w-full px-4 py-2 border border-gray-300 bg-white text-black focus:outline-none focus:border-black disabled:bg-gray-100 disabled:text-gray-400"
+            className="w-full border border-gray-300 bg-white px-4 py-2 text-black focus:border-black focus:outline-none disabled:bg-gray-100 disabled:text-gray-400 dark:border-gray-700 dark:bg-black dark:text-white dark:focus:border-white dark:disabled:bg-gray-900 dark:disabled:text-gray-500"
           >
             <option value="">Select Year</option>
             {years.map((yearOption) => (
@@ -104,7 +104,7 @@ export default function TimetableSelector({
 
       <div className="grid gap-5 md:grid-cols-2">
         <div>
-          <label className="block text-sm font-medium text-black mb-2">Section</label>
+          <label className="mb-2 block text-sm font-medium text-black dark:text-white">Section</label>
           <select
             value={section}
             onChange={(e) => {
@@ -112,7 +112,7 @@ export default function TimetableSelector({
               setDay('')
             }}
             disabled={!year}
-            className="w-full px-4 py-2 border border-gray-300 bg-white text-black focus:outline-none focus:border-black disabled:bg-gray-100 disabled:text-gray-400"
+            className="w-full border border-gray-300 bg-white px-4 py-2 text-black focus:border-black focus:outline-none disabled:bg-gray-100 disabled:text-gray-400 dark:border-gray-700 dark:bg-black dark:text-white dark:focus:border-white dark:disabled:bg-gray-900 dark:disabled:text-gray-500"
           >
             <option value="">Select Section</option>
             {sections.map((sec) => (
@@ -124,14 +124,15 @@ export default function TimetableSelector({
         </div>
 
         <div>
-          <label className="block text-sm font-medium text-black mb-2">Day</label>
+          <label className="mb-2 block text-sm font-medium text-black dark:text-white">Day</label>
           <select
             value={day}
             onChange={(e) => setDay(e.target.value)}
             disabled={!section}
-            className="w-full px-4 py-2 border border-gray-300 bg-white text-black focus:outline-none focus:border-black disabled:bg-gray-100 disabled:text-gray-400"
+            className="w-full border border-gray-300 bg-white px-4 py-2 text-black focus:border-black focus:outline-none disabled:bg-gray-100 disabled:text-gray-400 dark:border-gray-700 dark:bg-black dark:text-white dark:focus:border-white dark:disabled:bg-gray-900 dark:disabled:text-gray-500"
           >
             <option value="">Select Day</option>
+            <option value="Weekly">Weekly View</option>
             {days.map((d) => (
               <option key={d} value={d}>
                 {d}

@@ -74,12 +74,53 @@ function parseClassCell(rawValue: string): { course: string; room: string } {
     .filter(Boolean)
 
   const firstLine = lines[0] ?? normalized
-  const roomMatch = normalized.match(/\(([^()]+)\)\s*$/)
+  const roomFromMakeupPattern =
+    normalized.match(/@\s*[^|\n]*?\b(?:in|at)\s+([^|\n]+?)(?=\s*(?:\||$))/i)?.[1]?.trim() ?? ''
+  const roomFromParentheses = normalized.match(/\(([^()]+)\)\s*$/)?.[1]?.trim() ?? ''
+
+  const room = roomFromMakeupPattern || roomFromParentheses
 
   return {
     course: firstLine.replace(/\s*\([^()]*\)\s*$/, '').trim(),
-    room: roomMatch?.[1]?.trim() ?? '',
+    room,
   }
+}
+
+function extractSectionDefaultRoom(rows: unknown[][], gridStart: number): string {
+  // In this workbook, schedule heading is above day header row for each block.
+  // Search upward inside current block only.
+  for (let idx = gridStart - 3; idx >= Math.max(0, gridStart - 10); idx -= 1) {
+    if (idx < 0 || idx >= rows.length) continue
+
+    const firstCell = cleanCell(rows[idx]?.[0])
+    if (normalizeHeader(firstCell) === normalizeHeader('TIME / DAYS')) {
+      break
+    }
+
+    const rowValues = rows[idx] ?? []
+    const text = rowValues
+      .map((cell) => cleanCell(cell))
+      .filter(Boolean)
+      .join(' ')
+
+    if (!text) continue
+    if (!/schedule\s+for/i.test(text)) continue
+
+    const scheduleMatch = text.match(/-\s*\(([^()]+)\)\s*$/)
+    if (scheduleMatch?.[1]) {
+      return scheduleMatch[1].trim()
+    }
+
+    const parenMatches = [...text.matchAll(/\(([^()]+)\)/g)]
+    for (let i = parenMatches.length - 1; i >= 0; i -= 1) {
+      const candidate = cleanCell(parenMatches[i][1])
+      if (/(cr-|block|hall|room|lab|mrc|lh|iaec|seminar|\d)/i.test(candidate)) {
+        return candidate
+      }
+    }
+  }
+
+  return ''
 }
 
 function getLatestWorkbookPath(): { fileName: string; filePath: string } {
@@ -193,6 +234,7 @@ export function parseLatestTimetableFromUploads(): ParsedTimetableResponse {
     }
 
     const rows = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: '' }) as unknown[][]
+    const sectionDefaultRoom = extractSectionDefaultRoom(rows, gridStart)
     const headerRow = rows[gridStart - 2] ?? []
 
     const dayColumns = DAY_NAMES.map((day) => {
@@ -222,10 +264,15 @@ export function parseLatestTimetableFromUploads(): ParsedTimetableResponse {
           continue
         }
 
+        const resolvedRoom =
+          room && room.trim().toLowerCase() !== 'main'
+            ? room.trim()
+            : sectionDefaultRoom || room.trim()
+
         ensurePath(data, department, major, studyLevel, section, day).push({
           time,
           course,
-          room,
+          room: resolvedRoom,
           raw: rawCell,
         })
       }

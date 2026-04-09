@@ -56,11 +56,10 @@ def parse_makeup_inline(line_text, time_slot):
 
     room = None
 
-    # For makeup rows, room is text between '@' and next '|'.
-    # Example:
-    # ... @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A
-    # => room: "1400-1550 in Lec-Hall PG Block"
-    at_match = re.search(r'@\s*([^|]+)', text)
+    # For makeup rows, extract room from patterns like:
+    # ... @ 1400-1550 in Lec-Hall PG Block | ...
+    # ... @ 1610-1655 at CR-16-IAEC
+    at_match = re.search(r'@\s*[^|\n]*?\b(?:in|at)\s+([^|\n]+?)(?=\s*(?:\||$))', text, re.IGNORECASE)
     if at_match:
         room = at_match.group(1).strip(' .')
     elif re.search(r'\bonline\b', text, re.IGNORECASE):
@@ -258,6 +257,47 @@ def parse_cell(cell_text, time_slot):
         
     return classes
 
+
+def extract_section_default_room(rows, header_row_index):
+    """Extract default room from schedule heading above 'TIME / DAYS'."""
+    if header_row_index < 0:
+        return None
+
+    # Search upward only within the current section header area (before previous TIME / DAYS).
+    # In this workbook, the schedule heading is typically at header_row_index - 1.
+    for idx in range(header_row_index - 1, max(-1, header_row_index - 8), -1):
+        if idx < 0 or idx >= len(rows):
+            continue
+
+        # Stop if we reached previous timetable block header.
+        row_first = str((rows[idx][0] if rows[idx] else '') or '').strip().upper()
+        if row_first == 'TIME / DAYS':
+            break
+
+        row_values = rows[idx] or []
+        text = " ".join(str(cell).strip() for cell in row_values if cell is not None and str(cell).strip())
+        if not text:
+            continue
+
+        if 'schedule for' not in text.lower():
+            continue
+
+        # Prefer the trailing parenthesized room in schedule headings:
+        # Schedule for ... - (CR-14-UG Block)
+        schedule_match = re.search(r'-\s*\(([^()]+)\)\s*$', text)
+        if schedule_match:
+            room = schedule_match.group(1).strip()
+            return room if room else None
+
+        # Fallback: any likely room in parentheses on the same schedule heading row.
+        paren_matches = re.findall(r'\(([^()]+)\)', text)
+        for candidate in reversed(paren_matches):
+            candidate = candidate.strip()
+            if is_probable_room(candidate):
+                return candidate
+
+    return None
+
 def main():
     # REPLACE THIS with your actual Excel file name if you didn't rename it
     excel_filename = "timetable.xlsx"  
@@ -281,6 +321,7 @@ def main():
             
             # The header of the table starts with "TIME / DAYS"
             if first_cell == "TIME / DAYS":
+                section_default_room = extract_section_default_room(rows, row_idx)
                 
                 # The Batch/Major/Section info is usually 1 or 2 rows above the table header
                 header_text = ""
@@ -323,6 +364,13 @@ def main():
                             if col_idx < len(r):
                                 cell_val = r[col_idx]
                                 classes = parse_cell(cell_val, time_val)
+
+                                if section_default_room:
+                                    for cls in classes:
+                                        room_val = str(cls.get("room") or "").strip()
+                                        if not room_val or room_val.lower() == "main":
+                                            cls["room"] = section_default_room
+
                                 timetable["SEECS"][major][year_label][section][day].extend(classes)
 
     # Save everything to the final JSON file

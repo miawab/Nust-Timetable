@@ -1273,12 +1273,12 @@
             {
               "time": "0900-0950",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
@@ -1315,17 +1315,17 @@
             {
               "time": "0900-0950",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1362,12 +1362,12 @@
             {
               "time": "1000-1050",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
@@ -1434,22 +1434,22 @@
             {
               "time": "0900-0950",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
@@ -1471,7 +1471,7 @@
             {
               "time": "0900-0950",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1000-1050",
@@ -1495,12 +1495,12 @@
             {
               "time": "0900-0950",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
@@ -1567,34 +1567,34 @@
             {
               "time": "1400-1450",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1400-1450",
@@ -1676,24 +1676,24 @@
             {
               "time": "1200-1250",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             }
           ],
           "Friday": [
             {
               "time": "1100-1150",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1400-1450",
@@ -1757,12 +1757,12 @@
             {
               "time": "1400-1450",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-19-IAEC"
             }
           ],
           "Tuesday": [
@@ -1779,7 +1779,7 @@
             {
               "time": "1100-1150",
               "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Tue, 07 Apr, 2026 @ 1100-1150 in CR-20-IAEC",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
@@ -1816,7 +1816,7 @@
             {
               "time": "0900-0950",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1000-1050",
@@ -1913,7 +1913,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Thurs, 09 Apr, 2026 @ 1200-1250 in Computing Lab-03",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
@@ -1935,47 +1935,47 @@
             {
               "time": "1000-1050",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Makeup | Ibrar Hussain | Fri, 27 Mar in CR-",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-19-IAEC"
             }
           ]
         },
@@ -2066,34 +2066,34 @@
             {
               "time": "1400-1450",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Digital Signal Processing",
-              "room": null
+              "room": "CR-18-IAEC"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1400-1450",
@@ -2160,7 +2160,7 @@
             {
               "time": "0900-0950",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1000-1050",
@@ -2180,59 +2180,59 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K23-BEE-15D | EE371-LCS | Dr. Neelma Naz | Thurs, 26 Mar, 2026 @ 1400-1450 Online",
-              "room": null
+              "room": "CR-18-IAEC"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Numerical Methods",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Linear Control Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Communication Systems",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": null
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "14:30 to 17:00 Hrs",
-              "room": null
+              "room": "CR-18-IAEC"
             }
           ]
         }
@@ -2243,22 +2243,22 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BEE-16A | EE313-Electronic Circuit Design | Dr. Usman Khan | Mon, 13, 20 & 27 Apr 2026 | @ 0900-0950 in CR-05",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1400-1450",
@@ -2280,54 +2280,54 @@
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-05-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Combine | AB | Expository Writing | Wed, 25 Mar, 2026",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1400-1450",
@@ -2354,29 +2354,29 @@
             {
               "time": "1500-1550",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-05-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "1000-1050",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: Microprocessor Systems",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1500-1550",
@@ -2386,7 +2386,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: Microprocessor Systems",
-              "room": null
+              "room": "CR-05-UG Block"
             },
             {
               "time": "1600-1650",
@@ -2420,78 +2420,78 @@
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-06-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "1000-1050",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-06-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1200-1250",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-06-UG Block"
             }
           ],
           "Thursday": [
             {
               "time": "1100-1150",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
@@ -2513,17 +2513,17 @@
             {
               "time": "1000-1050",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Makeups | 2K24-BEE-16AB-Combine | MATH-222-Linear Algebra | Dr. Imran Shahzad | Fri, 03 Apr, 2026 @ 1000-1150 online",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: Microprocessor Systems",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
@@ -2533,7 +2533,7 @@
             {
               "time": "1600-1650",
               "course": "Makeup: Microprocessor Systems",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
@@ -2547,39 +2547,39 @@
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "1100-1150",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
@@ -2601,7 +2601,7 @@
             {
               "time": "1000-1050",
               "course": "Makeup: Makeup | Linear Algebra",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
@@ -2611,39 +2611,39 @@
             {
               "time": "1100-1150",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ],
           "Thursday": [
             {
               "time": "1000-1050",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
@@ -2673,39 +2673,39 @@
             {
               "time": "1000-1050",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-08-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1000-1050",
@@ -2725,19 +2725,19 @@
             {
               "time": "1400-1450",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-08-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1000-1050",
               "course": "Makeup: Makeup | Linear Algebra",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1000-1050",
@@ -2747,12 +2747,12 @@
             {
               "time": "1100-1150",
               "course": "Electromagnetic Field Theory",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Makeup: Makeup | Electronic Circuit Design",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1200-1250",
@@ -2762,24 +2762,24 @@
             {
               "time": "1400-1450",
               "course": "Electronic Circuit Design",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-08-UG Block"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Makeup: Makeup | Electronic Circuit Design",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "0900-0950",
@@ -2804,24 +2804,24 @@
             {
               "time": "1400-1450",
               "course": "Microprocessor Systems",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-08-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "1000-1050",
               "course": "Makeup |  ENGL101-Expository Writing | Fri, 10 Apr, 2026 @ 1000-1150 in CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz",
-              "room": null
+              "room": "CR-08-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Makeup |  ENGL101-Expository Writing | Fri, 10 Apr, 2026 @ 1000-1150 in CR-01-UG Block (2K24-BEE-16D) Dr. Neelma Riaz",
-              "room": null
+              "room": "CR-08-UG Block"
             }
           ]
         }
@@ -2832,12 +2832,12 @@
             {
               "time": "1000-1050",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
@@ -2859,7 +2859,7 @@
             {
               "time": "0900-0950",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1000-1050",
@@ -2879,44 +2879,44 @@
             {
               "time": "1500-1550",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1000-1050",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ],
           "Thursday": [
@@ -2943,17 +2943,17 @@
             {
               "time": "1400-1450",
               "course": "2k25-BEE-17A&C-Combine | HU-127-ICP | Dr. Sobia Jamil | Thurs, 09 Apr, 2026 @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A | Rgr for C",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "2k25-BEE-17A | Makeshift @ 1600-1650 | MATH108-Differential Equations | Thurs, 09 Apr, 2026 | Dr. Azad Akhtar Siddiqui | Instead of 1500",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ],
           "Friday": [
@@ -2975,22 +2975,22 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2k25-BEE-17A | EE211-ENA | Mr. Ahsan Azhar | Fri, 03 Apr, 2026 @ 1200-1250 online",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ]
         },
@@ -3014,12 +3014,12 @@
             {
               "time": "1400-1450",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ],
           "Tuesday": [
@@ -3031,7 +3031,7 @@
             {
               "time": "1200-1250",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
@@ -3085,22 +3085,22 @@
             {
               "time": "0900-0950",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
@@ -3115,29 +3115,29 @@
             {
               "time": "1600-1650",
               "course": "Makeup | 2k25-BEE-17B | EE211-ENA | Mr. Ahsan Azhar | Thurs, 02 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-14-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1400-1450",
@@ -3156,12 +3156,12 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2k25-BEE-17C | MATH108-Differential Equations | Dr. Ibrar Hussain | Mon, 06 Apr, 2026 @ 0900-1050 in CR-28-Acad Block",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Makeups | 2k25-BEE-17C | MATH108-Differential Equations | Dr. Ibrar Hussain | Mon, 06 Apr, 2026 @ 0900-1050 in CR-28-Acad Block",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1100-1150",
@@ -3193,37 +3193,37 @@
             {
               "time": "0900-0950",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Student Advisory Session",
-              "room": null
+              "room": "CR-15-UG Block"
             }
           ],
           "Wednesday": [
@@ -3267,44 +3267,44 @@
             {
               "time": "0900-0950",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-15-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1100-1150",
@@ -3338,7 +3338,7 @@
             {
               "time": "1400-1450",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-15-UG Block"
             }
           ],
           "Tuesday": [
@@ -3370,44 +3370,44 @@
             {
               "time": "1600-1650",
               "course": "Student Advisory Session",
-              "room": null
+              "room": "CR-15-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Differential Equations",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2k25-BEE-17D | CS107-Computer Programming | Dr. Fahd Sikandar Khan | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-15-UG Block"
             }
           ],
           "Thursday": [
@@ -3461,12 +3461,12 @@
             {
               "time": "1100-1150",
               "course": "Makeups | 2k25-BEE-17D | CS107-Computer Programming | Dr. Fahd Sikandar Khan | Fri, 03 Apr, 2026 @ 1100-1150 online",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Computer Programming",
-              "room": null
+              "room": "CR-15-UG Block"
             },
             {
               "time": "1400-1450",
@@ -3509,66 +3509,66 @@
             {
               "time": "1200-1250",
               "course": "Linear Algebra & ODEs",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Fundamentals of Programming",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Logic and Sequential Circuit Design",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Logic and Sequential Circuit Design",
-              "room": null
+              "room": "CR-13-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Logic and Sequential Circuit Design",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Electrical Network Analysis",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Linear Algebra & ODEs",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Fundamentals of Programming",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": null
+              "room": "CR-13-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Linear Algebra & ODEs",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1000-1050",
@@ -3625,34 +3625,34 @@
             {
               "time": "1400-1450",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-13-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "1400-1450",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-13-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "MAkeup | 2K25-BCE-1A | MATH121-Linear Algebra & ODEs | Dr. Saira Zainab | Fri, 10 Apr, 2026 @ 1610-1655 in CR-16-IAEC",
-              "room": null
+              "room": "CR-13-UG Block"
             }
           ]
         }
@@ -4063,81 +4063,81 @@
             {
               "time": "1100-1150",
               "course": "Software Quality Engineering",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Entrepreneurship",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Human Computer Interaction",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Human Computer Interaction",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1600-1650",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-23-Acad Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Entrepreneurship",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-23-Acad Block"
             }
           ],
           "Thursday": [
             {
               "time": "1000-1050",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A&B-Combine | SE321-SQE | Ms. Ayesha Kanwal | Thurs, 02 Apr, 2026 @ 1500-1550 online",
-              "room": null
+              "room": "CR-23-Acad Block"
             }
           ],
           "Friday": [
@@ -4159,12 +4159,12 @@
             {
               "time": "1200-1250",
               "course": "Software Quality Engineering",
-              "room": null
+              "room": "CR-23-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A | CS471-Machine Learning | Fri, 03 Apr @ 1520-1605 online",
-              "room": null
+              "room": "CR-23-Acad Block"
             }
           ]
         },
@@ -4173,54 +4173,54 @@
             {
               "time": "1000-1050",
               "course": "Software Quality Engineering",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-24-Acad Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Human Computer Interaction",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Human Computer Interaction",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Entrepreneurship",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Software Quality Engineering",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-24-Acad Block"
             }
           ],
           "Wednesday": [
@@ -4247,29 +4247,29 @@
             {
               "time": "1400-1450",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-24-Acad Block"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Formal Methods",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Software Project Management",
-              "room": null
+              "room": "CR-24-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup | 2K23-BESE-14A&B-Combine | SE321-SQE | Ms. Ayesha Kanwal | Thurs, 02 Apr, 2026 @ 1500-1550 online",
-              "room": null
+              "room": "CR-24-Acad Block"
             }
           ],
           "Friday": [
@@ -4307,7 +4307,7 @@
             {
               "time": "1200-1250",
               "course": "Probability and Statistics",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1400-1450",
@@ -4329,54 +4329,54 @@
             {
               "time": "0900-0950",
               "course": "Probability and Statistics",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Complex Variables and Transforms",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "Software Design and Architecture",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Software Design and Architecture",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Tue, 31 Mar, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-16-IAEC"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Complex Variables and Transforms",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1200-1250",
@@ -4386,17 +4386,17 @@
             {
               "time": "1400-1450",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-16-IAEC"
             }
           ],
           "Thursday": [
@@ -4408,24 +4408,24 @@
             {
               "time": "1100-1150",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | MATH232-CVT | Thur, 02 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-16-IAEC"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BESE-15A | Operating Systems | Dr. Taufiq ur Rehman | Fri, 27 Mar, 2026 @ 0900-1050 in Online",
-              "room": null
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1000-1050",
@@ -4449,7 +4449,7 @@
             {
               "time": "0900-0950",
               "course": "Complex Variables and Transforms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1000-1050",
@@ -4476,91 +4476,91 @@
             {
               "time": "0900-0950",
               "course": "Complex Variables and Transforms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1000-1050",
               "course": "Probability and Statistics",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Islamic Studies",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | Dr. Mehvish Rashid |SE-211-SDA | Tue, 31 Mar, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-17-IAEC"
             }
           ],
           "Wednesday": [
             {
               "time": "1000-1050",
               "course": "Complex Variables and Transforms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1100-1150",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "Software Design and Architecture",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1500-1550",
               "course": "Software Design and Architecture",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | SE-211-SDA | Wed, 01 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-17-IAEC"
             }
           ],
           "Thursday": [
             {
               "time": "1000-1050",
               "course": "Probability and Statistics",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1200-1250",
               "course": "Operating Systems",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1400-1450",
               "course": "Design & Analysis of Algorithms",
-              "room": null
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BESE-15A&B-Combine | MATH232-CVT | Thur, 02 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-17-IAEC"
             }
           ],
           "Friday": [
@@ -4588,17 +4588,17 @@
             {
               "time": "1000-1050",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1400-1450",
@@ -4620,22 +4620,22 @@
             {
               "time": "0900-0950",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Functional English",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Functional English",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Student Advisory Session",
-              "room": null
+              "room": "CR-09-UG Block"
             }
           ],
           "Wednesday": [
@@ -4652,29 +4652,29 @@
             {
               "time": "1100-1150",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-09-UG Block"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 09 Apr, 2026 @ 0900-0950 in CR-03-UG Block",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1000-1050",
@@ -4694,17 +4694,17 @@
             {
               "time": "1400-1450",
               "course": "Functional English",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-09-UG Block"
             }
           ],
           "Friday": [
@@ -4716,27 +4716,27 @@
             {
               "time": "1100-1150",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeups | 2k25-BESE-16A | HU114-Functional English | Dr. Neelma Riaz | Fri, 10 Apr, 2026 @ 1400-1550 in CR-06-UG Block",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeups | 2k25-BESE-16A | HU114-Functional English | Dr. Neelma Riaz | Fri, 10 Apr, 2026 @ 1400-1550 in CR-06-UG Block",
-              "room": null
+              "room": "CR-09-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: On Fri, 10th April 2026 @ 1610-1655 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": null
+              "room": "CR-09-UG Block"
             }
           ]
         },
@@ -4745,7 +4745,7 @@
             {
               "time": "0900-0950",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1000-1050",
@@ -4765,81 +4765,81 @@
             {
               "time": "1400-1450",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-10-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "1000-1050",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Functional English",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Functional English",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Computer Architecture & Logic Design",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Tue, 14 Apr, 2026 @ 1600-1650 in CR-10-UG Block",
-              "room": null
+              "room": "CR-10-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1100-1150",
               "course": "Functional English",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Linear Algebra and ODEs",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: MATH121-Linear Algebra and ODEs",
-              "room": "1600-1650 in CR-16-IAEC"
+              "room": "CR-16-IAEC"
             },
             {
               "time": "1600-1650",
               "course": "---------",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: EE122-CA&LD",
-              "room": "1600-1650 in CR-10-UG"
+              "room": "CR-10-UG"
             }
           ],
           "Thursday": [
@@ -4856,7 +4856,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Thurs, 16 Apr, 2026 @ 1200-1250 in Computing Lab-05",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
@@ -4883,52 +4883,52 @@
             {
               "time": "1000-1050",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Understanding of Quran-II",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeup: MATH161-Discrete Mathematics",
-              "room": "1430-1515 online"
+              "room": "Online"
             },
             {
               "time": "1400-1450",
               "course": "--------",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeup: HU114-Functional English",
-              "room": "1430-1605 in CR-15"
+              "room": "CR-15"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: HU114-Functional English",
-              "room": "1520-1655 online"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
               "course": "---------------------",
-              "room": null
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: HU114-Functional English",
-              "room": "1430-1605 in CR-15"
+              "room": "CR-15"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: On Fri, 10th April 2026 @ 1610-1655 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": null
+              "room": "CR-10-UG Block"
             }
           ]
         }
@@ -4941,171 +4941,171 @@
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1400-1450 online"
+              "room": "Online"
             },
             {
               "time": "1400-1450",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1500-1550 online"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1600-1650 online"
+              "room": "Online"
             },
             {
               "time": "1600-1650",
               "course": "------",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Engineering Economics",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1400-1450",
@@ -5142,24 +5142,24 @@
             {
               "time": "1400-1450",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "1000-1050",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Engineering Economics",
-              "room": null
+              "room": "CR-07-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Principles of Sociology",
-              "room": null
+              "room": "CR-07-UG Block"
             }
           ]
         },
@@ -5168,171 +5168,171 @@
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1400-1650 online"
+              "room": "Online"
             },
             {
               "time": "1400-1450",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1400-1650 online"
+              "room": "Online"
             },
             {
               "time": "1500-1550",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeup: CS351-Compiler Construction",
-              "room": "1400-1650 online"
+              "room": "Online"
             },
             {
               "time": "1600-1650",
               "course": "------",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-06-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1000-1050",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Engineering Economics",
-              "room": null
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1400-1450",
@@ -5395,126 +5395,126 @@
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Makeups | 2K22-BSCS-12C | HU115-Principles of Sociology | Mon, 30 Mar, 2026 @ 1400-1550 online",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Makeups | 2K22-BSCS-12C | HU115-Principles of Sociology | Mon, 30 Mar, 2026 @ 1400-1550 online",
-              "room": null
+              "room": "CR-12-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "0900-0950",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "------",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "FYP-II",
-              "room": null
+              "room": "CR-12-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
               "course": "Engineering Economics",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Principles of Sociology",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
@@ -5536,12 +5536,12 @@
             {
               "time": "1500-1550",
               "course": "Engineering Economics",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-12-UG Block"
             }
           ],
           "Friday": [
@@ -5574,12 +5574,12 @@
             {
               "time": "0900-0950",
               "course": "Deep Learning",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Deep Learning",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -5693,12 +5693,12 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -5723,17 +5723,17 @@
             {
               "time": "1400-1450",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Wed, 25 Mar, 01,08,15 Apr 2026 @ 1600-1650 in CR-25-Acad Block",
-              "room": null
+              "room": "CR-25-Acad Block"
             }
           ],
           "Thursday": [
@@ -5755,17 +5755,17 @@
             {
               "time": "1400-1450",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Thur, 26 Mar, 02, 09, 16 Apr 2026 @ 1600-1650 in CR-25-Acad",
-              "room": null
+              "room": "CR-25-Acad Block"
             }
           ],
           "Friday": [
@@ -5787,7 +5787,7 @@
             {
               "time": "1200-1250",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -5811,12 +5811,12 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -5960,7 +5960,7 @@
             {
               "time": "1400-1450",
               "course": "@Makeup | 2K23-BSCS-13B | CS419-Deep Learning | Dr. Muhammad Imran Malik | Wed, 08, 15, 22, 29 Apr, 2026 @ 1400-1450 in CR-05 UG",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1500-1550",
@@ -5977,22 +5977,22 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -6014,7 +6014,7 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-25-Acad Block"
             },
             {
               "time": "1000-1050",
@@ -6192,12 +6192,12 @@
             {
               "time": "1400-1450",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-26-Acad Block"
             }
           ],
           "Thursday": [
@@ -6219,7 +6219,7 @@
             {
               "time": "1200-1250",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -6241,22 +6241,22 @@
             {
               "time": "0900-0950",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -6337,7 +6337,7 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K23-BSCS-13D | CS347-PDC | Dr. Ayesha Maqbool | Tue, 14 Apr, 2026 @ 0900-0950 in CR-25-Acad Block",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1000-1050",
@@ -6404,12 +6404,12 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -6444,14 +6444,14 @@
             {
               "time": "1600-1650",
               "course": "Industrial Visit: BSCS-13D, On Wed, 15th April 2026 @ 1600-1650 hrs",
-              "room": null
+              "room": "CR-26-Acad Block"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Makeup | 2K23-BSCS-13D | CS347-PDC | Dr. Ayesha Maqbool | Thurs, 09 Apr, 2026 @ 0900-0950 in CR-26-Acad Block",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1000-1050",
@@ -6508,12 +6508,12 @@
             {
               "time": "1400-1450",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-26-Acad Block"
             }
           ]
         },
@@ -6522,12 +6522,12 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -6579,7 +6579,7 @@
             {
               "time": "0900-0950",
               "course": "Software Engineering",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1000-1050",
@@ -6646,12 +6646,12 @@
             {
               "time": "0900-0950",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Parallel and Distributed Computing",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -6708,29 +6708,29 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K23-BSCS-13E | CS347-PDC | Dr. Ayesha Maqbool | Thurs, 16 Apr, 2026 @ 1400-1450 in CR-24-Acad Block",
-              "room": null
+              "room": "CR-27-Acad Block"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Deep Learning",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Deep Learning",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Compiler Construction",
-              "room": null
+              "room": "CR-27-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -6756,22 +6756,22 @@
             {
               "time": "0900-0950",
               "course": "Makeup | 2K24-BSCS-14A | Phy102-Applied Physics | Dr. Imran Malik | Mon, 30 Mar, 2026 @ 0900-0950 Online",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -6793,27 +6793,27 @@
             {
               "time": "1000-1050",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1400-1450",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1500-1550",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Wednesday": [
@@ -6840,19 +6840,19 @@
             {
               "time": "1400-1450",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1500-1550",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Makeups | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf | Thurs, 02 Apr, 2026 @ 0900-0950 online",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1000-1050",
@@ -6872,19 +6872,19 @@
             {
               "time": "1400-1450",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1500-1550",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1000-1050",
@@ -6904,7 +6904,7 @@
             {
               "time": "1500-1550",
               "course": "@Makeups | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf | Fri, 03 Apr, 2026 @ 1520-1605 online",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             }
           ]
         },
@@ -6913,7 +6913,7 @@
             {
               "time": "0900-0950",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1000-1050",
@@ -6933,17 +6933,17 @@
             {
               "time": "1400-1450",
               "course": "Industrial Visit: Mon, 13 April 2026 @ 1400-1700 hrs",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1500-1550",
               "course": "Industrial Visit: Mon, 13 April 2026 @ 1400-1700 hrs",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1600-1650",
               "course": "Industrial Visit: Mon, 13 April 2026 @ 1400-1700 hrs",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Tuesday": [
@@ -6977,17 +6977,17 @@
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7009,22 +7009,22 @@
             {
               "time": "0900-0950",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7046,12 +7046,12 @@
             {
               "time": "1100-1150",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Makeups | 2K24-BSCS-14B | CS343-Web Technologies | Dr. Farzana Jabeen | Fri, 03 Apr, 2026 @ 1200-1250 online",
-              "room": null
+              "room": "CR-21-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7090,7 +7090,7 @@
             {
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSCS-14C | CS343-Web Technologies | Dr. Farzana Jabeen | Mon, 13 Apr 2026 @ 1200-1250 hrs in CR- 21 RIMMS",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             }
           ],
           "Tuesday": [
@@ -7129,54 +7129,54 @@
             {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1400-1450",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1500-1550",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1600-1650",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             }
           ],
           "Thursday": [
             {
               "time": "0900-0950",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1000-1050",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7218,12 +7218,12 @@
             {
               "time": "1400-1450",
               "course": "@Makeups | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf | Fri, 03 Apr, 2026 @ 1430-1605 online",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K24-BSCS-14C | CS343-Web Technologies | Dr. Farzana Jabeen | Fri, 03 Apr, 2026 @ 1600-1650 online",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             }
           ]
         },
@@ -7232,22 +7232,22 @@
             {
               "time": "0900-0950",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7333,29 +7333,29 @@
             {
               "time": "1400-1450",
               "course": "Makeup | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thu, 9 Apr 26 @ 1400-1450 in CR-18 IAEC",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1100-1150",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1200-1250",
               "course": "Theory of Automata",
-              "room": null
+              "room": "CR-22-SMRIMMS"
             },
             {
               "time": "1400-1450",
@@ -7381,17 +7381,17 @@
             {
               "time": "0900-0950",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1200-1250",
@@ -7440,12 +7440,12 @@
             {
               "time": "0900-0950",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1100-1150",
@@ -7455,17 +7455,17 @@
             {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-02-UG Block"
             }
           ],
           "Thursday": [
@@ -7499,12 +7499,12 @@
             {
               "time": "1100-1150",
               "course": "@Makeup | 2K25-BSCS-15A | EE223-DLD | Mr. Arshad Nazir | Fri, 10 Apr, 2026 @ 1100-11050 in CR-02-UG Block",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1400-1450",
@@ -7548,34 +7548,34 @@
             {
               "time": "1400-1450",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-02-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1400-1450",
@@ -7619,12 +7619,12 @@
             {
               "time": "1000-1050",
               "course": "@Makeup | 2K25-BSCS-15B | EE223-DLD | Mr. Arshad Nazir | Thur, 09 Apr, 2026 @ 1000-1050 in CR-03-UG Block",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1200-1250",
@@ -7634,17 +7634,17 @@
             {
               "time": "1400-1450",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-02-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-02-UG Block"
             }
           ],
           "Friday": [
@@ -7690,34 +7690,34 @@
             {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "1000-1050",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1400-1450",
@@ -7739,17 +7739,17 @@
             {
               "time": "0900-0950",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Makeup | 2K25-BSCS-15C | EE223-DLD | Mr. Arshad Nazir | Wed, 08 Apr, 2026 @ 1100-1150 in Computing Lab-03",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1200-1250",
@@ -7796,7 +7796,7 @@
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1500-1550",
@@ -7813,27 +7813,27 @@
             {
               "time": "1000-1050",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-03-UG Block"
             }
           ]
         },
@@ -7842,22 +7842,22 @@
             {
               "time": "0900-0950",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1400-1450",
@@ -7894,34 +7894,34 @@
             {
               "time": "1500-1550",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-03-UG Block"
             }
           ],
           "Wednesday": [
             {
               "time": "1100-1150",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-03-UG Block"
             }
           ],
           "Thursday": [
@@ -7999,7 +7999,7 @@
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1200-1250",
@@ -8009,54 +8009,54 @@
             {
               "time": "1400-1450",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-04-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr 05, 12 , May @ 0900-0950 in Lec Hall-PG Block",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "@sMakeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Tue, 31 Mar, 2026 @ 1000-1050 Online",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "SAS",
-              "room": null
+              "room": "CR-04-UG Block"
             }
           ],
           "Wednesday": [
@@ -8105,12 +8105,12 @@
             {
               "time": "1000-1050",
               "course": "Makeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Thurs, 02 Apr, 2026 @ 1000-1050 online",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1100-1150",
@@ -8120,7 +8120,7 @@
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1200-1250",
@@ -8130,17 +8130,17 @@
             {
               "time": "1400-1450",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-04-UG Block"
             }
           ],
           "Friday": [
@@ -8157,17 +8157,17 @@
             {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-04-UG Block"
             }
           ]
         }
@@ -8212,27 +8212,27 @@
             {
               "time": "1100-1150",
               "course": "Data Warehousing and Business Intelligence",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Data Warehousing and Business Intelligence",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1400-1450",
               "course": "Parallel & Distributed Computing",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Parallel & Distributed Computing",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1600-1650",
               "course": "Parallel & Distributed Computing",
-              "room": null
+              "room": "CR-28-Acad Block"
             }
           ],
           "Wednesday": [
@@ -8254,12 +8254,12 @@
             {
               "time": "1400-1450",
               "course": "Large Language Models",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Large Language Models",
-              "room": null
+              "room": "CR-28-Acad Block"
             }
           ],
           "Thursday": [
@@ -8281,39 +8281,39 @@
             {
               "time": "1400-1450",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1500-1550",
               "course": "Ideology and Constitution of Pakistan",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Dr. Rabia Irfan | Thurs, 19 & 26 Feb, 2026 @ 1345-1425 in CR-14",
-              "room": null
+              "room": "CR-28-Acad Block"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Computer Vision",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1000-1050",
               "course": "Computer Vision",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1100-1150",
               "course": "Mobile Application Development-I",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1200-1250",
               "course": "Mobile Application Development-I",
-              "room": null
+              "room": "CR-28-Acad Block"
             },
             {
               "time": "1400-1450",
@@ -8359,17 +8359,17 @@
             {
               "time": "1400-1450",
               "course": "Advanced Statistics",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Introduction to Data Science",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Introduction to Data Science",
-              "room": null
+              "room": "CR-12-UG Block"
             }
           ],
           "Tuesday": [
@@ -8445,22 +8445,22 @@
             {
               "time": "0900-0950",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Machine Learning",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Advanced Statistics",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
@@ -8472,22 +8472,22 @@
             {
               "time": "0900-0950",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 27 Mar, 2026 @ 1200-1250 Online",
-              "room": null
+              "room": "CR-12-UG Block"
             }
           ]
         }
@@ -8540,7 +8540,7 @@
             {
               "time": "0900-0950",
               "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr 05, 12 , May @ 0900-0950 in Lec Hall-PG Block",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1000-1050",
@@ -8555,7 +8555,7 @@
             {
               "time": "1200-1250",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Wednesday": [
@@ -8567,32 +8567,32 @@
             {
               "time": "1000-1050",
               "course": "Makeup | 2K25-BSDS-3A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Wed, 08, 15, 22, 29 Apr, & 06, 13 May 2026 @ 1000-1050 in CR-10-UG Block",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Understanding of Quran II",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Thursday": [
@@ -8604,12 +8604,12 @@
             {
               "time": "1000-1050",
               "course": "Makeups | 2K25-BSDS-3A | MATH222-Linear Algebra | Dr. Bilal Ahmed | On Thurs, 09, 16, & 23 Apr, 2026 @ 1000-1050 in CR-04-UG Block",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1100-1150",
@@ -8619,7 +8619,7 @@
             {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1200-1250",
@@ -8629,17 +8629,17 @@
             {
               "time": "1400-1450",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Friday": [
@@ -8689,17 +8689,17 @@
             {
               "time": "1000-1050",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Computer Organization & Assembly Language",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
@@ -8748,7 +8748,7 @@
             {
               "time": "0900-0950",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1000-1050",
@@ -8785,22 +8785,22 @@
             {
               "time": "0900-0950",
               "course": "Expository Writing",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Web Technologies",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Applied Physics",
-              "room": null
+              "room": "CR-11-UG Block"
             },
             {
               "time": "1400-1450",
@@ -8843,54 +8843,54 @@
             {
               "time": "1000-1050",
               "course": "Multivariable Calculus",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Linear Algebra",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1400-1450",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1500-1550",
               "course": "Digital Logic Design",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "@sMakeup | 2K25-BSAI-2A | EE223-DLD | Mr. Muhammad Abdullah | Mon, 06 Apr, 2026 @ 1600-1650 in CR-01",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Tuesday": [
             {
               "time": "0900-0950",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1000-1050",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1100-1150",
               "course": "Database Systems",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1200-1250",
               "course": "Makeup | 2K25-BSAI-2A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Tue, 14, 21, 28, Apr 05, 12 , May 2026 @ 1200-1250 in CR-18-IAEC",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Wednesday": [
@@ -8954,19 +8954,19 @@
             {
               "time": "1500-1550",
               "course": "Makeups | 2K25-BSAI-2A | MATH222-Linear Algebra | Mr. Saeed Afzal | Thurs, 02 Apr, 2026 @ 1500-1650 online",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1600-1650",
               "course": "Makeups | 2K25-BSAI-2A | MATH222-Linear Algebra | Mr. Saeed Afzal | Thurs, 02 Apr, 2026 @ 1500-1650 online",
-              "room": null
+              "room": "CR-01-UG Block"
             }
           ],
           "Friday": [
             {
               "time": "0900-0950",
               "course": "Object Oriented Programming",
-              "room": null
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1000-1050",

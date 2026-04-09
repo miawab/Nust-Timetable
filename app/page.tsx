@@ -4,10 +4,11 @@ import { useEffect, useMemo, useState } from 'react'
 import TimetableSelector from '@/components/timetable-selector'
 import TimetableDisplay from '@/components/timetable-display'
 import Footer from '@/components/footer'
+import DarkModeToggle from '@/components/dark-mode-toggle'
 import timetableDataJson from '@/lib/timetable-data.json'
 import type { TimetableTree } from '@/lib/timetable-types'
 
-const DEFAULT_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+const DEFAULT_DAYS = ['Weekly', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
 function getCookie(name: string): string {
   const value = `; ${document.cookie}`
@@ -85,10 +86,14 @@ export default function Home() {
   )
 
   return (
-    <div className="min-h-screen flex flex-col bg-white">
+    <div className="min-h-screen flex flex-col bg-white text-black dark:bg-black dark:text-white">
       <main className="flex-1 max-w-4xl mx-auto w-full px-4 py-12">
+        <div className="mb-6 flex justify-end">
+          <DarkModeToggle />
+        </div>
+
         <div className="mb-12">
-          <h1 className="text-3xl font-semibold text-black mb-8">NUST Timetable</h1>
+          <h1 className="text-3xl font-semibold text-black dark:text-white mb-8">NUST Timetable</h1>
 
           <TimetableSelector
             departments={departments}
