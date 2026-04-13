@@ -2568,9 +2568,34 @@
               "time": "1500-1550",
               "course": "Linear Algebra",
               "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeups | 2K24-BEE-16C | EE313-Electronic Circuit Design | Dr. Muhammad Saad Zia | Mon, 13  Apr 2026 | @ 1600-1650 in CR- 07",
+              "room": "CR- 07"
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeups | 2K24-BEE-16C | EE241-EFT | Dr. Wasif Tanveer | Tue, 21 Apr, 2026 @ 0900-1050 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: EE241-EFT",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "-------------",
+              "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: EE241-EFT",
+              "room": "Lec Hall-IAEC"
+            },
             {
               "time": "1100-1150",
               "course": "Expository Writing",
@@ -2898,6 +2923,11 @@
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2k25-BEE-17A | CS107-CP | Dr. Sadiq Amin | Wed, 15 Apr, 2026 @ 0900-0950 in CR-10-UG Block",
+              "room": "CR-10-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Ideology and Constitution of Pakistan",
@@ -3661,7 +3691,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "MAkeup | 2K25-BCE-1A | MATH121-Linear Algebra & ODEs | Dr. Saira Zainab | Fri, 10 Apr, 2026 @ 1610-1655 in CR-16-IAEC",
+              "course": "MAkeup | 2K25-BCE-1A | MATH121-Linear Algebra & ODEs | Dr. Saira Zainab | Fri, 17 Apr, 2026 @ 1610-1655 in CR-16-IAEC",
               "room": "CR-16-IAEC"
             }
           ]
@@ -4683,7 +4713,7 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 09 Apr, 2026 @ 0900-0950 in CR-03-UG Block",
+              "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 16 Apr, 2026 @ 0900-0950 in CR-03-UG Block",
               "room": "CR-03-UG Block"
             },
             {
@@ -5820,13 +5850,33 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
+              "course": "Makeup: CS346-Compiler Construction",
+              "room": "CR-26 Acad"
+            },
+            {
+              "time": "0900-0950",
+              "course": "---------",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Makeup: CS419-Deep Learning",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: CS346-Compiler Construction",
               "room": "CR-26 Acad"
             },
             {
               "time": "1000-1050",
-              "course": "Makeup | 2K23-BSCS-13B | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Mon, 16 & 30 Mar, 06, 13 Apr, 2026 @ 0900-1050 in CR-26 Acad",
-              "room": "CR-26 Acad"
+              "course": "---------------",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: CS419-Deep Learning",
+              "room": "Lec Hall-PG Block"
             },
             {
               "time": "1100-1150",
@@ -6460,18 +6510,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup: CS347-PDC",
-              "room": "CR-26-Acad Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "----------------------------------------------",
-              "room": "CR-26-Acad Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "Booked | BSCS-13D for Ms Nikhar Azhar on 16 Apr 26 @ 0900 hrs (Waqar)",
-              "room": "CR-26-Acad Block"
+              "course": "Makeup | 2K23-BSCS-13D | CS419-Deep Learning | Ms Nikhar Azhar on Thu, 16 Apr 26 @ 0900-0950 hrs in CR-23 Acad Block",
+              "room": "CR-23 Acad Block"
             },
             {
               "time": "1000-1050",
