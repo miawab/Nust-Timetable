@@ -3595,12 +3595,12 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
+              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 14 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
               "room": "MRC Lab-SMME"
             },
             {
               "time": "1600-1650",
-              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 07 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
+              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 14 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
               "room": "MRC Lab-SMME"
             }
           ],
@@ -6906,6 +6906,11 @@
               "time": "1500-1550",
               "course": "Computer Organization & Assembly Language",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14A | PHY102-Applied Physics | Dr. Imran Malik | Wed, 15 Apr, 2026 @ 1600-1650 in CR-21-RIMMS",
+              "room": "CR-21-RIMMS"
             }
           ],
           "Thursday": [
@@ -7034,6 +7039,11 @@
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14B | PHY102-Applied Physics | Dr. Imran Malik | Wed, 15 Apr, 2026 @ 0900-0950 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
+            },
             {
               "time": "1000-1050",
               "course": "Expository Writing",
@@ -8546,8 +8556,8 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 27 Mar, 2026 @ 1200-1250 Online",
-              "room": "Online"
+              "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 17 Apr, 2026 @ 1200-1250 in CR-12-UG Block",
+              "room": "CR-12-UG Block"
             }
           ]
         }
