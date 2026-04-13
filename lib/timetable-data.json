@@ -4324,6 +4324,16 @@
           ],
           "Friday": [
             {
+              "time": "0900-0950",
+              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 17 Apr, 2026 @ 0900-1050 in CR-24-Acad Block",
+              "room": "CR-24-Acad Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 17 Apr, 2026 @ 0900-1050 in CR-24-Acad Block",
+              "room": "CR-24-Acad Block"
+            },
+            {
               "time": "1100-1150",
               "course": "Software Quality Engineering",
               "room": "CR-23-Acad Block"
