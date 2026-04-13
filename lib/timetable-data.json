@@ -1573,6 +1573,11 @@
               "time": "1500-1550",
               "course": "Communication Systems",
               "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeshift | 2K23-BEE-15B | EE371-LCS | Dr. Farid Gul | Tue, 14 Apr, 2026 @ 1600-1650 in CR-20-IAEC",
+              "room": "instead of @ 1400"
             }
           ],
           "Wednesday": [
@@ -4675,6 +4680,11 @@
             {
               "time": "1200-1250",
               "course": "Student Advisory Session",
+              "room": "CR-09-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 21 @1600 Hrs",
               "room": "CR-09-UG Block"
             }
           ],
