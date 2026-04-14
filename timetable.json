@@ -2889,8 +2889,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "2k25-BEE-17A&C-Combine | HU-127-ICP | Dr. Sobia Jamil | Thurs, 09 Apr, 2026 @ 1400-1550 in Lec-Hall PG Block | 2x Mkp for A | Rgr for C",
-              "room": "Lec-Hall PG Block"
+              "course": "Student Advisory Session-16 Apr 2026-Mr. Munadi Sial",
+              "room": "CR-14-UG Block"
             },
             {
               "time": "1500-1550",
@@ -4106,6 +4106,11 @@
             {
               "time": "1200-1250",
               "course": "Software Quality Engineering",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup Lab | 2K23-BESE-14A | CS471-Machine Learning |",
               "room": "CR-23-Acad Block"
             }
           ]
@@ -7036,6 +7041,11 @@
               "time": "1200-1250",
               "course": "Expository Writing",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2K24-BSCS-14C | PHY102-Applied Physics | Dr. Sidra Shafiq | Fri, 17 Apr, 2026 @ 1430-1515 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
             }
           ]
         },
@@ -7141,6 +7151,11 @@
               "time": "1200-1250",
               "course": "Expository Writing",
               "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Thurs, 16 Apr, 2026 @ 1400-1450 in CR-19-IAEC",
+              "room": "CR-19-IAEC"
             }
           ],
           "Friday": [
