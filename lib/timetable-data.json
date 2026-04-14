@@ -7285,6 +7285,11 @@
               "room": "CR-11-UG Block"
             },
             {
+              "time": "1200-1250",
+              "course": "Makeup | 2K25-BSCS-15A | EE223-Digital Logic Design | Wed, 15 Apr, 2026 @ 1200-1250 in Mr. Arshad Nazir",
+              "room": "Mr. Arshad Nazir"
+            },
+            {
               "time": "1400-1450",
               "course": "Understanding of Quran II",
               "room": "CR-02-UG Block"
@@ -7557,6 +7562,11 @@
               "time": "1000-1050",
               "course": "Object Oriented Programming",
               "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeup | 2K25-BSCS-15C | EE223-Digital Logic Design | Wed, 15 Apr, 2026 @ 1100-1150 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
             },
             {
               "time": "1200-1250",
