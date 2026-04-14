@@ -2901,12 +2901,22 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Makeup: Workshop Practice (Lab)",
+              "course": "Makeup: Makeup 2k25-BEE-17A | 17 April 2026",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
             {
               "time": "1000-1050",
-              "course": "Makeup: Workshop Practice (Lab)",
+              "course": "Makeup: Makeup 2k25-BEE-17A | 17 April 2026",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
             {
@@ -3387,12 +3397,22 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Makeup: Workshop Practice (Lab)",
+              "course": "2k25-BEE-17D | Makeup |17 April 2026 @ 0900-1050",
+              "room": "CR-15-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
             {
               "time": "1000-1050",
-              "course": "Makeup: Workshop Practice (Lab)",
+              "course": "2k25-BEE-17D | Makeup |17 April 2026 @ 0900-1050",
+              "room": "CR-15-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
             },
             {
