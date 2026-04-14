@@ -4110,8 +4110,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup Lab | 2K23-BESE-14A | CS471-Machine Learning |",
-              "room": "CR-23-Acad Block"
+              "course": "Makeup Lab | 2K23-BESE-14A | CS471-Machine Learning | Ms. Alishba Zulfiqar | On Fri, 17 & 24 Apr, 2026 @ 1430-1655 in Computing Lab-03",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup Lab | 2K23-BESE-14A | CS471-Machine Learning | Ms. Alishba Zulfiqar | On Fri, 17 & 24 Apr, 2026 @ 1430-1655 in Computing Lab-03",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K23-BESE-14A | CS471-Machine Learning | Ms. Alishba Zulfiqar | On Fri, 17 & 24 Apr, 2026 @ 1430-1655 in Computing Lab-03",
+              "room": "Computing Lab-03"
             }
           ]
         },
