@@ -5579,7 +5579,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Wed, 25 Mar, 01,08,15 Apr 2026 @ 1600-1650 in CR-25-Acad Block",
+              "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Wed, 22, Apr 2026 @ 1600-1650 in CR-25-Acad Block",
               "room": "CR-25-Acad Block"
             }
           ],
@@ -5608,11 +5608,6 @@
               "time": "1500-1550",
               "course": "Parallel and Distributed Computing",
               "room": "CR-25-Acad Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "@sMakeup | 2K23-BSCS-13A | CS346-Compiler Construction | Dr. Muhammad Ahmad Rathore | Thur, 26 Mar, 02, 09, 16 Apr 2026 @ 1600-1650 in CR-25-Acad",
-              "room": "CR-25-Acad"
             }
           ],
           "Friday": [
@@ -8559,6 +8554,11 @@
               "time": "1500-1550",
               "course": "Machine Learning",
               "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BSAI-1 A | Industrial Visit | RapidsAI | Tuesday, Apr 21 @ 1600",
+              "room": "CR-11-UG Block"
             }
           ],
           "Wednesday": [
