@@ -2967,9 +2967,19 @@
               "time": "1500-1550",
               "course": "Electrical Network Analysis",
               "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2k25-BEE-17B | HU101-Islamic Studies | Mr. Ammar Ahmed | Mon, 20 Apr, 2026 @ 1600-1650 in CR-05-UG Block",
+              "room": "CR-05-UG Block"
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2k25-BEE-17B | HU127-ICP | Dr. Sobia Jamil | Tue, 21 Apr, 2026 @ 0900-0950 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
+            },
             {
               "time": "1000-1050",
               "course": "Islamic Studies",
@@ -3057,6 +3067,11 @@
             {
               "time": "1500-1550",
               "course": "Computer Programming",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2k25-BEE-17B | HU127-ICP | Dr. Sobia Jamil | Thurs, 16 Apr, 2026 @ 1600-1650 in CR-10-UG Block",
               "room": "CR-10-UG Block"
             }
           ],
@@ -3591,6 +3606,11 @@
             }
           ],
           "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeup | 2K25-BCE-1A | CS114-FoP | Dr. Sadiq Amin | Fri, 17 Apr, 2026 @ 1000-1050 in CR-02-UG Block",
+              "room": "CR-02-UG Block"
+            },
             {
               "time": "1400-1450",
               "course": "Ideology and Constitution of Pakistan",
