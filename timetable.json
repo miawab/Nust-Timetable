@@ -1487,6 +1487,16 @@
               "time": "1200-1250",
               "course": "Communication Systems (Lab)",
               "room": "DSP & Comm Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Linear Control Systems",
+              "room": "CR-19-IAEC"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(CR-19-IAEC) 17 Apr 2026",
+              "room": "CR-19-IAEC"
             }
           ]
         },
@@ -1691,6 +1701,16 @@
             {
               "time": "1500-1550",
               "course": "Communication Systems",
+              "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Linear Control Systems",
+              "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(CR-06-UG Block) 16 Apr 2026",
               "room": "CR-20-IAEC"
             }
           ],
@@ -1909,6 +1929,16 @@
               "time": "1100-1150",
               "course": "Numerical Methods",
               "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Linear Control Systems",
+              "room": "CR-19-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(Control System Lab) 16 Apr 2026",
+              "room": "CR-19-IAEC"
             },
             {
               "time": "1400-1450",
@@ -7726,6 +7756,16 @@
           ],
           "Wednesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS220-Database Systems | Mr. Hamza Fayyaz | Wed, 22 Apr, 2026 @ 0900-1050 in Computing Lab-02",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS220-Database Systems | Mr. Hamza Fayyaz | Wed, 22 Apr, 2026 @ 0900-1050 in Computing Lab-02",
+              "room": "Computing Lab-02"
+            },
+            {
               "time": "1100-1150",
               "course": "Linear Algebra",
               "room": "CR-03-UG Block"
@@ -8022,6 +8062,16 @@
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 21 @ 0900-1100 hrs",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 21 @ 0900-1100 hrs",
+              "room": "CR-28-Acad Block"
+            },
+            {
               "time": "1100-1150",
               "course": "Data Warehousing and Business Intelligence",
               "room": "CR-28-Acad Block"
@@ -8278,6 +8328,11 @@
               "time": "1400-1450",
               "course": "Applied Physics",
               "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup | 2K24-BSDS-2A | STAT222-Advanced Statistics | Ms. Ansar Shahzadi |  Thu, 16 Apr 26 @ 1500-1550 hrs in Lec Hall PG",
+              "room": "Lec Hall PG"
             }
           ],
           "Friday": [
