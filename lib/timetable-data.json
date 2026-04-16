@@ -2377,7 +2377,18 @@
               "room": "CR-05-UG Block"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
+              "room": "CR-01-UG Block"
+            }
+          ]
         },
         "B": {
           "Monday": [
@@ -2493,7 +2504,18 @@
               "room": "Embedded Systems Lab"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
+              "room": "CR-01-UG Block"
+            }
+          ]
         },
         "C": {
           "Monday": [
