@@ -8373,8 +8373,23 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup | 2K24-BSDS-2A | STAT222-Advanced Statistics | Ms. Ansar Shahzadi |  Thu, 16 Apr 26 @ 1500-1550 hrs in Lec Hall PG",
+              "course": "Makeup: STAT222-Advanced Statistics",
               "room": "Lec Hall PG"
+            },
+            {
+              "time": "1500-1550",
+              "course": "----------",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 23 | @ 1500-1650",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 23 | @ 1500-1650",
+              "room": "CR-12-UG Block"
             }
           ],
           "Friday": [
