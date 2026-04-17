@@ -2819,6 +2819,11 @@
         "A": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Makeups | On Mon, 20 Apr 2026 @ 0900-0950 hrs in Lec Hall IAEC | MATH108-Differential Equations | (2k25-BEE-17A&B) Dr. Azad Akhtar Siddiqui",
+              "room": "Lec Hall IAEC"
+            },
+            {
               "time": "1000-1050",
               "course": "Computer Programming",
               "room": "CR-14-UG Block"
@@ -3000,6 +3005,11 @@
         },
         "B": {
           "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeups | On Mon, 20 Apr 2026 @ 0900-0950 hrs in Lec Hall IAEC | MATH108-Differential Equations | (2k25-BEE-17A&B) Dr. Azad Akhtar Siddiqui",
+              "room": "Lec Hall IAEC"
+            },
             {
               "time": "1000-1050",
               "course": "Computer Programming (Lab)",
