@@ -1309,6 +1309,11 @@
               "time": "1200-1250",
               "course": "Digital System Design (Gp-01 & Gp-02)",
               "room": "Lecture Hall-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: At 1500-1550 hrs in LH PG (2K23-BEE-15AB) Dr. Farid Gul",
+              "room": "CR-19-IAEC"
             }
           ],
           "Tuesday": [
@@ -1541,6 +1546,11 @@
               "time": "1200-1250",
               "course": "Digital System Design (Gp-01 & Gp-02)",
               "room": "Lecture Hall-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: At 1500-1550 hrs in LH PG (2K23-BEE-15AB) Dr. Farid Gul",
+              "room": "CR-20-IAEC"
             }
           ],
           "Tuesday": [
@@ -1787,6 +1797,11 @@
             {
               "time": "1500-1550",
               "course": "Digital Signal Processing",
+              "room": "CR-19-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup: At 1600-1650 hrs in LH PG (2K23-BEE-15C) Dr. Farid Gul",
               "room": "CR-19-IAEC"
             }
           ],
@@ -4949,32 +4964,17 @@
             },
             {
               "time": "1400-1450",
-              "course": "------",
-              "room": "CR-07-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-07-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "------",
-              "room": "CR-07-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-07-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "------",
-              "room": "CR-07-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-07-UG Block"
             }
           ],
@@ -5161,32 +5161,17 @@
             },
             {
               "time": "1400-1450",
-              "course": "------",
-              "room": "CR-06-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "------",
-              "room": "CR-06-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-06-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "------",
-              "room": "CR-06-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "FYP-II",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
               "room": "CR-06-UG Block"
             }
           ],
@@ -5301,9 +5286,9 @@
               "room": "Lecture Hall-IAEC"
             },
             {
-              "time": "1500-1550",
+              "time": "1400-1450",
               "course": "Compiler Construction",
-              "room": "CR-07-UG Block"
+              "room": "CR-06-UG Block"
             }
           ],
           "Friday": [
@@ -5370,6 +5355,21 @@
               "time": "1200-1250",
               "course": "FYP-II",
               "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "CR-12-UG Block"
             }
           ],
           "Tuesday": [
@@ -5415,12 +5415,27 @@
             },
             {
               "time": "1400-1450",
+              "course": "------",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
               "course": "FYP-II",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1500-1550",
+              "course": "------",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
               "course": "FYP-II",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "------",
               "room": "CR-12-UG Block"
             },
             {
@@ -5463,12 +5478,7 @@
           ],
           "Thursday": [
             {
-              "time": "1500-1550",
-              "course": "Engineering Economics",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1600-1650",
+              "time": "1400-1450",
               "course": "Compiler Construction",
               "room": "CR-12-UG Block"
             }
