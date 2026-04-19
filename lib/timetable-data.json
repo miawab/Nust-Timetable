@@ -7035,6 +7035,26 @@
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSCS-14C | CS343-Web Technologies | Dr. Farzana Jabeen | Mon, 13 Apr 2026 @ 1200-1250 hrs in CR- 21 RIMMS",
               "room": "CR- 21 RIMMS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeshift | 2K24-BSCS-14C | Web Technologies",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(CR-18-IAEC) @ 1400-1550 Online | Instead of @ 0900 in CR-16",
+              "room": "Online"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeshift | 2K24-BSCS-14C | Web Technologies",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(CR-18-IAEC) @ 1400-1550 Online | Instead of @ 0900 in CR-16",
+              "room": "Online"
             }
           ],
           "Tuesday": [
