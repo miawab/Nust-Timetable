@@ -4830,7 +4830,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "@sMakeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Tue, 14 Apr, 2026 @ 1600-1650 in CR-10-UG Block",
+              "course": "@sMakeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Tue, 21 Apr, 2026 @ 1600-1650 in CR-10-UG Block",
               "room": "CR-10-UG Block"
             }
           ],
@@ -8413,22 +8413,12 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup: STAT222-Advanced Statistics",
-              "room": "Lec Hall PG"
-            },
-            {
-              "time": "1500-1550",
-              "course": "----------",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 23 | @ 1500-1650",
+              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 30 | @ 1500-1650",
               "room": "CR-12-UG Block"
             },
             {
               "time": "1600-1650",
-              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 23 | @ 1500-1650",
+              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 30 | @ 1500-1650",
               "room": "CR-12-UG Block"
             }
           ],
@@ -8520,6 +8510,16 @@
               "time": "1200-1250",
               "course": "Database Systems",
               "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "room": "CR-02-UG Block"
             }
           ],
           "Wednesday": [
@@ -8709,7 +8709,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "BSAI-1 A | Industrial Visit | RapidsAI | Tuesday, Apr 21 @ 1600",
+              "course": "BSAI-1 A | Industrial Visit | RapidsAI | Tuesday, Apr 28 @ 1600",
               "room": "CR-11-UG Block"
             }
           ],
