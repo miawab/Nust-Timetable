@@ -7649,6 +7649,11 @@
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeshift @ 0900 | MV | Tue, 21 Apr, 2026",
+              "room": "CR-03-UG Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Multivariable Calculus",
               "room": "CR-03-UG Block"
