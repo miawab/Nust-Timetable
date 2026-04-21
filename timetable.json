@@ -2818,12 +2818,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "Expository Writing",
-              "room": "CR-08-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "(09 April 2026) Online",
+              "course": "Makeup | 2K24-BEE-16D | ENGL101-Expository Writing | Dr. Neelma Riaz | Thurs, 23 Apr, 2026 @ 1600-1650 Online | 1x addition to Rglr",
               "room": "Online"
             }
           ],
@@ -4766,6 +4761,11 @@
               "time": "1200-1250",
               "course": "Object Oriented Programming",
               "room": "CR-09-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2k25-BESE-16A | HU114-Functional English | Dr Neelma Riaz | Fri, 24 Apr, 2026 @ 1400-1450 Online",
+              "room": "Online"
             }
           ]
         },
@@ -8883,7 +8883,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K25-BSAI-2A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Tue, 14, 21, 28, Apr 05, 12 , May 2026 @ 1200-1250 in CR-18-IAEC",
+              "course": "Makeup | 2K25-BSAI-2A | MATH234-Multivariable Calculus | Dr. Atifa Kanwal | Tue, 14, 21, 28, Apr 2026 @ 1200-1250 in CR-18-IAEC",
               "room": "CR-18-IAEC"
             }
           ],
