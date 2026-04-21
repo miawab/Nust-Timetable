@@ -1596,7 +1596,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeshift | 2K23-BEE-15B | EE371-LCS | Dr. Farid Gul | Tue, 14 Apr, 2026 @ 1600-1650 in CR-20-IAEC",
+              "course": "Makeshift | 2K23-BEE-15B | EE371-LCS | Dr. Farid Gul | Tue, 21 Apr, 2026 @ 1600-1650 in CR-20-IAEC",
               "room": "instead of @ 1400"
             }
           ],
@@ -8518,13 +8518,38 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "course": "Makeup: HU132-UoQ II",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "--------------",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup: EE223-DLD",
               "room": "CR-02-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "course": "Makeup: HU132-UoQ II",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "--------------",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: EE223-DLD",
               "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K25-BSDS-3A | HU132-UoQ II | Hafiz Muhammad Siddique | Tue, 21 Apr, 2026 @ 1400-1650 in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
             }
           ],
           "Wednesday": [
