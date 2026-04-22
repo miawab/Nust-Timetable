@@ -316,7 +316,18 @@
               "room": "SMRIMMS Seminar Hall"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeups | 2K22-BEE-14A | MGT271-Entrepreneurship | Mr. Yaruq Nadeem | Fri, 24 Apr, 2026 @ 0900-1050 online",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K22-BEE-14A | MGT271-Entrepreneurship | Mr. Yaruq Nadeem | Fri, 24 Apr, 2026 @ 0900-1050 online",
+              "room": null
+            }
+          ]
         },
         "B": {
           "Monday": [
@@ -5144,6 +5155,11 @@
               "room": "Lecture Hall-IAEC"
             },
             {
+              "time": "1200-1250",
+              "course": "Makeup | 2K22-BSCS-12ABC-Combine | ECO132-Engineering Economics | Dr. Muhammad Yousaf | Thurs, 23 Apr, 2026 @ 1200-1350 online",
+              "room": "1x Rglr, 1x Makp"
+            },
+            {
               "time": "1400-1450",
               "course": "Compiler Construction",
               "room": "CR-07-UG Block"
@@ -5527,6 +5543,11 @@
             }
           ],
           "Thursday": [
+            {
+              "time": "1200-1250",
+              "course": "Makeup | 2K22-BSCS-12ABC-Combine | ECO132-Engineering Economics | Dr. Muhammad Yousaf | Thurs, 23 Apr, 2026 @ 1200-1350 online",
+              "room": "1x Rglr, 1x Makp"
+            },
             {
               "time": "1400-1450",
               "course": "Compiler Construction",
