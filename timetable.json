@@ -4766,6 +4766,16 @@
               "time": "1400-1450",
               "course": "Makeup | 2k25-BESE-16A | HU114-Functional English | Dr Neelma Riaz | Fri, 24 Apr, 2026 @ 1400-1450 Online",
               "room": "Online"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: Makeup | MATH161-DM",
+              "room": "CR-09-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
+              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
             }
           ]
         },
@@ -4913,6 +4923,16 @@
               "time": "1200-1250",
               "course": "Understanding of Quran-II",
               "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: Makeup | MATH161-DM",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
+              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
             }
           ]
         }
