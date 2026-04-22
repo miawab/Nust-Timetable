@@ -3685,8 +3685,23 @@
           "Friday": [
             {
               "time": "1000-1050",
-              "course": "Makeup | 2K25-BCE-1A | CS114-FoP | Dr. Sadiq Amin | Fri, 17 Apr, 2026 @ 1000-1050 in CR-02-UG Block",
+              "course": "Makeup: CS114-FoP",
               "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "------------------------",
+              "room": "CR-13-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: MATH121-Linear Algebra & ODEs",
+              "room": "Online"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeup | 2K25-BCE-1A | MATH121-Linear Algebra & ODEs | Dr. Saira Zainab | Fri, 24 Apr, 2026 @ 1000-1150 online",
+              "room": "Online"
             },
             {
               "time": "1400-1450",
@@ -4712,8 +4727,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 16 Apr, 2026 @ 0900-0950 in CR-03-UG Block",
-              "room": "CR-03-UG Block"
+              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 23 Apr, 2026 @ 0900-0950 online",
+              "room": "Online"
             },
             {
               "time": "1000-1050",
@@ -4776,6 +4791,11 @@
               "time": "1500-1550",
               "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
               "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Fri, 24 Apr, 2026 @ 1600-1650 online",
+              "room": "Online"
             }
           ]
         },
@@ -4873,6 +4893,11 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 23 Apr, 2026 @ 0900-0950 online",
+              "room": "Online"
+            },
+            {
               "time": "1000-1050",
               "course": "Discrete Mathematics",
               "room": "Lecture Hall-PG Block"
@@ -4933,6 +4958,11 @@
               "time": "1500-1550",
               "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
               "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Fri, 24 Apr, 2026 @ 1600-1650 online",
+              "room": "Online"
             }
           ]
         }
