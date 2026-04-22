@@ -7252,8 +7252,23 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2K24-BSCS-14C | PHY102-Applied Physics | Dr. Sidra Shafiq | Fri, 17 Apr, 2026 @ 1430-1515 in CR-21-SMRIMMS",
+              "course": "Makeup: PHY102-Applied Physics",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "---------------------",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup: ENGL101-Expository Writing",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeups | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf | Fri, 24 Apr, 2026 @ 1430-1605",
+              "room": "CR-22-SMRIMMS"
             }
           ]
         },
