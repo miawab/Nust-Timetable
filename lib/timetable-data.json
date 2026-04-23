@@ -4476,6 +4476,11 @@
               "room": "CR-17-IAEC"
             },
             {
+              "time": "1000-1050",
+              "course": "Makeup | 2K24-BESE-15A&B | MATH361-PoS | Ms. Ansar Shahzadi | Thurs, 23 Apr, 2026 @ 0900-1050 | 1x Rglr 1x Mkp",
+              "room": "CR-16-IAEC"
+            },
+            {
               "time": "1100-1150",
               "course": "Operating Systems",
               "room": "CR-16-IAEC"
@@ -4607,6 +4612,11 @@
             }
           ],
           "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BESE-15A&B | MATH361-PoS | Ms. Ansar Shahzadi | Thurs, 23 Apr, 2026 @ 0900-1050 | 1x Rglr 1x Mkp",
+              "room": "CR-17-IAEC"
+            },
             {
               "time": "1000-1050",
               "course": "Probability and Statistics",
