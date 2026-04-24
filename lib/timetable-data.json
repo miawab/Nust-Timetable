@@ -1323,8 +1323,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup: At 1500-1550 hrs in LH PG (2K23-BEE-15AB) Dr. Farid Gul",
+              "course": "Makeup: Dr. Farid Gul",
               "room": "CR-19-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "@ 1500-1550 hrs in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
             }
           ],
           "Tuesday": [
@@ -1560,8 +1565,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup: At 1500-1550 hrs in LH PG (2K23-BEE-15AB) Dr. Farid Gul",
+              "course": "Makeup: Dr. Farid Gul",
               "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "@ 1500-1550 hrs in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
             }
           ],
           "Tuesday": [
@@ -1963,12 +1973,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Linear Control Systems",
-              "room": "CR-19-IAEC"
-            },
-            {
-              "time": "1200-1250",
-              "course": "(Control System Lab) 16 Apr 2026",
+              "course": "Makeup 2K23-BEE-15C | EE371-LCS | Dr. Farid Gul | Thurs, 30 Apr, 2026 @ 1200-1250 in",
               "room": "CR-19-IAEC"
             },
             {
