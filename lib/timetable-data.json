@@ -1817,7 +1817,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup: At 1600-1650 hrs in LH PG (2K23-BEE-15C) Dr. Farid Gul",
+              "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Mon, 27 Apr, 2026 @ 1600-1650 in CR-19-IAEC",
               "room": "CR-19-IAEC"
             }
           ],
@@ -2582,7 +2582,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeups | 2K24-BEE-16C | EE313-Electronic Circuit Design | Dr. Muhammad Saad Zia | Mon,  20 Apr 2026 | @ 1600-1650 in CR- 07",
+              "course": "Makeups | 2K24-BEE-16C | EE313-Electronic Circuit Design | Dr. Muhammad Saad Zia | Mon,  27 Apr 2026 | @ 1600-1650 in CR- 07",
               "room": "CR- 07"
             }
           ],
@@ -3218,6 +3218,11 @@
         },
         "C": {
           "Monday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeup | 2k25-BEE-17C | MATH108-Differential Equations | Dr. Ibrar Hussain | Mon, 27 Apr, 2026 @ 1000-1050 in CR-26-Acad Block",
+              "room": "CR-26-Acad Block"
+            },
             {
               "time": "1100-1150",
               "course": "Electrical Network Analysis",
@@ -6798,6 +6803,11 @@
       "2 - Sophomore": {
         "A": {
           "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14A | PHY102-Applied Physics | Dr. Imran Malik | Mon, 27 Apr, 2026 @ 0900-0950 in CR-04-UG Block",
+              "room": "CR-04-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems",
