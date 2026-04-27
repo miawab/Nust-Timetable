@@ -324,7 +324,22 @@
             },
             {
               "time": "1000-1050",
-              "course": "Makeups | 2K22-BEE-14A | MGT271-Entrepreneurship | Mr. Yaruq Nadeem | Fri, 24 Apr, 2026 @ 0900-1050 online",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "CR-02-UG Block",
               "room": null
             }
           ]
@@ -643,7 +658,28 @@
               "room": "SMRIMMS Seminar Hall"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "CR-02-UG Block",
+              "room": null
+            }
+          ]
         },
         "C": {
           "Monday": [
@@ -959,7 +995,28 @@
               "room": "SMRIMMS Seminar Hall"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "CR-02-UG Block",
+              "room": null
+            }
+          ]
         },
         "D": {
           "Monday": [
@@ -1250,6 +1307,16 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Makeups | 2K22-BEE-14C&D-Combine | MGT271-Entrepreneurship | Mr. Tariq Mansoor | On Thurs, 07 May, 2026 @ 0900-1050 in CR-01-UG Block",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K22-BEE-14C&D-Combine | MGT271-Entrepreneurship | Mr. Tariq Mansoor | On Thurs, 07 May, 2026 @ 0900-1050 in CR-01-UG Block",
+              "room": null
+            },
+            {
               "time": "1100-1150",
               "course": "Professional Ethics",
               "room": "CR-05-UG Block"
@@ -1275,7 +1342,28 @@
               "room": "SMRIMMS Seminar Hall"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1000-1050",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1100-1150",
+              "course": "CR-02-UG Block",
+              "room": null
+            }
+          ]
         }
       },
       "3 - Junior": {
