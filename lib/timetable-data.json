@@ -4729,7 +4729,7 @@
             },
             {
               "time": "1600-1650",
-              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 21 @1600 Hrs",
+              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 28 @1600 Hrs",
               "room": "CR-09-UG Block"
             }
           ],
@@ -6869,6 +6869,11 @@
               "time": "1500-1550",
               "course": "Theory of Automata",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 28 @1600 Hrs",
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Wednesday": [
@@ -7412,8 +7417,13 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Thurs, 16 Apr, 2026 @ 1400-1450 in CR-19-IAEC",
-              "room": "CR-19-IAEC"
+              "course": "Makeup Lab | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1550 in",
+              "room": "CR-22-SMRIMMS"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup Lab | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1550 in",
+              "room": "CR-22-SMRIMMS"
             }
           ],
           "Friday": [
@@ -7534,7 +7544,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K25-BSCS-15A | EE223-Digital Logic Design | Wed, 15 Apr, 2026 @ 1200-1250 in CR-02-UG Block",
+              "course": "Makeup | 2K25-BSCS-15A | EE223-Digital Logic Design | Mr. Arshad Nazir | Wed, 29 Apr, 2026 @ 1200-1250 in CR-02-UG Block",
               "room": "CR-02-UG Block"
             },
             {
@@ -7817,11 +7827,6 @@
               "room": "CR-03-UG Block"
             },
             {
-              "time": "1100-1150",
-              "course": "Makeup | 2K25-BSCS-15C | EE223-Digital Logic Design | Wed, 15 Apr, 2026 @ 1100-1150 in Lec Hall-IAEC",
-              "room": "Lec Hall-IAEC"
-            },
-            {
               "time": "1200-1250",
               "course": "Multivariable Calculus",
               "room": "CR-08-UG Block"
@@ -7866,6 +7871,11 @@
             {
               "time": "1400-1450",
               "course": "Linear Algebra",
+              "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup | 2K25-BSCS-15C | EE223-Digital Logic Design | Thurs, 30 Apr, 2026 @ 1500-1550 in",
               "room": "CR-03-UG Block"
             }
           ],
@@ -8271,12 +8281,12 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 21 @ 0900-1100 hrs",
+              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 28 @ 0900 hrs",
               "room": "CR-28-Acad Block"
             },
             {
               "time": "1000-1050",
-              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 21 @ 0900-1100 hrs",
+              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 28 @ 0900 hrs",
               "room": "CR-28-Acad Block"
             },
             {
