@@ -7505,13 +7505,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup Lab | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1550 in",
-              "room": "CR-22-SMRIMMS"
+              "course": "Makeup Lab | 2K24-BSCS-14D & BSAI-1A-Combine | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1650 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
             },
             {
               "time": "1500-1550",
-              "course": "Makeup Lab | 2K24-BSCS-14D | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1550 in",
-              "room": "CR-22-SMRIMMS"
+              "course": "Makeup Lab | 2K24-BSCS-14D & BSAI-1A-Combine | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1650 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K24-BSCS-14D & BSAI-1A-Combine | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1650 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
             }
           ],
           "Friday": [
@@ -8193,7 +8198,7 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr @ 0900-0950 in Lec Hall-PG Block",
+              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | Tue, 05, May, 2026 @ 0900-0950 in Lec Hall-PG Block",
               "room": "Lec Hall-PG Block"
             },
             {
@@ -8717,7 +8722,7 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | 07, 14, 21, 28, Apr 05, 12 , May @ 0900-0950 in Lec Hall-PG Block",
+              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | Tue, 05, May, 2026 @ 0900-0950 in Lec Hall-PG Block",
               "room": "Lec Hall-PG Block"
             },
             {
