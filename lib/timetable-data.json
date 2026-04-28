@@ -7431,9 +7431,19 @@
               "time": "1500-1550",
               "course": "Web Technologies",
               "room": "CR-20-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Mon, 04 May, 2026 @ 1600-1650 in CR-20-IAEC",
+              "room": "CR-20-IAEC"
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Tue, 05 May, 2026 @  0900-0950 in CR-05-UG Block",
+              "room": "CR-05-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Web Technologies (Lab)",
