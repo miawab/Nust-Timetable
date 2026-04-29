@@ -1420,14 +1420,19 @@
               "room": "Lecture Hall-IAEC"
             },
             {
-              "time": "1500-1550",
-              "course": "Makeup: Dr. Farid Gul",
-              "room": "CR-19-IAEC"
+              "time": "1400-1450",
+              "course": "Makeup Lab | 2K23-BEE-15A | EE351-Communication Systems | Ms. Maryam Riaz | Mon, 04 May, 2026 @ 1400-1650 in Computing Lab-12",
+              "room": "Computing Lab-12"
             },
             {
               "time": "1500-1550",
-              "course": "@ 1500-1550 hrs in Lec Hall-PG Block",
-              "room": "Lec Hall-PG Block"
+              "course": "Makeup Lab | 2K23-BEE-15A | EE351-Communication Systems | Ms. Maryam Riaz | Mon, 04 May, 2026 @ 1400-1650 in Computing Lab-12",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K23-BEE-15A | EE351-Communication Systems | Ms. Maryam Riaz | Mon, 04 May, 2026 @ 1400-1650 in Computing Lab-12",
+              "room": "Computing Lab-12"
             }
           ],
           "Tuesday": [
@@ -1662,14 +1667,19 @@
               "room": "Lecture Hall-IAEC"
             },
             {
-              "time": "1500-1550",
-              "course": "Makeup: Dr. Farid Gul",
-              "room": "CR-20-IAEC"
+              "time": "1400-1450",
+              "course": "Makeup Lab | EE351-Communication Systems | Mon, 11 May, 2026 @ 1400-1650 in Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz",
+              "room": "Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz"
             },
             {
               "time": "1500-1550",
-              "course": "@ 1500-1550 hrs in Lec Hall-PG Block",
-              "room": "Lec Hall-PG Block"
+              "course": "Makeup Lab | EE351-Communication Systems | Mon, 11 May, 2026 @ 1400-1650 in Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz",
+              "room": "Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | EE351-Communication Systems | Mon, 11 May, 2026 @ 1400-1650 in Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz",
+              "room": "Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz"
             }
           ],
           "Tuesday": [
@@ -9233,6 +9243,21 @@
               "time": "1200-1250",
               "course": "Database Systems (Lab)",
               "room": "Computing Lab-01"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2K25-BSAI-2A | HU132-Understanding of Quran II | Thurs, 30 Apr, & Thurs, 07 May, 2026 @ 1400-1650 in CR-16-IAEC | Instead of Fri, 08 May",
+              "room": "CR-16-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup | 2K25-BSAI-2A | HU132-Understanding of Quran II | Thurs, 30 Apr, & Thurs, 07 May, 2026 @ 1400-1650 in CR-16-IAEC | Instead of Fri, 08 May",
+              "room": "CR-16-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K25-BSAI-2A | HU132-Understanding of Quran II | Thurs, 30 Apr, & Thurs, 07 May, 2026 @ 1400-1650 in CR-16-IAEC | Instead of Fri, 08 May",
+              "room": "CR-16-IAEC"
             }
           ],
           "Friday": [
