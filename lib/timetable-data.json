@@ -633,6 +633,16 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup: Professional Ethics",
+              "room": "RIMMS Seminar Hall"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: Professional Ethics",
+              "room": "RIMMS Seminar Hall"
+            },
+            {
               "time": "1100-1150",
               "course": "Entrepreneurship",
               "room": "CR-13-UG Block"
@@ -4298,6 +4308,11 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BESE-14A | SE430-SPM | Ms. Hareem Ashraf | Thurs, 30 Apr, 2026 @ 0900-0950 | Instead of 1400 hrs in Cr",
+              "room": "CR-23-Acad Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Machine Learning",
               "room": "CR-23-Acad Block"
@@ -4315,6 +4330,16 @@
             {
               "time": "1400-1450",
               "course": "Software Project Management",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "BESE-14 A and BESE 15 A | Industrial Visit | NICAT | Thursday, Apr 30 @ 1330-1700 hrs",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BESE-14 A and BESE 15 A | Industrial Visit | NICAT | Thursday, Apr 30 @ 1330-1700 hrs",
               "room": "CR-23-Acad Block"
             }
           ],
@@ -6960,8 +6985,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 28 @1600 Hrs",
-              "room": "CR-21-SMRIMMS"
+              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 1600-1650 in CR-21 RIMMS",
+              "room": "CR-21 RIMMS"
             }
           ],
           "Wednesday": [
@@ -6997,11 +7022,16 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14A | PHY102-Applied Physics | Dr. Imran Malik | Wed, 15 Apr, 2026 @ 1600-1650 in CR-21-RIMMS",
-              "room": "CR-21-RIMMS"
+              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Wed, 6 May 2026 @ 1600-1650 in CR-21 RIMMS",
+              "room": "CR-21 RIMMS"
             }
           ],
           "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Thu, 7 May 2026 @ 0900-0950 in CR-3 UG Block",
+              "room": "CR-3 UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
@@ -7085,8 +7115,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Industrial Visit: Mon, 13 April 2026 @ 1400-1700 hrs",
-              "room": "CR-21-SMRIMMS"
+              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in CR-5 UG Block",
+              "room": "CR-5 UG Block"
             }
           ],
           "Tuesday": [
@@ -7114,13 +7144,18 @@
               "time": "1500-1550",
               "course": "Computer Organization & Assembly Language",
               "room": "Lecture Hall-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 1600-1650 in Lec Hall IAEC",
+              "room": "Lec Hall IAEC"
             }
           ],
           "Wednesday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14B | PHY102-Applied Physics | Dr. Imran Malik | Wed, 15 Apr, 2026 @ 0900-0950 in CR-21-SMRIMMS",
-              "room": "CR-21-SMRIMMS"
+              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Wed, 6 May 2026 @ 0900-0950 in CR-21 RIMMS",
+              "room": "CR-21 RIMMS"
             },
             {
               "time": "1000-1050",
@@ -7254,9 +7289,19 @@
               "time": "1500-1550",
               "course": "(CR-18-IAEC) @ 1400-1550 Online | Mon, 27 Apr, 2026 | Instead of @ 0900 in CR-16",
               "room": "Online"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in CR-16 IAEC",
+              "room": "CR-16 IAEC"
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 0900-0950 in CR-21 RIMMS",
+              "room": "CR-21 RIMMS"
+            },
             {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
@@ -7289,6 +7334,11 @@
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Wed, 6 May 2026 @ 0900-0950 in CR-22 RIMMS",
+              "room": "CR-22 RIMMS"
+            },
             {
               "time": "1000-1050",
               "course": "Advanced Database Management Systems",
