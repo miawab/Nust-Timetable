@@ -4959,6 +4959,11 @@
               "time": "1500-1550",
               "course": "Object Oriented Programming",
               "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "ICP ESE on 11th May @ 1600-1900 hrs",
+              "room": "Intl Studs"
             }
           ],
           "Tuesday": [
@@ -5751,6 +5756,11 @@
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BSCS-13AB Combine | Dr. Gibrail Islam | SE200-SE | Tue, 5 May 2026 @ 0900-0950 in Lec Hall IAEC",
+              "room": "Lec Hall IAEC"
+            },
             {
               "time": "1000-1050",
               "course": "Big Data Analytics (Gp-01) (Lab)",
@@ -9107,6 +9117,11 @@
               "time": "1500-1550",
               "course": "Digital Logic Design",
               "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "ICP ESE on 11th May @ 1600-1900 hrs",
+              "room": "Intl Studs"
             }
           ],
           "Tuesday": [
