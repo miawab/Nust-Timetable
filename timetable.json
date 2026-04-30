@@ -7565,6 +7565,11 @@
               "time": "1100-1150",
               "course": "Applied Physics",
               "room": "Lecture Hall-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup | 2K24-BSCS-14D | ENGL101-Expository Writing | Dr. Samia Tahir | Wed, 06 May, 2026 @ 1200-1250 in CR-16-IAEC Block",
+              "room": "CR-16-IAEC Block"
             }
           ],
           "Thursday": [
@@ -7590,8 +7595,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup Lab | 2K24-BSCS-14D & BSAI-1A-Combine | CS343-Web Technologies | Dr. Naima Iltaf | Thurs, 30 Apr, 2026 @ 1400-1650 in Lec Hall-IAEC",
-              "room": "Lec Hall-IAEC"
+              "course": "Makeup | 2K24-BSCS-14D | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1400-1450 in CR-18-IAEC",
+              "room": "CR-18-IAEC"
             },
             {
               "time": "1500-1550",
@@ -8712,13 +8717,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 30 | @ 1500-1650",
-              "room": "CR-12-UG Block"
+              "course": "@Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
+              "room": "CR-17-IAEC"
             },
             {
               "time": "1600-1650",
-              "course": "BSDS-2 A | Industrial Visit | LearnOBots | Thursday, Apr 30 | @ 1500-1650",
-              "room": "CR-12-UG Block"
+              "course": "Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
+              "room": "CR-17-IAEC"
             }
           ],
           "Friday": [
