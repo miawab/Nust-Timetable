@@ -5128,6 +5128,11 @@
             },
             {
               "time": "1100-1150",
+              "course": "Makeup: HU115-PoS",
+              "room": "Online"
+            },
+            {
+              "time": "1100-1150",
               "course": "------",
               "room": "CR-07-UG Block"
             },
@@ -5135,6 +5140,11 @@
               "time": "1100-1150",
               "course": "FYP-II",
               "room": "CR-07-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup: HU115-PoS",
+              "room": "Online"
             },
             {
               "time": "1200-1250",
@@ -5310,13 +5320,23 @@
           "Monday": [
             {
               "time": "0900-0950",
+              "course": "Makeup: HU115-PoS",
+              "room": "Online"
+            },
+            {
+              "time": "0900-0950",
               "course": "------",
               "room": "CR-06-UG Block"
             },
             {
               "time": "0900-0950",
-              "course": "FYP-II",
+              "course": "FYP-I",
               "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup: HU115-PoS",
+              "room": "Online"
             },
             {
               "time": "1000-1050",
