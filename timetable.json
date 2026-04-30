@@ -5896,11 +5896,6 @@
           ],
           "Thursday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2K23-BSCS-13A | Dr. Gibrail Islam | SE200-SE | Thu, 7 May 2026 @ 0900-0950 in CR-04 UG Block",
-              "room": "CR-04 UG Block"
-            },
-            {
               "time": "1000-1050",
               "course": "Deep Learning (Lab)",
               "room": "Computing Lab-02"
@@ -5923,6 +5918,11 @@
             {
               "time": "1500-1550",
               "course": "Parallel and Distributed Computing",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K23-BSCS-13A | Dr. Gibrail Islam | SE200-SE | Thu, 7 May 2026 @ 1600-1650 in CR-25-Acad Block",
               "room": "CR-25-Acad Block"
             }
           ],
@@ -5968,43 +5968,13 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Makeup: CS346-Compiler Construction",
-              "room": "CR-26 Acad"
-            },
-            {
-              "time": "0900-0950",
-              "course": "---------",
-              "room": "CR-25-Acad Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "Makeup: CS419-Deep Learning",
-              "room": "Lec Hall-PG Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "______________________",
-              "room": "CR-25-Acad Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "Makeup: Dr. Gibrail Islam",
-              "room": "CR-24 Acad Block"
+              "course": "Makeup | 2K23-BSCS-13B | Dr. Gibrail Islam | SE200-SE | Mon, 4 May 2026 @ 0900-1050 in CR-26-Acad Block",
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1000-1050",
-              "course": "Makeup: CS346-Compiler Construction",
-              "room": "CR-26 Acad"
-            },
-            {
-              "time": "1000-1050",
-              "course": "---------------",
-              "room": "CR-25-Acad Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup: CS419-Deep Learning",
-              "room": "Lec Hall-PG Block"
+              "course": "Makeup | 2K23-BSCS-13B | Dr. Gibrail Islam | SE200-SE | Mon, 4 May 2026 @ 0900-1050 in CR-26-Acad Block",
+              "room": "CR-26-Acad Block"
             },
             {
               "time": "1100-1150",
@@ -8482,6 +8452,11 @@
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BSDS-1A |",
+              "room": "CR-28-Acad Block"
+            },
             {
               "time": "1100-1150",
               "course": "Data Warehousing and Business Intelligence",
