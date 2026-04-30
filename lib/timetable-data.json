@@ -1673,8 +1673,13 @@
             },
             {
               "time": "1500-1550",
-              "course": "Makeup Lab | EE351-Communication Systems | Mon, 11 May, 2026 @ 1400-1650 in Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz",
+              "course": "Makeup: Mon, 11 May, 2026",
               "room": "Computing Lab-12 (2K23-BEE-15B) Ms. Maryam Riaz"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup: Linear Control Systems",
+              "room": "Lecture Hall-PG Block"
             },
             {
               "time": "1600-1650",
@@ -1930,8 +1935,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Mon, 27 Apr, 2026 @ 1600-1650 in CR-19-IAEC",
-              "room": "CR-19-IAEC"
+              "course": "Makeup: Linear Control Systems",
+              "room": "Lecture Hall-PG Block"
             }
           ],
           "Tuesday": [
@@ -8970,6 +8975,11 @@
         "A": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup: Computer Organization & Assembly Language",
+              "room": "CR-13-UG Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Expository Writing",
               "room": "CR-11-UG Block"
@@ -8992,6 +9002,11 @@
             {
               "time": "1500-1550",
               "course": "Programming for AI",
+              "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup: Computer Organization & Assembly Language",
               "room": "CR-23-Acad Block"
             }
           ],
