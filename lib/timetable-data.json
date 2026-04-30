@@ -1722,11 +1722,6 @@
               "time": "1500-1550",
               "course": "Communication Systems",
               "room": "CR-20-IAEC"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeshift | 2K23-BEE-15B | EE371-LCS | Dr. Farid Gul | Tue, 21 Apr, 2026 @ 1600-1650 in CR-20-IAEC",
-              "room": "instead of @ 1400"
             }
           ],
           "Wednesday": [
@@ -2701,26 +2696,6 @@
           ],
           "Tuesday": [
             {
-              "time": "0900-0950",
-              "course": "Makeups | 2K24-BEE-16C | EE241-EFT | Dr. Wasif Tanveer | Tue, 21 Apr, 2026 @ 0900-1050 in Lec Hall-IAEC",
-              "room": "Lec Hall-IAEC"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup: EE241-EFT",
-              "room": "Lec Hall-PG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "-------------",
-              "room": "CR-07-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup: EE241-EFT",
-              "room": "Lec Hall-IAEC"
-            },
-            {
               "time": "1100-1150",
               "course": "Expository Writing",
               "room": "CR-07-UG Block"
@@ -3015,11 +2990,6 @@
               "room": "Basic Electronics Lab"
             },
             {
-              "time": "1400-1450",
-              "course": "SAS | 2k25-BEE-17A | Mr. Arshad Nazir | Tue, 14 Apr, 2026 @ 1400-1450 in CR-14-UG Block",
-              "room": "CR-14-UG Block"
-            },
-            {
               "time": "1500-1550",
               "course": "Computer Programming",
               "room": "CR-14-UG Block"
@@ -3186,11 +3156,6 @@
             }
           ],
           "Tuesday": [
-            {
-              "time": "0900-0950",
-              "course": "Makeup | 2k25-BEE-17B | HU127-ICP | Dr. Sobia Jamil | Tue, 21 Apr, 2026 @ 0900-0950 in CR-21-SMRIMMS",
-              "room": "CR-21-SMRIMMS"
-            },
             {
               "time": "1000-1050",
               "course": "Islamic Studies",
@@ -3466,6 +3431,11 @@
               "time": "1500-1550",
               "course": "Ideology and Constitution of Pakistan",
               "room": "CR-15-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2k25-BEE-17C | EE211-ENA | Dr. Nosherwan Shoaib | Thu, 30 Apr, 2026 @ 1600-1650 in CR-15 UG Block",
+              "room": "CR-15 UG Block"
             }
           ],
           "Friday": [
@@ -3498,6 +3468,16 @@
               "time": "1200-1250",
               "course": "Workshop Practice (Lab)",
               "room": "MRC Lab 01- SMME"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2k25-BEE-17C | EE211-ENA | Dr. Nosherwan Shoaib | Fri, 8 May, 2026 @ 1430-1605 in CR-16 IAEC",
+              "room": "CR-16 IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup | 2k25-BEE-17C | EE211-ENA | Dr. Nosherwan Shoaib | Fri, 8 May, 2026 @ 1430-1605 in CR-16 IAEC",
+              "room": "CR-16 IAEC"
             }
           ]
         },
@@ -3735,16 +3715,6 @@
               "time": "1400-1450",
               "course": "Fundamentals of Programming",
               "room": "CR-13-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 14 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": "MRC Lab-SMME"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup Lab | 2K25-BCE-1A | ME105-Workshop Practice | Tue, 14 Apr, 2026 @ 1500-1650 in MRC Lab-SMME",
-              "room": "MRC Lab-SMME"
             }
           ],
           "Wednesday": [
@@ -4849,11 +4819,6 @@
               "time": "1200-1250",
               "course": "Student Advisory Session",
               "room": "CR-09-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "BSCS-14 A & BESE-16 A | Industrial Visit | NSTP | Tuesday, Apr 28 @1600 Hrs",
-              "room": "CR-09-UG Block"
             }
           ],
           "Wednesday": [
@@ -5020,11 +4985,6 @@
             {
               "time": "1500-1550",
               "course": "Computer Architecture & Logic Design",
-              "room": "CR-10-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "@sMakeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Tue, 21 Apr, 2026 @ 1600-1650 in CR-10-UG Block",
               "room": "CR-10-UG Block"
             }
           ],
@@ -8443,16 +8403,6 @@
           ],
           "Tuesday": [
             {
-              "time": "0900-0950",
-              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 28 @ 0900 hrs",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "BSDS-1 A | Industrial Visit | One Screen | Tue, Apr 28 @ 0900 hrs",
-              "room": "CR-28-Acad Block"
-            },
-            {
               "time": "1100-1150",
               "course": "Data Warehousing and Business Intelligence",
               "room": "CR-28-Acad Block"
@@ -8469,11 +8419,6 @@
             },
             {
               "time": "1500-1550",
-              "course": "Parallel & Distributed Computing",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1600-1650",
               "course": "Parallel & Distributed Computing",
               "room": "CR-28-Acad Block"
             }
