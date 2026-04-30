@@ -5871,6 +5871,11 @@
           ],
           "Thursday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BSCS-13A | Dr. Gibrail Islam | SE200-SE | Thu, 7 May 2026 @ 0900-0950 in CR-04 UG Block",
+              "room": "CR-04 UG Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Deep Learning (Lab)",
               "room": "Computing Lab-02"
@@ -5952,6 +5957,16 @@
               "room": "Lec Hall-PG Block"
             },
             {
+              "time": "0900-0950",
+              "course": "______________________",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Makeup: Dr. Gibrail Islam",
+              "room": "CR-24 Acad Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Makeup: CS346-Compiler Construction",
               "room": "CR-26 Acad"
@@ -6013,6 +6028,11 @@
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BSCS-13AB Combine | Dr. Gibrail Islam | SE200-SE | Tue, 5 May 2026 @ 0900-0950 in Lec Hall IAEC",
+              "room": "Lec Hall IAEC"
+            },
             {
               "time": "1000-1050",
               "course": "Big Data Analytics (Gp-01) (Lab)",
@@ -6107,8 +6127,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "@Makeup | 2K23-BSCS-13B | CS419-Deep Learning | Dr. Muhammad Imran Malik | Wed, 08, 15, 22, 29 Apr, 2026 @ 1400-1450 in CR-05 UG",
+              "course": "Makeup: CS419-Deep Learning",
               "room": "CR-05 UG"
+            },
+            {
+              "time": "1400-1450",
+              "course": "________________________",
+              "room": "CR-25-Acad Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup: Dr. Gibrail Islam",
+              "room": "Lec Hall PG"
             },
             {
               "time": "1500-1550",
@@ -6198,6 +6228,16 @@
         },
         "C": {
           "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Industrial Visit: 11th May 2026",
+              "room": "CR-26-Acad Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Industrial Visit: 11th May 2026",
+              "room": "CR-26-Acad Block"
+            },
             {
               "time": "1100-1150",
               "course": "Big Data Analytics (Gp-01)",
