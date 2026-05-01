@@ -6230,6 +6230,16 @@
             },
             {
               "time": "1000-1050",
+              "course": "2K23-BSCS-13C | LAB EXAM | CS419-Deep Learning  | Ms. Areeba Rameen | Mon, 04 May, 2026 @ 1000-1050 in Computing Lab-11",
+              "room": "Computing Lab-11"
+            },
+            {
+              "time": "1000-1050",
+              "course": "---------------",
+              "room": "CR-26-Acad Block"
+            },
+            {
+              "time": "1000-1050",
               "course": "Industrial Visit: 11th May 2026",
               "room": "CR-26-Acad Block"
             },
@@ -6633,8 +6643,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K23-BSCS-13D | CS419-Deep Learning | Ms Nikhar Azhar on Thu, 16 Apr 26 @ 0900-0950 hrs in CR-23 Acad Block",
-              "room": "CR-23 Acad Block"
+              "course": "2K23-BSCS-13D | LAB EXAM | CS419-Deep Learning  | Ms. Areeba Rameen | Thurs, 07 may, 2026 @ 0900-1000 in Computing Lab-12",
+              "room": "Computing Lab-12"
             },
             {
               "time": "1000-1050",
