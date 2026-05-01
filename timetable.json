@@ -8439,7 +8439,7 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K23-BSDS-1A |",
+              "course": "Makeup | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Tue, 05 may, 2026 @ 0900-1050 in",
               "room": "CR-28-Acad Block"
             },
             {
@@ -9160,8 +9160,13 @@
             },
             {
               "time": "1600-1650",
-              "course": "ICP ESE on 11th May @ 1600-1900 hrs",
-              "room": "Intl Studs"
+              "course": "---------------",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "ICP ESE on 11th May @ 1600-1900 hrs (Intl Studs)",
+              "room": "CR-01-UG Block"
             }
           ],
           "Tuesday": [
