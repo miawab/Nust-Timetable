@@ -6974,11 +6974,6 @@
           ],
           "Tuesday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14A&C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 0900-0950 in CR-21 RIMMS",
-              "room": "CR-21 RIMMS"
-            },
-            {
               "time": "1000-1050",
               "course": "Web Technologies",
               "room": "CR-21-SMRIMMS"
@@ -7043,11 +7038,6 @@
           ],
           "Thursday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Thu, 7 May 2026 @ 0900-0950 in CR-3 UG Block",
-              "room": "CR-3 UG Block"
-            },
-            {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
               "room": "Physics Lab 01-SNS"
@@ -7070,6 +7060,11 @@
             {
               "time": "1500-1550",
               "course": "Applied Physics",
+              "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Thu, 7 May 2026 @ 1600-1650 in CR-21-SMRIMMS",
               "room": "CR-21-SMRIMMS"
             }
           ],
@@ -7130,8 +7125,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in CR-5 UG Block",
-              "room": "CR-5 UG Block"
+              "course": "Makeup | 2K24-BSCS-14B&C-Combine | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
             }
           ],
           "Tuesday": [
@@ -7167,11 +7162,6 @@
             }
           ],
           "Wednesday": [
-            {
-              "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Wed, 6 May 2026 @ 0900-0950 in CR-21 RIMMS",
-              "room": "CR-21 RIMMS"
-            },
             {
               "time": "1000-1050",
               "course": "Expository Writing",
@@ -7307,16 +7297,11 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in CR-16 IAEC",
-              "room": "CR-16 IAEC"
+              "course": "Makeup | 2K24-BSCS-14B&C-Combine | ENGL101-Expository Writing | Ms. Hina Yousaf  | Mon, 4 May 2026 @ 1600-1650 in Lec Hall-IAEC",
+              "room": "Lec Hall-IAEC"
             }
           ],
           "Tuesday": [
-            {
-              "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14C | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 0900-0950 in CR-21 RIMMS",
-              "room": "CR-21 RIMMS"
-            },
             {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
