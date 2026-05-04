@@ -2748,6 +2748,11 @@
           ],
           "Wednesday": [
             {
+              "time": "1000-1050",
+              "course": "Makeups | 2K24-BEE-16CD Combine | MATH222-LA | Dr. Muhammad Arshad Siddiqui | Wed,  06 May, 2026 @ 1000-1050 in Lec Hall IAEC",
+              "room": "Lec Hall IAEC"
+            },
+            {
               "time": "1100-1150",
               "course": "Expository Writing",
               "room": "CR-07-UG Block"
@@ -2875,13 +2880,8 @@
           "Wednesday": [
             {
               "time": "1000-1050",
-              "course": "Makeup: Makeup | Linear Algebra",
-              "room": "CR-08-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "(01 April 2026) Online",
-              "room": "Online"
+              "course": "Makeups | 2K24-BEE-16CD Combine | MATH222-LA | Dr. Muhammad Arshad Siddiqui | Wed,  06 May, 2026 @ 1000-1050 in Lec Hall IAEC",
+              "room": "Lec Hall IAEC"
             },
             {
               "time": "1100-1150",
