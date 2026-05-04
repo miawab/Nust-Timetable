@@ -1951,6 +1951,11 @@
               "room": "CR-20-IAEC"
             },
             {
+              "time": "1100-1150",
+              "course": "Makeup Lab | 2K23-BEE-15C | EE351-Communication Systems | Ms. Maryam Riaz | Tue, 12 May, 2026 @ 1100-1150 in Computing Lab-02",
+              "room": "Computing Lab-02"
+            },
+            {
               "time": "1200-1250",
               "course": "Computer and Communication Networks (1x)",
               "room": "CR-19-IAEC"
@@ -8287,6 +8292,11 @@
               "room": "Lec Hall-PG Block"
             },
             {
+              "time": "1000-1050",
+              "course": "@sMakeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Tue, 12 May, 2026 @ 1000-1050 in Lec Hall-PG Block | 1x in addition",
+              "room": "Lec Hall-PG Block"
+            },
+            {
               "time": "1100-1150",
               "course": "Object Oriented Programming",
               "room": "CR-04-UG Block"
@@ -8393,6 +8403,11 @@
           ],
           "Friday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K25-BSCS-15E | CS212-OOP | Dr. Sarosh Tahir | Fri, 08 May, 2026 @ 0900-0950 Online",
+              "room": "Online"
+            },
+            {
               "time": "1000-1050",
               "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
@@ -8401,6 +8416,11 @@
               "time": "1100-1150",
               "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup | CS212-OOP  | Fri, 08 May, 2026 @ 1200-1250 Online ( 2K25-BSCS-15E) Dr. Sarosh Tahir",
+              "room": "Online"
             },
             {
               "time": "1400-1450",
