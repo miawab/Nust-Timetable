@@ -2251,6 +2251,11 @@
               "time": "1500-1550",
               "course": "Digital Signal Processing",
               "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K23-BEE-15D | EE351-Communication Systems | Ms. Maryam Riaz | Tue, 12 May, 2026 @ 1600-1650 in Computing Lab-03",
+              "room": "Computing Lab-03"
             }
           ],
           "Wednesday": [
@@ -3180,6 +3185,11 @@
               "time": "1000-1050",
               "course": "Islamic Studies",
               "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Makeup | 2k25-BEE-17B | HU132-Understanding of Quran II | Tue, 12 May 2026 @ 1100-1150 in CR-20-IAEC",
+              "room": "CR-20-IAEC"
             },
             {
               "time": "1200-1250",
@@ -7516,8 +7526,8 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Tue, 05 May, 2026 @  0900-0950 in CR-05-UG Block",
-              "room": "CR-05-UG Block"
+              "course": "Makeup | 2K24-BSCS-14D | PHY102-Applied Physics | Dr. Sidra Shafiq | Tue, 05 May, 2026 @  0900-0950 in Comp Lab 06",
+              "room": "Comp Lab 06"
             },
             {
               "time": "1000-1050",
