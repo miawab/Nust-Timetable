@@ -2497,6 +2497,16 @@
               "time": "1400-1450",
               "course": "Expository Writing",
               "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "2K24-BEE-16A | Makeup Lab | EE222-Microprocessor Systems | Wed, 06 May, 2026 @ 1500-1650 in",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "2K24-BEE-16A | Makeup Lab | EE222-Microprocessor Systems | Wed, 06 May, 2026 @ 1500-1650 in",
+              "room": "CR-05-UG Block"
             }
           ],
           "Thursday": [
@@ -5158,8 +5168,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
-              "room": "CR-07-UG Block"
+              "course": "Makeup: Online (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -5370,8 +5380,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
-              "room": "CR-06-UG Block"
+              "course": "Makeup: Online (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
@@ -5567,8 +5577,8 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup: Lecture Hall IAEC (2K22-BSCS-12ABC) Dr. Adnan Rashid",
-              "room": "CR-12-UG Block"
+              "course": "Makeup: Online (2K22-BSCS-12ABC) Dr. Adnan Rashid",
+              "room": "Online"
             },
             {
               "time": "1500-1550",
