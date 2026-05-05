@@ -8393,8 +8393,18 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | Tue, 05, May, 2026 @ 0900-0950 in Lec Hall-PG Block",
+              "course": "Makeup: MATH-101-CAG",
               "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "-----------",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Makeup: MATH161-Discrete Mathematics",
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1000-1050",
@@ -8927,8 +8937,18 @@
           "Tuesday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2K25-BSCS-15E & 2K25-BSDS-3A | MATH-101-CAG | Dr. Atifa Kanwal | Tue, 05, May, 2026 @ 0900-0950 in Lec Hall-PG Block",
+              "course": "Makeup: MATH-101-CAG",
               "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "-----------------",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Makeup: MATH161-Discrete Mathematics",
+              "room": "CR-01-UG Block"
             },
             {
               "time": "1000-1050",
