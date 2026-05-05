@@ -688,6 +688,16 @@
               "time": "1100-1150",
               "course": "CR-02-UG Block",
               "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "CR-02-UG Block",
+              "room": null
             }
           ]
         },
@@ -4493,13 +4503,23 @@
           "Friday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 17 Apr, 2026 @ 0900-1050 in CR-24-Acad Block",
+              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 08 May, 2026 @ 0900-1050 in CR-24-Acad Block",
+              "room": "CR-24-Acad Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Online",
+              "room": "Online"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 08 May, 2026 @ 0900-1050 in CR-24-Acad Block",
               "room": "CR-24-Acad Block"
             },
             {
               "time": "1000-1050",
-              "course": "Makeups | 2K23-BESE-14B | CS261-HCI | Mr. Hamza Saleem | Fri, 17 Apr, 2026 @ 0900-1050 in CR-24-Acad Block",
-              "room": "CR-24-Acad Block"
+              "course": "Online",
+              "room": "Online"
             },
             {
               "time": "1100-1150",
@@ -5024,6 +5044,16 @@
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block",
+              "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block",
+              "room": "CR-05-UG Block"
+            },
             {
               "time": "1100-1150",
               "course": "Functional English",
@@ -7069,9 +7099,19 @@
               "time": "1500-1550",
               "course": "Computer Organization & Assembly Language",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14A | CS236-ADMS | Dr. Muhammad Bilal Ali | Wed, 06 May, 2026 @ 1600-1650 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14A | CS236-ADMS | Dr. Muhammad Bilal Ali | Thurs, 07 May, 2026 @ 0900-0950 in CR-03-UG Block",
+              "room": "CR-03-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
@@ -8774,7 +8814,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 17 Apr, 2026 @ 1200-1250 in CR-12-UG Block",
+              "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
               "room": "CR-12-UG Block"
             }
           ]
