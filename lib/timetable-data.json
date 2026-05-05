@@ -4931,8 +4931,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 07 May, 2026 @ 0900-0950 in Lec Hall-PG Block",
-              "room": "Lec Hall-PG Block"
+              "course": "Makeup | 2k25-BESE-16A | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 07 May, 2026 @ 0900-0950 in CR-04-UG Block",
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1000-1050",
@@ -5107,11 +5107,6 @@
           ],
           "Thursday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 07 May, 2026 @ 0900-0950 in Lec Hall-PG Block",
-              "room": "Lec Hall-PG Block"
-            },
-            {
               "time": "1000-1050",
               "course": "Discrete Mathematics",
               "room": "Lecture Hall-PG Block"
@@ -5123,8 +5118,8 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2k25-BESE-16B | EE122-CA&LD | Ms. Asra Abid | Thurs, 16 Apr, 2026 @ 1200-1250 in Computing Lab-05",
-              "room": "Computing Lab-05"
+              "course": "Makeup | 2k25-BESE-16B | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Thurs, 07 May, 2026 @ 1200-1250 in CR-10-UG Block",
+              "room": "CR-10-UG Block"
             },
             {
               "time": "1400-1450",
@@ -8260,6 +8255,11 @@
               "time": "1500-1550",
               "course": "Database Systems",
               "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS212-OOP | Mr. Daniyal Attiq  | Wed, 13 May, 2026 @ 1400-1650 in Computing Lab-09",
+              "room": "Computing Lab-09"
             }
           ],
           "Thursday": [
