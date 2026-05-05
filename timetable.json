@@ -318,11 +318,6 @@
           ],
           "Friday": [
             {
-              "time": "0900-0950",
-              "course": "Makeups | 2K22-BEE-14A | MGT271-Entrepreneurship | Mr. Yaruq Nadeem | Fri, 24 Apr, 2026 @ 0900-1050 online",
-              "room": null
-            },
-            {
               "time": "1000-1050",
               "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
               "room": null
@@ -339,6 +334,16 @@
             },
             {
               "time": "1100-1150",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
               "course": "CR-02-UG Block",
               "room": null
             }
@@ -1035,6 +1040,16 @@
               "time": "1100-1150",
               "course": "CR-02-UG Block",
               "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "CR-02-UG Block",
+              "room": null
             }
           ]
         },
@@ -1380,6 +1395,16 @@
             },
             {
               "time": "1100-1150",
+              "course": "CR-02-UG Block",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeups | 2K22-BEE-14 | EE436-Selected Topics in Telecommunication | Dr. Syed Taha Ali | Fri, 08 May, 2026 @ 1000-1150 online",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
               "course": "CR-02-UG Block",
               "room": null
             }
@@ -5046,12 +5071,12 @@
           "Wednesday": [
             {
               "time": "0900-0950",
-              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block",
+              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block | Instead of Fri, 08 May, 2026",
               "room": "CR-05-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block",
+              "course": "Makeups | 2k25-BESE-16B | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Wed, 06 May, 2026 @ 0900-1050 in CR-05-UG Block | Instead of Fri, 08 May, 2026",
               "room": "CR-05-UG Block"
             },
             {
@@ -8289,6 +8314,36 @@
               "time": "1200-1250",
               "course": "Multivariable Calculus",
               "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS212        OOP | Mr. Daniyal Attiq | Fri, 08 may, 2026 @ 1400-1650 Online",
+              "room": "Online"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Computing Lab-03",
+              "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS212        OOP | Mr. Daniyal Attiq | Fri, 08 may, 2026 @ 1400-1650 Online",
+              "room": "Online"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Computing Lab-03",
+              "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup Lab | 2K25-BSCS-15D | CS212        OOP | Mr. Daniyal Attiq | Fri, 08 may, 2026 @ 1400-1650 Online",
+              "room": "Online"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Computing Lab-03",
+              "room": "CR-03-UG Block"
             }
           ]
         },
@@ -8414,6 +8469,11 @@
               "time": "0900-0950",
               "course": "Calculus & Analytical Geometry (PM)",
               "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup | K25-BSCS-15E | HU132-Understanding of Quran II | Mr. Muhammad Usman Ghani | Thurs, 07 May, 2026 @ 1000-1050 in CR-04-UG Block",
+              "room": "CR-04-UG Block"
             },
             {
               "time": "1100-1150",
