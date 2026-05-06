@@ -2196,6 +2196,11 @@
         "D": {
           "Monday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Mon, 11 May 2026 @ 0900-0950 in  in Lec Hall IAEC",
+              "room": "in Lec Hall IAEC"
+            },
+            {
               "time": "1000-1050",
               "course": "Digital Signal Processing",
               "room": "Lecture Hall-IAEC"
@@ -2450,33 +2455,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": "CR-18-IAEC"
-            },
-            {
-              "time": "1400-1450",
-              "course": "14:30 to 17:00 Hrs",
-              "room": "CR-18-IAEC"
+              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
+              "room": "in CR-17 IAEC"
             },
             {
               "time": "1500-1550",
-              "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": "CR-18-IAEC"
-            },
-            {
-              "time": "1500-1550",
-              "course": "14:30 to 17:00 Hrs",
-              "room": "CR-18-IAEC"
+              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
+              "room": "in CR-17 IAEC"
             },
             {
               "time": "1600-1650",
-              "course": "2K25-BEE-15AB: Industrial Visit: Fri, 17th April 2026",
-              "room": "CR-18-IAEC"
-            },
-            {
-              "time": "1600-1650",
-              "course": "14:30 to 17:00 Hrs",
-              "room": "CR-18-IAEC"
+              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
+              "room": "in CR-17 IAEC"
             }
           ]
         }
@@ -4415,6 +4405,11 @@
               "time": "1500-1550",
               "course": "Software Project Management",
               "room": "CR-23-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K23-BESE-14A | Ms. Hareem Ashraf |  SE430-SPM | Wed,  13 May 2026 @ 1600-1650 in CR-23 Acad Block",
+              "room": "CR-23 Acad Block"
             }
           ],
           "Thursday": [
@@ -5051,6 +5046,16 @@
               "time": "1200-1250",
               "course": "Object Oriented Programming",
               "room": "CR-09-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup: Online",
+              "room": "Online"
+            },
+            {
+              "time": "1400-1450",
+              "course": "On Fri, 08 May 2026 @ 1430-1515 hrs in CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran",
+              "room": "CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran"
             }
           ]
         },
@@ -5210,14 +5215,14 @@
               "room": "CR-10-UG Block"
             },
             {
-              "time": "1500-1550",
-              "course": "Makeup: Makeup | MATH161-DM",
-              "room": "CR-10-UG Block"
+              "time": "1400-1450",
+              "course": "Makeup: Online",
+              "room": "Online"
             },
             {
-              "time": "1500-1550",
-              "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
+              "time": "1400-1450",
+              "course": "On Fri, 08 May 2026 @ 1430-1515 hrs in CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran",
+              "room": "CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran"
             }
           ]
         }
@@ -7021,8 +7026,13 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup | 2K23-BSCS-13E | CS347-PDC | Dr. Ayesha Maqbool | Thurs, 16 Apr, 2026 @ 1400-1450 in CR-24-Acad Block",
-              "room": "CR-24-Acad Block"
+              "course": "Makeup Lab | 2K23-BSCS-13E | Mr Hamza Fayyaz | CS347-PDC | Thu, 07 May 2026 @ 1400-1550 in Comp Lab-09 RIMMS",
+              "room": "Comp Lab-09 RIMMS"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup Lab | 2K23-BSCS-13E | Mr Hamza Fayyaz | CS347-PDC | Thu, 07 May 2026 @ 1400-1550 in Comp Lab-09 RIMMS",
+              "room": "Comp Lab-09 RIMMS"
             }
           ],
           "Friday": [
