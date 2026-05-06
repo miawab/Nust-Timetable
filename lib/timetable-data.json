@@ -2991,7 +2991,38 @@
               "room": "Online"
             }
           ],
-          "Friday": []
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Microprocessor Systems",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "(Online Mode) - 08 May 2026",
+              "room": "Online"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Microprocessor Systems",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(Online Mode) - 08 May 2026",
+              "room": "Online"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Microprocessor Systems",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "(Online Mode) - 08 May 2026",
+              "room": "Online"
+            }
+          ]
         }
       },
       "1 - Freshman": {
