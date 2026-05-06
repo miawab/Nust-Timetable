@@ -5051,26 +5051,6 @@
               "time": "1200-1250",
               "course": "Object Oriented Programming",
               "room": "CR-09-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Makeup | 2k25-BESE-16A | HU114-Functional English | Dr Neelma Riaz | Fri, 24 Apr, 2026 @ 1400-1450 Online",
-              "room": "Online"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Makeup: Makeup | MATH161-DM",
-              "room": "CR-09-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
-              "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Fri, 24 Apr, 2026 @ 1600-1650 online",
-              "room": "Online"
             }
           ]
         },
@@ -5238,11 +5218,6 @@
               "time": "1500-1550",
               "course": "On Fri, 24 April 2026 @ 1500-1550 hrs in LHPG (2K25-BESE-16AB) Dr. Quanita Kiran",
               "room": "LHPG (2K25-BESE-16AB) Dr. Quanita Kiran"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2k25-BESE-16AB-Combine | MATH121-Linear Algebra and ODEs | Dr. Saira Zainab | Fri, 24 Apr, 2026 @ 1600-1650 online",
-              "room": "Online"
             }
           ]
         }
@@ -7254,6 +7229,11 @@
               "time": "1200-1250",
               "course": "Advanced Database Management Systems (Lab)",
               "room": "Computing Lab-06"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup 2K24-BSCS-14A | PHY102-AP | Dr. Imran Malik | On Fri, 08 May 2026 @ 1430-1515 hrs, online in CR-12 UG Block",
+              "room": "Online"
             }
           ]
         },
@@ -7401,6 +7381,11 @@
               "time": "1100-1150",
               "course": "Expository Writing",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup | 2K24-BSDS-2A & & 2K24-BSCS-14B-Combine | PHY102-AP | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
+              "room": "CR-12-UG Block"
             },
             {
               "time": "1400-1450",
@@ -8960,7 +8945,7 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K24-BSDS-2A | PHY102-Applied Physics | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
+              "course": "Makeup | 2K24-BSDS-2A & & 2K24-BSCS-14B-Combine | PHY102-AP | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
               "room": "CR-12-UG Block"
             }
           ]
