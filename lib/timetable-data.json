@@ -2395,6 +2395,36 @@
               "time": "1200-1250",
               "course": "Communication Systems (Lab)",
               "room": "DSP & Comm Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Signal Processing (Lab)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1400-1450",
+              "course": "(Computing Lab-12) 07 May 2026",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Signal Processing (Lab)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1500-1550",
+              "course": "(Computing Lab-12) 07 May 2026",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Signal Processing (Lab)",
+              "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "(Computing Lab-12) 07 May 2026",
+              "room": "CR-18-IAEC"
             }
           ],
           "Friday": [
@@ -4326,6 +4356,11 @@
               "time": "1400-1450",
               "course": "Software Quality Engineering",
               "room": "CR-05-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "BESE-14A: Mon, 11th May 2026 @ Sir Maajid @ 1500-1550 hrs",
+              "room": "CR-23-Acad Block"
             }
           ],
           "Tuesday": [
@@ -4477,6 +4512,11 @@
             {
               "time": "1500-1550",
               "course": "Software Project Management",
+              "room": "CR-24-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "BESE-14B: Mon, 11th May 2026 @ Sir Maajid @ 1600-1650 hrs",
               "room": "CR-24-Acad Block"
             }
           ],
@@ -7828,8 +7868,8 @@
             },
             {
               "time": "1200-1250",
-              "course": "Makeup | 2K25-BSCS-15A | EE223-Digital Logic Design | Mr. Arshad Nazir | Wed, 29 Apr, 2026 @ 1200-1250 in CR-02-UG Block",
-              "room": "CR-02-UG Block"
+              "course": "Makeups | 2K25-BSCS-15AC | CS212-OOP | Mr. Jaudat Mamoon | Wed, 13 May 2026 @ 1200-1250 in CR-  2 UG Block",
+              "room": "CR-  2 UG Block"
             },
             {
               "time": "1400-1450",
@@ -8109,6 +8149,11 @@
               "time": "1000-1050",
               "course": "Object Oriented Programming",
               "room": "CR-03-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "DBS on Wed, 6th May 2026 @ 1100-1150 hrs in CR-24 (2K25-BSCS-15C) Dr. Bilal Ali",
+              "room": "CR-24 (2K25-BSCS-15C) Dr. Bilal Ali"
             },
             {
               "time": "1200-1250",
@@ -9162,8 +9207,8 @@
           "Monday": [
             {
               "time": "0900-0950",
-              "course": "Makeup: Computer Organization & Assembly Language",
-              "room": "CR-13-UG Block"
+              "course": "Makeups | 2K24-BSAI-1A | PHY102-AP | Dr. Sidra Shafiq | On Monday, 11 May 2026 @ 0900-0950 hrs in CR-13 UG Block",
+              "room": "1x"
             },
             {
               "time": "1000-1050",
@@ -9356,6 +9401,16 @@
             {
               "time": "1500-1550",
               "course": "FTF) Dr. Mehwish Fatima On",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeups | PHY102-AP |  On Friday, 08 May 2026 @ 1600-1650 hrs, online",
+              "room": "Online"
+            },
+            {
+              "time": "1600-1650",
+              "course": "FTF in CR-02 UG Block (2K24-BSAI-1A ) Dr. Sidra Shafiq",
               "room": "CR-11-UG Block"
             }
           ]
