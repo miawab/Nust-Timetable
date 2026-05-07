@@ -8030,6 +8030,11 @@
               "room": "CR-02-UG Block"
             },
             {
+              "time": "1500-1550",
+              "course": "Makeup: Linear Algebra",
+              "room": "CR-??-UG Block"
+            },
+            {
               "time": "1600-1650",
               "course": "Database Systems",
               "room": "CR-02-UG Block"
@@ -8150,6 +8155,11 @@
               "time": "1100-1150",
               "course": "Multivariable Calculus",
               "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup: Linear Algebra",
+              "room": "CR-??-UG Block"
             },
             {
               "time": "1400-1450",
