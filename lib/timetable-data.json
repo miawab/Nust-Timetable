@@ -2731,13 +2731,23 @@
           "Friday": [
             {
               "time": "1000-1050",
-              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
-              "room": "CR-01-UG Block"
+              "course": "Makeup: Electronic Circuit Design",
+              "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "(Online Mode)",
+              "room": "Online"
             },
             {
               "time": "1100-1150",
-              "course": "Makeup | 2K24-BEE-16A&B | MATH222-Linear Algebra | Dr. Imran Shahzad | Fri, 17 Apr, 2026 @ 1000-1150 in CR-01-UG Block",
-              "room": "CR-01-UG Block"
+              "course": "Makeup: Electronic Circuit Design",
+              "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "(Online Mode)",
+              "room": "Online"
             }
           ]
         },
@@ -3013,33 +3023,43 @@
           ],
           "Friday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup: Electronic Circuit Design",
+              "room": "CR-08-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "(Online Mode)",
+              "room": "Online"
+            },
+            {
               "time": "1000-1050",
-              "course": "Microprocessor Systems",
+              "course": "Makeup: Microprocessor Systems",
               "room": "CR-08-UG Block"
             },
             {
               "time": "1000-1050",
-              "course": "(Online Mode) - 08 May 2026",
+              "course": "(Online Mode)",
               "room": "Online"
             },
             {
               "time": "1100-1150",
-              "course": "Microprocessor Systems",
+              "course": "Makeup: Microprocessor Systems",
               "room": "CR-08-UG Block"
             },
             {
               "time": "1100-1150",
-              "course": "(Online Mode) - 08 May 2026",
+              "course": "(Online Mode)",
               "room": "Online"
             },
             {
               "time": "1200-1250",
-              "course": "Microprocessor Systems",
+              "course": "Makeup: Microprocessor Systems",
               "room": "CR-08-UG Block"
             },
             {
               "time": "1200-1250",
-              "course": "(Online Mode) - 08 May 2026",
+              "course": "(Online Mode)",
               "room": "Online"
             }
           ]
@@ -4495,6 +4515,11 @@
               "room": "CR-24-Acad Block"
             },
             {
+              "time": "1100-1150",
+              "course": "Makeup: Entre'ship on Mon, 11th May 2026 @ 1100-1150 hrs in CR-24 (2K23-BESE-14B) Mr. Maajid Maqbool",
+              "room": "CR-24 (2K23-BESE-14B) Mr. Maajid Maqbool"
+            },
+            {
               "time": "1200-1250",
               "course": "Machine Learning",
               "room": "CR-24-Acad Block"
@@ -4511,8 +4536,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "BESE-14B: Mon, 11th May 2026 @ Sir Maajid @ 1600-1650 hrs",
-              "room": "CR-24-Acad Block"
+              "course": "Makeup | 2K23-BESE-14B | Ms. Hareem Ashraf |  SE430-SPM | Mon,  11 May 2026 @ 1600-1650 in CR-24 Acad Block",
+              "room": "CR-24 Acad Block"
             }
           ],
           "Tuesday": [
