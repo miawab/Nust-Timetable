@@ -3101,6 +3101,11 @@
               "time": "1200-1250",
               "course": "(Online Mode)",
               "room": "Online"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeup | 2K24-BEE-16D | ENGL101-Expository Writing | Dr. Neelma Riaz | Fri, 08 May, 2026 @ 1400-1450 Online",
+              "room": "Online"
             }
           ]
         }
@@ -5126,6 +5131,11 @@
               "time": "1400-1450",
               "course": "On Fri, 08 May 2026 @ 1430-1515 hrs in CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran",
               "room": "CR-06 (2K25-BESE-16AB Comb) Dr. Quanita Kiran"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeup | 2k25-BESE-16A | HU114-Functional English | Dr. Neelma Riaz | Fri, 08 May, 2026 @ 1500-1550 Online",
+              "room": "Online"
             }
           ]
         },
