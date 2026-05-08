@@ -8366,6 +8366,11 @@
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeups | 2K25-BSCS-15D | MATH-234-Multivariable Calculus | Dr. Farkhanda Afzal | Tue, 12 May, 2026 @ 0900-0950 in CR-05-UG Block",
+              "room": "CR-05-UG Block"
+            },
+            {
               "time": "1000-1050",
               "course": "Digital Logic Design (Lab)",
               "room": "Digital Systems Lab"
