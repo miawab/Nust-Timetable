@@ -7223,6 +7223,11 @@
               "time": "1500-1550",
               "course": "Theory of Automata",
               "room": "CR-21-SMRIMMS"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BSCS-14A | CS324-Theory of Automata | Dr. Fatima Abdullah | Tue, 12 may, 2026 @ 1600-1650 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
             }
           ],
           "Wednesday": [
@@ -7404,6 +7409,11 @@
           ],
           "Wednesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14B | CS324-Theory of Automata | Dr. Fatima Abdullah | Wed, 13 May, 2026 @ 0900-0950 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
+            },
+            {
               "time": "1000-1050",
               "course": "Expository Writing",
               "room": "CR-21-SMRIMMS"
@@ -7548,6 +7558,11 @@
             }
           ],
           "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14C | CS324-Theory of Automata | Dr. Fatima Abdullah | Tue, 12 may, 2026 @ 0900-0950 in CR-06-UG Block",
+              "room": "CR-06-UG Block"
+            },
             {
               "time": "1000-1050",
               "course": "Applied Physics (Lab)",
