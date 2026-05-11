@@ -5173,8 +5173,18 @@
             },
             {
               "time": "1600-1650",
-              "course": "ICP ESE on 11th May @ 1600-1900 hrs",
-              "room": "Intl Studs"
+              "course": "ICP ESE on 11th May @ 1600-1900 hrs (Intl Studs)",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "--------------------",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup: MATH161-DM",
+              "room": "CR-11 UG Block"
             }
           ],
           "Tuesday": [
@@ -5810,6 +5820,11 @@
             },
             {
               "time": "1100-1150",
+              "course": "Makeup: CS351-Compiler Construction",
+              "room": "Lec Hall-IAEC"
+            },
+            {
+              "time": "1100-1150",
               "course": "------",
               "room": "CR-12-UG Block"
             },
@@ -6427,16 +6442,6 @@
             {
               "time": "0900-0950",
               "course": "BSCS-13 C | Industrial Visit | Walee Technologies | Monday, May 11 @ 0920 hrs",
-              "room": "CR-26-Acad Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "2K23-BSCS-13C | LAB EXAM | CS419-Deep Learning  | Ms. Areeba Rameen | Mon, 04 May, 2026 @ 1000-1050 in Computing Lab-11",
-              "room": "Computing Lab-11"
-            },
-            {
-              "time": "1000-1050",
-              "course": "---------------",
               "room": "CR-26-Acad Block"
             },
             {
@@ -7106,13 +7111,18 @@
             },
             {
               "time": "1400-1450",
-              "course": "Makeup Lab | 2K23-BSCS-13E | Mr Hamza Fayyaz | CS347-PDC | Thu, 07 May 2026 @ 1400-1550 in Comp Lab-09 RIMMS",
-              "room": "Comp Lab-09 RIMMS"
+              "course": "Makeups | 2K23-BSCS-13E | SE200-Software Engineering | Dr. Sarosh Tahir | Thurs, 14 May, 2026 @ 1400-1650 in CR-06-UG Block",
+              "room": "CR-06-UG Block"
             },
             {
               "time": "1500-1550",
-              "course": "Makeup Lab | 2K23-BSCS-13E | Mr Hamza Fayyaz | CS347-PDC | Thu, 07 May 2026 @ 1400-1550 in Comp Lab-09 RIMMS",
-              "room": "Comp Lab-09 RIMMS"
+              "course": "Makeups | 2K23-BSCS-13E | SE200-Software Engineering | Dr. Sarosh Tahir | Thurs, 14 May, 2026 @ 1400-1650 in CR-06-UG Block",
+              "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeups | 2K23-BSCS-13E | SE200-Software Engineering | Dr. Sarosh Tahir | Thurs, 14 May, 2026 @ 1400-1650 in CR-06-UG Block",
+              "room": "CR-06-UG Block"
             }
           ],
           "Friday": [
