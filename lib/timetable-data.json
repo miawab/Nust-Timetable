@@ -2160,11 +2160,6 @@
               "room": "CR-20-IAEC"
             },
             {
-              "time": "1200-1250",
-              "course": "Makeup 2K23-BEE-15C | EE371-LCS | Dr. Farid Gul | Thurs, 30 Apr, 2026 @ 1200-1250 in Control System Lab",
-              "room": "Control System Lab"
-            },
-            {
               "time": "1400-1450",
               "course": "Communication Systems (Lab)",
               "room": "DSP & Comm Lab"
@@ -2194,11 +2189,6 @@
             {
               "time": "1100-1150",
               "course": "Numerical Methods",
-              "room": "CR-19-IAEC"
-            },
-            {
-              "time": "1200-1250",
-              "course": "@Makeup | 2K23-BEE-15C | MATH351-NM | Dr. Ibrar Hussain | Fri, 08 May, 2026 @ 1200-1250 in CR-19-IAEC",
               "room": "CR-19-IAEC"
             },
             {
@@ -7205,6 +7195,11 @@
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 12 May, 2026 @ 0900-0950 in CR-21-SMRIMMS",
+              "room": "CR-21-SMRIMMS"
+            },
+            {
               "time": "1000-1050",
               "course": "Web Technologies",
               "room": "CR-21-SMRIMMS"
@@ -7228,11 +7223,6 @@
               "time": "1500-1550",
               "course": "Theory of Automata",
               "room": "CR-21-SMRIMMS"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14A&B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 1600-1650 in Lec Hall IAEC",
-              "room": "Lec Hall IAEC"
             }
           ],
           "Wednesday": [
@@ -7390,6 +7380,11 @@
               "time": "1100-1150",
               "course": "Applied Physics",
               "room": "CR-18-IAEC"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 12 May, 2026 @ 1200-1250 in Computing Lab-01",
+              "room": "Computing Lab-01"
             },
             {
               "time": "1400-1450",
