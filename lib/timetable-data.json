@@ -7948,6 +7948,16 @@
               "time": "1200-1250",
               "course": "Database Systems (Lab)",
               "room": "Computing Lab-05"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeups | 2K25-BSCS-15A | MATH-222-Linear Algebra | Dr. Abdul Haleem Hamid | Tue, 12 may, 2026 @ 1400-1550 in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeups | 2K25-BSCS-15A | MATH-222-Linear Algebra | Dr. Abdul Haleem Hamid | Tue, 12 may, 2026 @ 1400-1550 in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
             }
           ],
           "Wednesday": [
