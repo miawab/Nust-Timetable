@@ -3531,7 +3531,12 @@
             },
             {
               "time": "1600-1650",
-              "course": "Student Advisory Session",
+              "course": "Makeshift-12 May 2026",
+              "room": "CR-15-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Electrical Network Analysis",
               "room": "CR-15-UG Block"
             }
           ],
