@@ -5913,7 +5913,12 @@
               "room": "1x Rglr, 1x Makp"
             },
             {
-              "time": "1400-1450",
+              "time": "1500-1550",
+              "course": "Engineering Economics",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
               "course": "Compiler Construction",
               "room": "CR-12-UG Block"
             }
