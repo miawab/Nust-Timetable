@@ -8783,6 +8783,220 @@
       }
     },
     "BSDS": {
+      "1 - Freshman": {
+        "A": {
+          "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Object Oriented Programming (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Multivariable Calculus",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Discrete Mathematics (PM)",
+              "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Database Systems (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Database Systems (Lab)",
+              "room": "Computing Lab-02"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Database Systems (Lab)",
+              "room": "Computing Lab-02"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup: MATH-101-CAG",
+              "room": "Lec Hall-PG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "-----------------",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "0900-0950",
+              "course": "Makeup: MATH161-Discrete Mathematics",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Object Oriented Programming",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Object Oriented Programming",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Database Systems",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
+              "room": "CR-02-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K25-BSDS-3A | HU132-UoQ II | Hafiz Muhammad Siddique | Tue, 21 Apr, 2026 @ 1400-1650 in Lec Hall-PG Block",
+              "room": "Lec Hall-PG Block"
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Object Oriented Programming",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup Lab | 2K25-BSDS-3A | EE223-Digital Logic Design | Wed, 13 May, 2026 @ 1000-1250 in Embedded Systems Lab",
+              "room": "Embedded Systems Lab"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Digital Logic Design",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Digital Logic Design",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Understanding of Quran II",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Understanding of Quran II",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Understanding of Quran II",
+              "room": "CR-01-UG Block"
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Calculus & Analytical Geometry (PM)",
+              "room": "CR-06-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Makeup | MATH222-Linear Algebra | Thurs, 07 May, 2026 @ 0900-1050 in CR-26-Acad Block (2K25-BSDS-3A) Dr. Bilal Ahmed",
+              "room": "CR-26-Acad Block (2K25-BSDS-3A) Dr. Bilal Ahmed"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Multivariable Calculus",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Discrete Mathematics (PM)",
+              "room": "CR-27-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Multivariable Calculus",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Discrete Mathematics (PM)",
+              "room": "CR-27-Acad Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Database Systems",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Database Systems",
+              "room": "CR-01-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Linear Algebra",
+              "room": "CR-01-UG Block"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "1000-1050",
+              "course": "Calculus & Analytical Geometry (PM)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Linear Algebra",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Calculus & Analytical Geometry (PM)",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Linear Algebra",
+              "room": "CR-04-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Digital Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Digital Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Digital Logic Design (Lab)",
+              "room": "Digital Systems Lab"
+            }
+          ]
+        }
+      },
       "3 - Junior": {
         "A": {
           "Monday": [
@@ -9107,220 +9321,6 @@
               "time": "1200-1250",
               "course": "Makeup | 2K24-BSDS-2A & & 2K24-BSCS-14B-Combine | PHY102-AP | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
               "room": "CR-12-UG Block"
-            }
-          ]
-        }
-      },
-      "1 - Freshman": {
-        "A": {
-          "Monday": [
-            {
-              "time": "0900-0950",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-02"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-02"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Object Oriented Programming (Lab)",
-              "room": "Computing Lab-02"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Multivariable Calculus",
-              "room": "CR-14-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Discrete Mathematics (PM)",
-              "room": "CR-02-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Database Systems (Lab)",
-              "room": "Computing Lab-02"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Database Systems (Lab)",
-              "room": "Computing Lab-02"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Database Systems (Lab)",
-              "room": "Computing Lab-02"
-            }
-          ],
-          "Tuesday": [
-            {
-              "time": "0900-0950",
-              "course": "Makeup: MATH-101-CAG",
-              "room": "Lec Hall-PG Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "-----------------",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "0900-0950",
-              "course": "Makeup: MATH161-Discrete Mathematics",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Object Oriented Programming",
-              "room": "CR-14-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Object Oriented Programming",
-              "room": "CR-14-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Database Systems",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
-              "room": "CR-02-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Makeups | 2K25-BSDS-3A | EE223-DLD | Mr. Muhammad Abdullah | Tue, 12 May @ 1400-1550 in CR-02-UG Block",
-              "room": "CR-02-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2K25-BSDS-3A | HU132-UoQ II | Hafiz Muhammad Siddique | Tue, 21 Apr, 2026 @ 1400-1650 in Lec Hall-PG Block",
-              "room": "Lec Hall-PG Block"
-            }
-          ],
-          "Wednesday": [
-            {
-              "time": "0900-0950",
-              "course": "Object Oriented Programming",
-              "room": "CR-14-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup Lab | 2K25-BSDS-3A | EE223-Digital Logic Design | Wed, 13 May, 2026 @ 1000-1250 in Embedded Systems Lab",
-              "room": "Embedded Systems Lab"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Digital Logic Design",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Digital Logic Design",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Understanding of Quran II",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Understanding of Quran II",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Understanding of Quran II",
-              "room": "CR-01-UG Block"
-            }
-          ],
-          "Thursday": [
-            {
-              "time": "0900-0950",
-              "course": "Calculus & Analytical Geometry (PM)",
-              "room": "CR-06-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Makeup | MATH222-Linear Algebra | Thurs, 07 May, 2026 @ 0900-1050 in CR-26-Acad Block (2K25-BSDS-3A) Dr. Bilal Ahmed",
-              "room": "CR-26-Acad Block (2K25-BSDS-3A) Dr. Bilal Ahmed"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Multivariable Calculus",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Discrete Mathematics (PM)",
-              "room": "CR-27-Acad Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Multivariable Calculus",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Discrete Mathematics (PM)",
-              "room": "CR-27-Acad Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Database Systems",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Database Systems",
-              "room": "CR-01-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Linear Algebra",
-              "room": "CR-01-UG Block"
-            }
-          ],
-          "Friday": [
-            {
-              "time": "1000-1050",
-              "course": "Calculus & Analytical Geometry (PM)",
-              "room": "CR-11-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Linear Algebra",
-              "room": "CR-04-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Calculus & Analytical Geometry (PM)",
-              "room": "CR-11-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Linear Algebra",
-              "room": "CR-04-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Digital Logic Design (Lab)",
-              "room": "Digital Systems Lab"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Digital Logic Design (Lab)",
-              "room": "Digital Systems Lab"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Digital Logic Design (Lab)",
-              "room": "Digital Systems Lab"
             }
           ]
         }
