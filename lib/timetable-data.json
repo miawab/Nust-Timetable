@@ -8783,6 +8783,165 @@
       }
     },
     "BSDS": {
+      "3 - Junior": {
+        "A": {
+          "Monday": [
+            {
+              "time": "1000-1050",
+              "course": "Parallel & Distributed Computing (Lab)",
+              "room": "Computing Lab-10"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Parallel & Distributed Computing (Lab)",
+              "room": "Computing Lab-10"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Parallel & Distributed Computing (Lab)",
+              "room": "Computing Lab-10"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Data Warehousing and Business Intelligence (Lab)",
+              "room": "Computing Lab-10"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Data Warehousing and Business Intelligence (Lab)",
+              "room": "Computing Lab-10"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Data Warehousing and Business Intelligence (Lab)",
+              "room": "Computing Lab-10"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Tue, 05 may, 2026 @ 0900-1050 in",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Data Warehousing and Business Intelligence",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Data Warehousing and Business Intelligence",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Parallel & Distributed Computing",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Parallel & Distributed Computing",
+              "room": "CR-28-Acad Block"
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1000-1050",
+              "course": "Mobile Application Development-I (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Mobile Application Development-I (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Mobile Application Development-I (Lab)",
+              "room": "Computing Lab-07"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Large Language Models",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Large Language Models",
+              "room": "CR-28-Acad Block"
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "1000-1050",
+              "course": "Computer Vision (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Vision (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Vision (Lab)",
+              "room": "Computing Lab-12"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Ideology and Constitution of Pakistan",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeups | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Dr. Rabia Irfan | Thurs, 19 & 26 Feb, 2026 @ 1345-1425 in CR-14",
+              "room": "CR-14"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Computer Vision",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Computer Vision",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Mobile Application Development-I",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Mobile Application Development-I",
+              "room": "CR-28-Acad Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Large Language Models (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Large Language Models (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Large Language Models (Lab)",
+              "room": "Computing Lab-08"
+            }
+          ]
+        }
+      },
       "1 - Freshman": {
         "A": {
           "Monday": [
@@ -8993,165 +9152,6 @@
               "time": "1600-1650",
               "course": "Digital Logic Design (Lab)",
               "room": "Digital Systems Lab"
-            }
-          ]
-        }
-      },
-      "3 - Junior": {
-        "A": {
-          "Monday": [
-            {
-              "time": "1000-1050",
-              "course": "Parallel & Distributed Computing (Lab)",
-              "room": "Computing Lab-10"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Parallel & Distributed Computing (Lab)",
-              "room": "Computing Lab-10"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Parallel & Distributed Computing (Lab)",
-              "room": "Computing Lab-10"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Data Warehousing and Business Intelligence (Lab)",
-              "room": "Computing Lab-10"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Data Warehousing and Business Intelligence (Lab)",
-              "room": "Computing Lab-10"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Data Warehousing and Business Intelligence (Lab)",
-              "room": "Computing Lab-10"
-            }
-          ],
-          "Tuesday": [
-            {
-              "time": "0900-0950",
-              "course": "Makeup | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Tue, 05 may, 2026 @ 0900-1050 in",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Data Warehousing and Business Intelligence",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Data Warehousing and Business Intelligence",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Parallel & Distributed Computing",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Parallel & Distributed Computing",
-              "room": "CR-28-Acad Block"
-            }
-          ],
-          "Wednesday": [
-            {
-              "time": "1000-1050",
-              "course": "Mobile Application Development-I (Lab)",
-              "room": "Computing Lab-07"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Mobile Application Development-I (Lab)",
-              "room": "Computing Lab-07"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Mobile Application Development-I (Lab)",
-              "room": "Computing Lab-07"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Large Language Models",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Large Language Models",
-              "room": "CR-28-Acad Block"
-            }
-          ],
-          "Thursday": [
-            {
-              "time": "1000-1050",
-              "course": "Computer Vision (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Computer Vision (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Computer Vision (Lab)",
-              "room": "Computing Lab-12"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Ideology and Constitution of Pakistan",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Ideology and Constitution of Pakistan",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeups | 2K23-BSDS-1A | DS312-Data Warehousing and Business Intelligence | Dr. Rabia Irfan | Thurs, 19 & 26 Feb, 2026 @ 1345-1425 in CR-14",
-              "room": "CR-14"
-            }
-          ],
-          "Friday": [
-            {
-              "time": "0900-0950",
-              "course": "Computer Vision",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Computer Vision",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Mobile Application Development-I",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Mobile Application Development-I",
-              "room": "CR-28-Acad Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Large Language Models (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Large Language Models (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Large Language Models (Lab)",
-              "room": "Computing Lab-08"
             }
           ]
         }
