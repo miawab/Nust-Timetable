@@ -8942,6 +8942,175 @@
           ]
         }
       },
+      "2 - Sophomore": {
+        "A": {
+          "Monday": [
+            {
+              "time": "0900-0950",
+              "course": "Expository Writing",
+              "room": "CR-11-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Computer Organization & Assembly Language (Lab)",
+              "room": "Control System Lab"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Organization & Assembly Language (Lab)",
+              "room": "Control System Lab"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Computer Organization & Assembly Language (Lab)",
+              "room": "Control System Lab"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Advanced Statistics",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Introduction to Data Science",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Introduction to Data Science",
+              "room": "CR-12-UG Block"
+            }
+          ],
+          "Tuesday": [
+            {
+              "time": "0900-0950",
+              "course": "Applied Physics",
+              "room": "CR-10-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Introduction to Data Science (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Introduction to Data Science (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Introduction to Data Science (Lab)",
+              "room": "Computing Lab-03"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Advanced Statistics (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Advanced Statistics (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Advanced Statistics (Lab)",
+              "room": "Computing Lab-08"
+            }
+          ],
+          "Wednesday": [
+            {
+              "time": "1000-1050",
+              "course": "Applied Physics (Lab)",
+              "room": "Physics Lab 01-SNS"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Applied Physics (Lab)",
+              "room": "Physics Lab 01-SNS"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Applied Physics (Lab)",
+              "room": "Physics Lab 01-SNS"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Machine Learning (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1500-1550",
+              "course": "Machine Learning (Lab)",
+              "room": "Computing Lab-08"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Machine Learning (Lab)",
+              "room": "Computing Lab-08"
+            }
+          ],
+          "Thursday": [
+            {
+              "time": "0900-0950",
+              "course": "Machine Learning",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Machine Learning",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Expository Writing",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Advanced Statistics",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1400-1450",
+              "course": "Applied Physics",
+              "room": "CR-14-UG Block"
+            },
+            {
+              "time": "1500-1550",
+              "course": "@Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
+              "room": "CR-17-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
+              "room": "CR-17-IAEC"
+            }
+          ],
+          "Friday": [
+            {
+              "time": "0900-0950",
+              "course": "Expository Writing",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1000-1050",
+              "course": "Computer Organization & Assembly Language",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1100-1150",
+              "course": "Computer Organization & Assembly Language",
+              "room": "CR-12-UG Block"
+            },
+            {
+              "time": "1200-1250",
+              "course": "Makeup | 2K24-BSDS-2A & & 2K24-BSCS-14B-Combine | PHY102-AP | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
+              "room": "CR-12-UG Block"
+            }
+          ]
+        }
+      },
       "1 - Freshman": {
         "A": {
           "Monday": [
@@ -9152,175 +9321,6 @@
               "time": "1600-1650",
               "course": "Digital Logic Design (Lab)",
               "room": "Digital Systems Lab"
-            }
-          ]
-        }
-      },
-      "2 - Sophomore": {
-        "A": {
-          "Monday": [
-            {
-              "time": "0900-0950",
-              "course": "Expository Writing",
-              "room": "CR-11-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Computer Organization & Assembly Language (Lab)",
-              "room": "Control System Lab"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Computer Organization & Assembly Language (Lab)",
-              "room": "Control System Lab"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Computer Organization & Assembly Language (Lab)",
-              "room": "Control System Lab"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Advanced Statistics",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Introduction to Data Science",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Introduction to Data Science",
-              "room": "CR-12-UG Block"
-            }
-          ],
-          "Tuesday": [
-            {
-              "time": "0900-0950",
-              "course": "Applied Physics",
-              "room": "CR-10-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Introduction to Data Science (Lab)",
-              "room": "Computing Lab-03"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Introduction to Data Science (Lab)",
-              "room": "Computing Lab-03"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Introduction to Data Science (Lab)",
-              "room": "Computing Lab-03"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Advanced Statistics (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Advanced Statistics (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Advanced Statistics (Lab)",
-              "room": "Computing Lab-08"
-            }
-          ],
-          "Wednesday": [
-            {
-              "time": "1000-1050",
-              "course": "Applied Physics (Lab)",
-              "room": "Physics Lab 01-SNS"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Applied Physics (Lab)",
-              "room": "Physics Lab 01-SNS"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Applied Physics (Lab)",
-              "room": "Physics Lab 01-SNS"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Machine Learning (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Machine Learning (Lab)",
-              "room": "Computing Lab-08"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Machine Learning (Lab)",
-              "room": "Computing Lab-08"
-            }
-          ],
-          "Thursday": [
-            {
-              "time": "0900-0950",
-              "course": "Machine Learning",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Machine Learning",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Expository Writing",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Advanced Statistics",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Applied Physics",
-              "room": "CR-14-UG Block"
-            },
-            {
-              "time": "1500-1550",
-              "course": "@Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
-              "room": "CR-17-IAEC"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeups | 2K24-BSDS-2A | ENGL101-Expository Writing | Dr. Samia Tahir | Thurs, 07 May, 2026 @ 1500-1650 in CR-17-IAEC",
-              "room": "CR-17-IAEC"
-            }
-          ],
-          "Friday": [
-            {
-              "time": "0900-0950",
-              "course": "Expository Writing",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1000-1050",
-              "course": "Computer Organization & Assembly Language",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1100-1150",
-              "course": "Computer Organization & Assembly Language",
-              "room": "CR-12-UG Block"
-            },
-            {
-              "time": "1200-1250",
-              "course": "Makeup | 2K24-BSDS-2A & & 2K24-BSCS-14B-Combine | PHY102-AP | Dr. Imran Malik | Fri, 08 May, 2026 @ 1200-1250 in CR-12-UG Block",
-              "room": "CR-12-UG Block"
             }
           ]
         }
