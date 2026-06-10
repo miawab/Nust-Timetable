@@ -2226,11 +2226,6 @@
         "D": {
           "Monday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Mon, 11 May 2026 @ 0900-0950 in  in Lec Hall IAEC",
-              "room": "in Lec Hall IAEC"
-            },
-            {
               "time": "1000-1050",
               "course": "Digital Signal Processing",
               "room": "Lecture Hall-IAEC"
@@ -2324,8 +2319,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup Lab | 2K23-BEE-15D | EE351-Communication Systems | Ms. Maryam Riaz | Tue, 12 May, 2026 @ 1600-1650 in Computing Lab-03",
-              "room": "Computing Lab-03"
+              "course": "Makeup | 2K23-BEE-15D | EE-371-Linear Control Systems | Dr. Neelma Naz | 16 June 2026 @ 1600-1650 in CR-18-IAEC",
+              "room": "CR-18-IAEC"
             }
           ],
           "Wednesday": [
@@ -2482,21 +2477,6 @@
               "time": "1200-1250",
               "course": "Communication Systems",
               "room": "CR-18-IAEC"
-            },
-            {
-              "time": "1400-1450",
-              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
-              "room": "in CR-17 IAEC"
-            },
-            {
-              "time": "1500-1550",
-              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
-              "room": "in CR-17 IAEC"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeups | 2K23-BEE-15D | Dr. Ahmed Naeem | EE-330-DSP | Fri, 08 May 2026 @ 1430-1655 in  in CR-17 IAEC",
-              "room": "in CR-17 IAEC"
             }
           ]
         }
