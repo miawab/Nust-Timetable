@@ -302,7 +302,12 @@
             },
             {
               "time": "1200-1250",
-              "course": "Make Up | 2k22-EE | Mr. Munadi Ahmad Sial | EE-381 | Thursday, 14 May 2026 @ 1400-1450 in CR-07-UG Block",
+              "course": "Makeups | 2K22-BEE-14A | EE381-Robotics-1 (Gp-01) | Mr. Munadi Ahmad Sial | Thursday 14 May, 2026 @ 1400-1450",
+              "room": null
+            },
+            {
+              "time": "1200-1250",
+              "course": "CR-28-Acad Block",
               "room": null
             },
             {
@@ -1294,6 +1299,11 @@
             }
           ],
           "Wednesday": [
+            {
+              "time": "0900-0950",
+              "course": "Makeup | 2k22-BEE14D | CS-250-Data Structures and Algorithms |",
+              "room": null
+            },
             {
               "time": "1000-1050",
               "course": "Robotics-1 (Gp-01)",
