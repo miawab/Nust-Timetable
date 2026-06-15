@@ -821,6 +821,11 @@
           ],
           "Tuesday": [
             {
+              "time": "0900-0950",
+              "course": "Makeups | 2K22-BEE-14C- | CS-405-Deep Learning (Gp-02) | Ms. Asra Abid-TVF | On Thurs, 07 May, 2026 @ 0900-0950 in Lec Hall-PG Block",
+              "room": null
+            },
+            {
               "time": "1100-1150",
               "course": "Data Structures and Algorithms (1x)",
               "room": "Lecture Hall-PG Block"
@@ -4699,6 +4704,11 @@
               "room": "CR-17-IAEC"
             },
             {
+              "time": "1100-1150",
+              "course": "Makeup | 2K24-BESE-15A | CS-330 | Operating Systems | Mr. Taufique ur Rehman (AB) | Mon, 30 Apr, 2026 @ 1100-1150 |  in CR-10-UG Block",
+              "room": "CR-16-IAEC"
+            },
+            {
               "time": "1200-1250",
               "course": "Probability and Statistics",
               "room": "CR-16-IAEC"
@@ -4775,6 +4785,11 @@
             {
               "time": "1500-1550",
               "course": "Design & Analysis of Algorithms",
+              "room": "CR-16-IAEC"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K24-BESE-15A | CS-330 | Operating Systems | Mr. Taufique ur Rehman (AB) | Mon, 30 Apr, 2026 @ 1600-16s50 |  in CR-10-UG Block",
               "room": "CR-16-IAEC"
             }
           ],
@@ -6135,11 +6150,6 @@
               "time": "1500-1550",
               "course": "Parallel and Distributed Computing",
               "room": "CR-25-Acad Block"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2K23-BSCS-13A | Dr. Gibrail Islam | SE200-SE | Thu, 7 May 2026 @ 1600-1650 in CR-25-Acad Block",
-              "room": "CR-25-Acad Block"
             }
           ],
           "Friday": [
@@ -6854,8 +6864,8 @@
           "Thursday": [
             {
               "time": "0900-0950",
-              "course": "2K23-BSCS-13D | LAB EXAM | CS419-Deep Learning  | Ms. Areeba Rameen | Thurs, 07 may, 2026 @ 0900-1000 in Computing Lab-12",
-              "room": "Computing Lab-12"
+              "course": "Makeup |2K23-BSCS-13D | CS-404 | Big Data Analytics |Gp-02| | Dr. Syed Imran Ali | Thurs, 07 may, 2026 @ 0900-1000 in CR-03-UG Block",
+              "room": "CR-03-UG Block"
             },
             {
               "time": "1000-1050",
@@ -6918,6 +6928,11 @@
               "time": "1500-1550",
               "course": "Compiler Construction",
               "room": "CR-26-Acad Block"
+            },
+            {
+              "time": "1600-1650",
+              "course": "Makeup | 2K23-BSCS-13D | CS347-PDC | Dr. Ayesha Maqbool | Tue, 14 Apr, 2026 @ 0900-0950 in CR-25-Acad Block",
+              "room": "CR-25-Acad Block"
             }
           ]
         },
@@ -7205,11 +7220,6 @@
           ],
           "Tuesday": [
             {
-              "time": "0900-0950",
-              "course": "Makeup | 2K24-BSCS-14A | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 12 May, 2026 @ 0900-0950 in CR-21-SMRIMMS",
-              "room": "CR-21-SMRIMMS"
-            },
-            {
               "time": "1000-1050",
               "course": "Web Technologies",
               "room": "CR-21-SMRIMMS"
@@ -7232,11 +7242,6 @@
             {
               "time": "1500-1550",
               "course": "Theory of Automata",
-              "room": "CR-21-SMRIMMS"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14A | CS324-Theory of Automata | Dr. Fatima Abdullah | Tue, 12 may, 2026 @ 1600-1650 in CR-21-SMRIMMS",
               "room": "CR-21-SMRIMMS"
             }
           ],
@@ -7269,11 +7274,6 @@
             {
               "time": "1500-1550",
               "course": "Computer Organization & Assembly Language",
-              "room": "CR-21-SMRIMMS"
-            },
-            {
-              "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14A | CS236-ADMS | Dr. Muhammad Bilal Ali | Wed, 06 May, 2026 @ 1600-1650 in CR-21-SMRIMMS",
               "room": "CR-21-SMRIMMS"
             }
           ],
@@ -7397,11 +7397,6 @@
               "room": "CR-18-IAEC"
             },
             {
-              "time": "1200-1250",
-              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 12 May, 2026 @ 1200-1250 in Computing Lab-01",
-              "room": "Computing Lab-01"
-            },
-            {
               "time": "1400-1450",
               "course": "Computer Organization & Assembly Language",
               "room": "Lecture Hall-IAEC"
@@ -7413,8 +7408,8 @@
             },
             {
               "time": "1600-1650",
-              "course": "Makeup | 2K24-BSCS-14A&B | ENGL101-Expository Writing | Ms. Hina Yousaf  | Tue, 5 May 2026 @ 1600-1650 in Lec Hall IAEC",
-              "room": "Lec Hall IAEC"
+              "course": "Makeup | 2K24-BSCS-14B | ENGL101-Expository Writing | Ms. Hina Yousaf | Tue, 12 May, 2026 @ 1600-1650 in CR-17-IAEC-SMRIMMS",
+              "room": "CR-17-IAEC-SMRIMMS"
             }
           ],
           "Wednesday": [
