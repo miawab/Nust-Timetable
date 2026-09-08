@@ -10,8 +10,13 @@ import requests
 
 AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
+# Read-only access to spreadsheets, and nothing else.
+#
+# This deliberately excludes drive.readonly, which an earlier Drive-based export
+# required: that scope would let anyone holding the refresh token read every file
+# in the account's Drive. The app reads cell values through the Sheets API, so
+# spreadsheet scope alone is enough.
 SCOPES = [
-    "https://www.googleapis.com/auth/drive.readonly",
     "https://www.googleapis.com/auth/spreadsheets.readonly",
 ]
 REDIRECT_URI = "http://127.0.0.1:8765/callback"

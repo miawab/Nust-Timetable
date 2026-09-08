@@ -1,99 +1,16 @@
 'use client'
 
 import { useEffect, useMemo, useState } from 'react'
-import type { TimetableTree } from '@/lib/timetable-types'
+import { compareTimes, formatTimeRange, startMinutes } from '@/lib/timetable/format'
+import { cleanRoom, departmentRooms, sortRooms } from '@/lib/timetable/rooms'
+import type { TimetableTree } from '@/lib/timetable/types'
+import { labelClass, mutedClass, panelClass, selectClass } from '@/lib/ui'
 
 const WHOLE_DAY_VALUE = '__whole_day__'
 const DAY_ORDER = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
-interface UniqueRoomData {
-  uniqueRooms: string[]
-  byDepartment?: Record<string, string[]>
-}
-
-interface FreeRoomFinderProps {
-  timetableData: TimetableTree
-  uniqueRoomData: UniqueRoomData
-}
-
-function parseTimeStart(time: string): number {
-  const start = (time.split('-')[0] ?? '').trim()
-  const hhmm = start.match(/^(\d{3,4})$/)?.[1] ?? ''
-
-  if (!hhmm) return Number.POSITIVE_INFINITY
-
-  if (hhmm.length === 3) {
-    return Number.parseInt(hhmm[0], 10) * 60 + Number.parseInt(hhmm.slice(1), 10)
-  }
-
-  return Number.parseInt(hhmm.slice(0, 2), 10) * 60 + Number.parseInt(hhmm.slice(2), 10)
-}
-
-function formatClock(h: number, m: number): string {
-  const suffix = h >= 12 ? 'PM' : 'AM'
-  const hour = ((h + 11) % 12) + 1
-  return `${hour}:${String(m).padStart(2, '0')} ${suffix}`
-}
-
-function formatTimeRange(time: string): string {
-  const [rawStart = '', rawEnd = ''] = time.split('-').map((p) => p.trim())
-  const start = rawStart.match(/^(\d{3,4})$/)?.[1]
-  const end = rawEnd.match(/^(\d{3,4})$/)?.[1]
-
-  if (!start || !end) return time
-
-  const sh = start.length === 3 ? Number.parseInt(start[0], 10) : Number.parseInt(start.slice(0, 2), 10)
-  const sm = Number.parseInt(start.slice(-2), 10)
-  const eh = end.length === 3 ? Number.parseInt(end[0], 10) : Number.parseInt(end.slice(0, 2), 10)
-  const em = Number.parseInt(end.slice(-2), 10)
-
-  if ([sh, sm, eh, em].some(Number.isNaN)) return time
-
-  return `${formatClock(sh, sm)} - ${formatClock(eh, em)}`
-}
-
-function normalizeRoomText(value: string): string {
-  return value.toLowerCase().replace(/[^a-z0-9]/g, '')
-}
-
-function roomMatches(freeListRoom: string, occupiedRoom: string): boolean {
-  const free = normalizeRoomText(freeListRoom)
-  const occupied = normalizeRoomText(occupiedRoom)
-  if (!free || !occupied) return false
-  return occupied.includes(free)
-}
-
-function parseCrNumber(room: string): number | null {
-  const match = room.trim().match(/^CR\s*-\s*0*(\d{1,3})\b/i)
-  if (!match) return null
-
-  const value = Number.parseInt(match[1], 10)
-  return Number.isNaN(value) ? null : value
-}
-
-function roomPriority(room: string): number {
-  if (parseCrNumber(room) !== null) return 0
-  if (/\blab\b/i.test(room)) return 1
-  return 2
-}
-
-function sortRooms(rooms: string[]): string[] {
-  return [...rooms].sort((a, b) => {
-    const pa = roomPriority(a)
-    const pb = roomPriority(b)
-    if (pa !== pb) return pa - pb
-
-    if (pa === 0) {
-      const ca = parseCrNumber(a) ?? Number.POSITIVE_INFINITY
-      const cb = parseCrNumber(b) ?? Number.POSITIVE_INFINITY
-      if (ca !== cb) return ca - cb
-    }
-
-    return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' })
-  })
-}
-
-export default function FreeRoomFinder({ timetableData, uniqueRoomData }: FreeRoomFinderProps) {
+export default function FreeRoomFinder({ tree }: { tree: TimetableTree }) {
+  const timetableData = tree
   const departments = useMemo(() => Object.keys(timetableData), [timetableData])
 
   const [department, setDepartment] = useState('')
@@ -150,17 +67,13 @@ export default function FreeRoomFinder({ timetableData, uniqueRoomData }: FreeRo
       }
     }
 
-    return [...times].sort((a, b) => parseTimeStart(a) - parseTimeStart(b))
+    return [...times].sort(compareTimes)
   }, [timetableData, department, day])
 
-  const roomsForDepartment = useMemo(() => {
-    const departmentRooms = uniqueRoomData.byDepartment?.[department]
-    const base = (departmentRooms && departmentRooms.length > 0)
-      ? departmentRooms
-      : uniqueRoomData.uniqueRooms
-
-    return sortRooms(base)
-  }, [uniqueRoomData, department])
+  const roomsForDepartment = useMemo(
+    () => departmentRooms(timetableData, department),
+    [timetableData, department],
+  )
 
   const occupiedByTime = useMemo(() => {
     const occupied: Record<string, Set<string>> = {}
@@ -178,12 +91,11 @@ export default function FreeRoomFinder({ timetableData, uniqueRoomData }: FreeRo
             if (!time || !rawRoom) continue
             if (/^(main|online)$/i.test(rawRoom)) continue
 
+            const canonical = cleanRoom(rawRoom)
+            if (!canonical) continue
+
             occupied[time] ??= new Set<string>()
-            for (const candidate of roomsForDepartment) {
-              if (roomMatches(candidate, rawRoom)) {
-                occupied[time].add(candidate.toLowerCase())
-              }
-            }
+            occupied[time].add(canonical.toLowerCase())
           }
         }
       }

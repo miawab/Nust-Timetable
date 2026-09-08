@@ -1,2 +1,4 @@
+# Only needed to regenerate the parser test fixture from a downloaded workbook
+# (scripts/dump_fixture.py). The app itself reads the sheet through the Sheets
+# API in TypeScript and needs no Python.
 openpyxl>=3.1.5
-requests>=2.32.3

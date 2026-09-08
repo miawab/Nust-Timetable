@@ -1,0 +1,54 @@
+# Refreshes the committed fallback snapshot.
+#
+# The site reads the sheet live on every request (cached ~5 min), so this is NOT
+# how updates reach students -- it only keeps lib/timetable/snapshot.json, the
+# copy served when Google is unreachable, from going stale.
+#
+# Note: GitHub disables scheduled workflows after 60 days without repository
+# activity. That killed the previous every-10-minutes sync and left the site
+# five months out of date. Nothing breaks if this one is disabled -- the live
+# fetch keeps working -- but re-enable it from the Actions tab if the snapshot
+# starts ageing.
+name: Refresh timetable snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Rebuild snapshot from the live sheet
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        run: node --experimental-strip-types scripts/build_snapshot.mts
+
+      - name: Commit if changed
+        run: |
+          if [[ -z "$(git status --porcelain lib/timetable/snapshot.json)" ]]; then
+            echo "Snapshot unchanged"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lib/timetable/snapshot.json
+          git commit -m "chore: refresh timetable snapshot"
+          git push
