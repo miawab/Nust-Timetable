@@ -42,7 +42,7 @@ export default function NowNext({ schedule, label }: NowNextProps) {
   if (!day) {
     return (
       <div className={`${panelClass} p-4`}>
-        <p className={`text-sm ${mutedClass}`}>No classes today — it&apos;s the weekend.</p>
+        <p className={`text-sm ${mutedClass}`}>Weekend</p>
       </div>
     )
   }
@@ -64,9 +64,7 @@ export default function NowNext({ schedule, label }: NowNextProps) {
   if (current.length === 0 && upcoming.length === 0) {
     return (
       <div className={`${panelClass} p-4`}>
-        <p className={`text-sm ${mutedClass}`}>
-          Nothing left today for {label}.
-        </p>
+        <p className={`text-sm ${mutedClass}`}>No more classes today</p>
       </div>
     )
   }
@@ -90,14 +88,14 @@ export default function NowNext({ schedule, label }: NowNextProps) {
             ))}
           </div>
         ) : (
-          <p className={`text-sm ${mutedClass}`}>Free right now.</p>
+          <p className={`text-sm ${mutedClass}`}>Free</p>
         )}
       </div>
 
       {upcoming.length > 0 ? (
         <div className="p-4">
           <p className={`mb-2 text-xs font-semibold uppercase tracking-wide ${faintClass}`}>
-            Next · {minutesUntil(upcomingTime, minutes)}
+            Next {minutesUntil(upcomingTime, minutes)}
           </p>
           <div className="space-y-3">
             {upcoming.map((slot, index) => (

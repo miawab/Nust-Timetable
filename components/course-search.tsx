@@ -87,40 +87,34 @@ export default function CourseSearch({ tree }: { tree: TimetableTree }) {
     <div className="space-y-6">
       <div>
         <label className={labelClass} htmlFor="course-search">
-          Search course, code or teacher
+          Search
         </label>
         <input
           id="course-search"
           type="search"
           value={query}
           onChange={(event) => setQuery(event.target.value)}
-          placeholder="e.g. EE-330, Signal, Taha"
+          placeholder="Course, code or teacher"
           className={inputClass}
         />
       </div>
 
-      {query.trim().length < 2 ? (
+      {query.trim().length < 2 ? null : groups.length === 0 ? (
         <div className={`${panelClass} p-4`}>
-          <p className={`text-sm ${mutedClass}`}>
-            Type at least two characters to search every section in the timetable.
-          </p>
-        </div>
-      ) : groups.length === 0 ? (
-        <div className={`${panelClass} p-4`}>
-          <p className={`text-sm ${mutedClass}`}>No classes match “{query.trim()}”.</p>
+          <p className={`text-sm ${mutedClass}`}>No results</p>
         </div>
       ) : (
         <>
           <p className={`text-xs ${faintClass}`}>
-            {groups.length} course{groups.length === 1 ? '' : 's'} · {totalMatches} class
+            {groups.length} course{groups.length === 1 ? '' : 's'}, {totalMatches} class
             {totalMatches === 1 ? '' : 'es'}
-            {groups.length === MAX_GROUPS ? ' (showing the first 25 — narrow the search)' : ''}
           </p>
 
           <div className="space-y-4">
             {groups.map((group) => {
-              const sections = [...new Set(group.hits.map((h) => `${h.major} ${h.year} · ${h.section}`))]
-                .sort((a, b) => compareYears(a.split('·')[0] ?? '', b.split('·')[0] ?? '') || a.localeCompare(b))
+              const sections = [
+                ...new Set(group.hits.map((h) => `${h.major} ${h.year} ${h.section}`)),
+              ].sort((a, b) => compareYears(a, b) || a.localeCompare(b))
 
               return (
                 <div key={group.key} className={panelClass}>
@@ -135,7 +129,7 @@ export default function CourseSearch({ tree }: { tree: TimetableTree }) {
                   </div>
 
                   <div className="px-4 py-3">
-                    <p className={`mb-2 text-xs ${faintClass}`}>{sections.join('  |  ')}</p>
+                    <p className={`mb-2 text-xs ${faintClass}`}>{sections.join(',  ')}</p>
 
                     <div className="space-y-1">
                       {WEEK_DAYS.map((day) => {

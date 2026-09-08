@@ -9,7 +9,7 @@ import { loadTimetable } from '@/lib/timetable/load'
 export const revalidate = 300
 
 export default async function Home() {
-  const { data, source, fetchedAt, error } = await loadTimetable()
+  const { data, source, fetchedAt } = await loadTimetable()
 
-  return <TimetableApp data={data} source={source} fetchedAt={fetchedAt} error={error} />
+  return <TimetableApp data={data} source={source} fetchedAt={fetchedAt} />
 }

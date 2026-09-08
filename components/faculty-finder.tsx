@@ -79,9 +79,7 @@ export default function FacultyFinder({ faculty }: { faculty: FacultyRecord[] })
   if (faculty.length === 0) {
     return (
       <div className={`${panelClass} p-4`}>
-        <p className={`text-sm ${mutedClass}`}>
-          The Faculty Timetable tab was not found in the sheet, so teacher lookup is unavailable.
-        </p>
+        <p className={`text-sm ${mutedClass}`}>Unavailable</p>
       </div>
     )
   }
@@ -91,14 +89,14 @@ export default function FacultyFinder({ faculty }: { faculty: FacultyRecord[] })
       <div className="grid gap-6 lg:grid-cols-2">
         <div>
           <label className={labelClass} htmlFor="faculty-search">
-            Search teacher
+            Search
           </label>
           <input
             id="faculty-search"
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="e.g. Taha"
+            placeholder="Name"
             className={inputClass}
           />
         </div>
@@ -124,17 +122,13 @@ export default function FacultyFinder({ faculty }: { faculty: FacultyRecord[] })
       </div>
 
       {!active ? (
-        <div className={`${panelClass} p-4`}>
-          <p className={`text-sm ${mutedClass}`}>
-            Pick a teacher to see their week. {names.length} teachers in the timetable.
-          </p>
-        </div>
+        <div />
       ) : (
         <div className={panelClass}>
           <div className="flex items-baseline justify-between gap-2 border-b border-gray-300 px-4 py-2 dark:border-gray-700">
             <h2 className="text-sm font-semibold text-black dark:text-white">{active}</h2>
             <span className={`text-xs ${faintClass}`}>
-              {load} class{load === 1 ? '' : 'es'} a week
+              {load} class{load === 1 ? '' : 'es'}
             </span>
           </div>
 
@@ -152,7 +146,7 @@ export default function FacultyFinder({ faculty }: { faculty: FacultyRecord[] })
                         {booking.subject}
                       </p>
                       <p className={`text-xs ${mutedClass}`}>
-                        {[booking.location, booking.batch].filter(Boolean).join(' · ')}
+                        {[booking.location, booking.batch].filter(Boolean).join(', ')}
                       </p>
                     </div>
                   ))}

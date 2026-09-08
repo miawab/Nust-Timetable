@@ -17,7 +17,7 @@ export function displayRoom(slot: ClassSlot): string {
  * conditional.
  */
 export default function ClassEntry({ slot, compact = false }: { slot: ClassSlot; compact?: boolean }) {
-  const details = [displayRoom(slot), slot.instructor].filter(Boolean).join(' · ')
+  const details = [displayRoom(slot), slot.instructor].filter(Boolean).join(', ')
 
   return (
     <div className="text-black dark:text-white">
@@ -34,7 +34,7 @@ export default function ClassEntry({ slot, compact = false }: { slot: ClassSlot;
       <p className={`text-xs ${mutedClass}`}>{details}</p>
 
       {slot.labEngineer && slot.kind === 'lab' ? (
-        <p className={`text-xs ${faintClass}`}>Lab engineer: {slot.labEngineer}</p>
+        <p className={`text-xs ${faintClass}`}>{slot.labEngineer}</p>
       ) : null}
 
       {slot.note ? <p className={`text-xs ${faintClass}`}>{slot.note}</p> : null}

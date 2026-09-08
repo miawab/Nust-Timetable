@@ -48,12 +48,10 @@ export default function TimetableDisplay({ schedule, day, ready }: TimetableDisp
     [schedule],
   )
 
-  if (!ready) {
-    return <Empty>Select department, major, year, section, and a day to view timetable.</Empty>
-  }
+  if (!ready) return null
 
   if (isWeekly) {
-    if (weeklyTimes.length === 0) return <Empty>No classes found.</Empty>
+    if (weeklyTimes.length === 0) return <Empty>No classes</Empty>
 
     return (
       <div className={`overflow-x-auto ${panelClass}`}>
@@ -107,9 +105,7 @@ export default function TimetableDisplay({ schedule, day, ready }: TimetableDisp
                             </div>
                           ))}
                         </div>
-                      ) : (
-                        <span className="text-xs text-gray-400 dark:text-gray-500">—</span>
-                      )}
+                      ) : null}
                     </td>
                   )
                 })}
@@ -121,7 +117,7 @@ export default function TimetableDisplay({ schedule, day, ready }: TimetableDisp
     )
   }
 
-  if (daySlots.length === 0) return <Empty>No classes found.</Empty>
+  if (daySlots.length === 0) return <Empty>No classes</Empty>
 
   return (
     <div className={`overflow-x-auto ${panelClass}`}>

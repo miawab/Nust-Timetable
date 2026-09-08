@@ -28,14 +28,13 @@ interface TimetableAppProps {
   data: TimetableData
   source: 'live' | 'snapshot'
   fetchedAt: string
-  error?: string
 }
 
 function keys(value: Record<string, unknown> | undefined): string[] {
   return value ? Object.keys(value) : []
 }
 
-export default function TimetableApp({ data, source, fetchedAt, error }: TimetableAppProps) {
+export default function TimetableApp({ data, source, fetchedAt }: TimetableAppProps) {
   const { tree, faculty } = data
 
   const [department, setDepartment] = useState('')
@@ -104,7 +103,7 @@ export default function TimetableApp({ data, source, fetchedAt, error }: Timetab
   }, [restored, department, departments])
 
   const sectionChosen = Boolean(department && major && year && section)
-  const sectionLabel = sectionChosen ? `${major} ${year} · Section ${section}` : ''
+  const sectionLabel = sectionChosen ? `${major} ${year} ${section}` : ''
 
   return (
     <div className="min-h-screen flex flex-col bg-white text-black dark:bg-black dark:text-white">
@@ -116,23 +115,11 @@ export default function TimetableApp({ data, source, fetchedAt, error }: Timetab
         <div className="mb-12">
           <h1 className="mb-3 text-3xl font-semibold text-black dark:text-white">NUST-view</h1>
 
-          {data.meta.semester ? (
-            <p className={`mb-6 text-xs ${faintClass}`}>
-              {data.meta.semester}
-              {source === 'snapshot' ? ' · showing last saved copy' : ''}
-            </p>
-          ) : null}
-
-          {/* Visitors get the fact, not the cause: the detailed reason is
-              operational information and stays in /api/timetable. */}
-          {error ? (
-            <div className="mb-6 border border-gray-300 p-3 text-xs dark:border-gray-700">
-              <p className="font-medium text-black dark:text-white">Showing the last saved copy</p>
-              <p className={faintClass}>
-                The live timetable sheet could not be read just now, so this may be out of date.
-              </p>
-            </div>
-          ) : null}
+          <p className={`mb-6 text-xs ${faintClass}`}>
+            {[data.meta.semester, source === 'snapshot' ? 'Saved copy' : null]
+              .filter(Boolean)
+              .join(', ')}
+          </p>
 
           <div className="mb-8 flex flex-wrap items-center gap-2">
             {VIEWS.map((entry) => (
@@ -185,8 +172,7 @@ export default function TimetableApp({ data, source, fetchedAt, error }: Timetab
         ) : null}
 
         <p className={`mt-12 text-xs ${faintClass}`}>
-          {source === 'live' ? 'Synced from the timetable sheet' : 'Saved copy'} ·{' '}
-          {new Date(fetchedAt).toLocaleString()} · {data.meta.sectionCount} sections
+          {new Date(fetchedAt).toLocaleString()}
         </p>
       </main>
 

@@ -204,11 +204,6 @@ export default function FreeRoomFinder({ tree }: { tree: TimetableTree }) {
           </span>
         </div>
 
-        <div className="mb-3">
-          <p className="text-xs font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">Beta</p>
-          <p className="text-xs text-gray-500 dark:text-gray-400">idk if this works that well. uhh just take with a grain of salt.</p>
-        </div>
-
         {timeMode === WHOLE_DAY_VALUE ? (
           wholeDayRoomAvailability.length > 0 ? (
             <div className="space-y-2">
@@ -222,7 +217,7 @@ export default function FreeRoomFinder({ tree }: { tree: TimetableTree }) {
               ))}
             </div>
           ) : (
-            <p className="text-sm text-gray-600 dark:text-gray-300">No free rooms found for the selected day.</p>
+            <p className="text-sm text-gray-600 dark:text-gray-300">No free rooms</p>
           )
         ) : availableRooms.length > 0 ? (
           <div className="grid gap-2 sm:grid-cols-2">
@@ -236,7 +231,7 @@ export default function FreeRoomFinder({ tree }: { tree: TimetableTree }) {
             ))}
           </div>
         ) : (
-          <p className="text-sm text-gray-600 dark:text-gray-300">No free rooms found for the selected filters.</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300">No free rooms</p>
         )}
       </div>
     </div>
