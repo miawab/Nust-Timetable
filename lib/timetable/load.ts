@@ -39,13 +39,13 @@ function snapshotResult(error?: string): LoadResult {
   }
 }
 
-async function readLive(): Promise<LoadResult> {
+async function readLive(fresh: boolean): Promise<LoadResult> {
   const config = readGoogleConfig()
   if (!config) {
     return snapshotResult('Google credentials are not configured; serving the committed snapshot.')
   }
 
-  const workbook = await fetchWorkbook(config)
+  const workbook = await fetchWorkbook(config, { fresh })
   const data = parseWorkbook(workbook)
 
   const floor = snapshot.meta.slotCount * COLLAPSE_RATIO
@@ -75,7 +75,7 @@ export async function loadTimetable(options: { force?: boolean } = {}): Promise<
   // Collapse concurrent misses into one upstream read.
   if (!options.force && inFlight) return inFlight
 
-  const task = readLive()
+  const task = readLive(options.force ?? false)
     .catch((error: unknown) => {
       const message = error instanceof Error ? error.message : String(error)
       return snapshotResult(message)

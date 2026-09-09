@@ -51,7 +51,6 @@ async function getAccessToken(config: GoogleConfig): Promise<string> {
       refresh_token: config.refreshToken,
       grant_type: 'refresh_token',
     }),
-    cache: 'no-store',
   })
 
   if (!response.ok) {
@@ -66,10 +65,12 @@ async function getAccessToken(config: GoogleConfig): Promise<string> {
   return data.access_token
 }
 
-async function apiGet<T>(url: string, token: string): Promise<T> {
+async function apiGet<T>(url: string, token: string, fresh: boolean): Promise<T> {
   const response = await fetch(url, {
     headers: { Authorization: `Bearer ${token}` },
-    cache: 'no-store',
+    // A no-store fetch opts the whole page out of static rendering, turning one
+    // render per 5 minutes into one per visitor. Only ?refresh=1 pays that cost.
+    ...(fresh ? { cache: 'no-store' as const } : { next: { revalidate: 300 } }),
   })
 
   if (!response.ok) {
@@ -87,12 +88,17 @@ async function apiGet<T>(url: string, token: string): Promise<T> {
  * required `drive.readonly`, which grants read access to the user's entire
  * Drive -- far more than a token sitting in a deploy environment should carry.
  */
-export async function fetchWorkbook(config: GoogleConfig): Promise<Workbook> {
+export async function fetchWorkbook(
+  config: GoogleConfig,
+  options: { fresh?: boolean } = {},
+): Promise<Workbook> {
+  const fresh = options.fresh ?? false
   const token = await getAccessToken(config)
 
   const meta = await apiGet<{ sheets?: Array<{ properties?: { title?: string } }> }>(
     `${SHEETS_API}/${config.sheetId}?fields=sheets(properties(title))`,
     token,
+    fresh,
   )
 
   const titles = (meta.sheets ?? [])
@@ -112,6 +118,7 @@ export async function fetchWorkbook(config: GoogleConfig): Promise<Workbook> {
   const values = await apiGet<{ valueRanges?: Array<{ values?: string[][] }> }>(
     `${SHEETS_API}/${config.sheetId}/values:batchGet?${params}`,
     token,
+    fresh,
   )
 
   const ranges = values.valueRanges ?? []
