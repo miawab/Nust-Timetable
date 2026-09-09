@@ -29,12 +29,13 @@ Until this is done the site serves the snapshot and labels itself "Saved copy".
 One command, then approve the Google screen it opens:
 
 ```bash
-pip install -r requirements-sync.txt
 python3 scripts/setup_vercel_env.py
 npx vercel deploy --prod
 ```
 
 It mints a refresh token and writes all four variables into Vercel over stdin.
+Needs `requests`; on Debian and Ubuntu use `apt install python3-requests`, since
+`pip install` refuses to touch a system Python (PEP 668).
 Nothing sensitive is printed, so the token stays out of your clipboard and shell
 history. Needs `client_secret.json` in the repo root and a logged-in Vercel CLI.
 

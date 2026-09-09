@@ -35,7 +35,10 @@ REDIRECT_URI = "http://127.0.0.1:8765/callback"
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 DEFAULT_SHEET_ID = "1D9JoU82HhSe1td3dXVROzDeRTDQPS5IXRYf0Yl4Y5hM"
-ENVIRONMENTS = ("production", "preview", "development")
+
+# Production only. `vercel env add <name> preview` asks which git branch to scope
+# the variable to, and that prompt has no stdin left once the value is piped in.
+ENVIRONMENTS = ("production",)
 
 
 class OAuthCallbackHandler(BaseHTTPRequestHandler):
@@ -161,8 +164,10 @@ def set_env(name: str, value: str, project: "str | None") -> None:
         )
 
         if done.returncode != 0:
-            # stderr can echo the value back, so report only the variable name.
-            raise RuntimeError(f"vercel env add failed for {name} ({environment})")
+            # Surface the CLI's reason, but scrub the value in case it echoes back.
+            detail = f"{done.stderr}\n{done.stdout}".strip().replace(value, "<redacted>")
+            tail = " ".join(detail.split())[-300:]
+            raise RuntimeError(f"vercel env add failed for {name} ({environment}): {tail}")
 
     print(f"  set {name}")
 
@@ -174,13 +179,20 @@ def main() -> int:
     args = parser.parse_args()
 
     client_id, client_secret = load_client_credentials()
-    refresh_token = obtain_refresh_token(client_id, client_secret)
 
-    print("\nWriting credentials to Vercel...")
+    # Write everything obtainable without consent first. Google only issues a
+    # refresh token once per consent, so proving the Vercel writes work before
+    # opening the browser means a failure here never wastes an approval.
+    print("Writing the values that need no sign-in...")
+    set_env("GOOGLE_SHEET_ID", args.sheet_id, args.project)
     set_env("GOOGLE_CLIENT_ID", client_id, args.project)
     set_env("GOOGLE_CLIENT_SECRET", client_secret, args.project)
+
+    print()
+    refresh_token = obtain_refresh_token(client_id, client_secret)
+
+    print("\nWriting the refresh token...")
     set_env("GOOGLE_REFRESH_TOKEN", refresh_token, args.project)
-    set_env("GOOGLE_SHEET_ID", args.sheet_id, args.project)
 
     print("\nDone. Deploy to pick them up:")
     print("  npx vercel deploy --prod")
