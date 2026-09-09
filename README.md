@@ -25,30 +25,31 @@ fails. `.github/workflows/refresh-snapshot.yml` refreshes it weekly.
 
 ### Turning on live sync
 
-Until these four variables are set, the site serves the snapshot and shows a
-"showing the last saved copy" notice. Set them once:
-
-```bash
-vercel env add GOOGLE_CLIENT_ID production
-vercel env add GOOGLE_CLIENT_SECRET production
-vercel env add GOOGLE_REFRESH_TOKEN production
-vercel env add GOOGLE_SHEET_ID production
-```
-
-The same four values already exist as GitHub Actions secrets on this repo. If
-you no longer have the refresh token, mint a new one:
+Until this is done the site serves the snapshot and labels itself "Saved copy".
+One command, then approve the Google screen it opens:
 
 ```bash
 pip install -r requirements-sync.txt
-python3 scripts/google_oauth_get_refresh_token.py   # needs client_secret.json
+python3 scripts/setup_vercel_env.py
+npx vercel deploy --prod
 ```
 
-`GOOGLE_SHEET_ID` is the id in the sheet URL, between `/d/` and `/edit`.
+It mints a refresh token and writes all four variables into Vercel over stdin.
+Nothing sensitive is printed, so the token stays out of your clipboard and shell
+history. Needs `client_secret.json` in the repo root and a logged-in Vercel CLI.
 
-> The OAuth flow now requests `spreadsheets.readonly` only. The previous sync
-> used a Drive export, which required `drive.readonly` — a token that could read
-> every file in the account. A token minted before this change still works, but
-> re-minting narrows what a leak would expose.
+Confirm it worked:
+
+```bash
+curl -s https://nustview.vercel.app/api/timetable | head -c 120   # "source":"live"
+```
+
+The variables, if you ever set them by hand: `GOOGLE_CLIENT_ID`,
+`GOOGLE_CLIENT_SECRET`, `GOOGLE_REFRESH_TOKEN`, `GOOGLE_SHEET_ID`.
+
+> The consent flow requests `spreadsheets.readonly` only. The previous sync used
+> a Drive export, which required `drive.readonly`: a token that could read every
+> file in the account. Re-running this narrows what a leak would expose.
 
 ## Working on the parser
 
